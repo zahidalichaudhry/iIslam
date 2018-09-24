@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">iIslam</string>
+    <string name="kalimatayabarbi">لآ اِلَهَ اِلّا اللّهُ مُحَمَّدٌ رَسُوُلُ اللّهِ</string>
+    <string name="kalimatayabenglish">There is no God but Allah Muhammad is the Messenger of Allah</string>
+    <string name="kalimaShahaadatarbi">اَشْهَدُ اَنْ لَّآ اِلٰهَ اِلَّا اللہُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ وَ اَشْهَدُ اَنَّ مُحَمَّدً اعَبْدُهٗ وَرَسُوْلُهِٗ</string>
+    <string name="kalimaShahaadatenglish">I bear witness that (there is) no god except Allah; One is He, no partner hath He,
+        and I bear witness that Muhammad (Sall-Allahu Alayhi wa Sallam) is His Servant and Messenger.</string>
+    <string name="kalimaTumjeedearbi">سُبْحَانَ اللهِ وَ الْحَمْدُ لِلّهِ وَ لآ اِلهَ اِلّا اللّهُ وَ اللّهُ اَكْبَرُ وَلا حَوْلَ وَلاَ قُوَّة ِ الَّا بِاللّهِ الْعَلِىّ الْعَظِيْمِ</string>
+    <string name="kalimaTumjeedenglish">Flawless is Allah and the Praise is of Allah, and (there is) no god except Allah,
+        and Allah is the Greatest. And (there is) neither might nor power except with Allah, the Sublime, the Tremendous.ِ</string>
+    <string name="kalimaTauhidarbi">لَآ اِلٰهَ اِلَّا اللهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ لَهُ الْمُلْكُ وَ لَهُ الْحَمْدُ يُحْىٖ وَ يُمِيْتُ وَ هُوَحَیٌّ لَّا
+        يَمُوْتُ اَبَدًا اَبَدًاؕ ذُو الْجَلَالِ وَالْاِكْرَامِؕ بِيَدِهِ الْخَيْرُؕ وَهُوَ عَلٰى كُلِّ شیْ ٍٔ قَدِیْرٌِؕ</string>
+    <string name="kalimaTauhidenglish">(There is) no god except Allah - One is He, no partners hath He.
+        His is the Dominion, and His is the Praise. He gives life and causes death, and He is Living,
+        who will not die, never. He of Majesty and Munificence. Within His Hand is (all) good. And He is, upon everything,
+        Able (to exert His Will).</string>
+    <string name="kalimaIstaghfararbi">اَسْتَغْفِرُ اللهَ رَبِّىْ مِنْ كُلِّ ذَنْۢبٍ اَذْنَبْتُهٗ عَمَدًا اَوْ خَطَا ًٔ سِرًّا اَوْ عَلَانِيَةً وَّاَتُوْبُ اِلَيْهِ مِنَ الذَّنْۢبِ الَّذِیْٓ اَعْلَمُ وَ مِنَ الذَّنْۢبِ الَّذِىْ لَآ اَعْلَمُ اِنَّكَ اَنْتَ عَلَّامُ الْغُيُوْبِ وَ سَتَّارُ الْعُيُوْبِ و َغَفَّارُ الذُّنُوْبِ وَ لَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللهِ الْعَلِىِّ الْعَظِيْمِِؕ</string>
+    <string name="kalimaIstaghfarenglish">"I seek forgiveness from Allah, my Lord, from every sin I committed knowingly or unknowingly, secretly or openly, and I turn towards Him from the sin that I know and from the sin that I do not know. Certainly You, You (are) the knower of the hidden things and the Concealer (of) the mistakes and the Forgiver (of) the sins. And (there is) no power and no strength except from Allah, the Most High, the Most Great".</string>
+    <string name="kalimaRudarbi">اَللّٰهُمَّ اِنِّیْٓ اَعُوْذُ بِكَ مِنْ اَنْ اُشْرِكَ بِكَ شَيْئًا وَّاَنَآ اَعْلَمُ بِهٖ وَ اَسْتَغْفِرُكَ لِمَا لَآ اَعْلَمُ بِهٖ تُبْتُ عَنْهُ وَ تَبَرَّأْتُ مِنَ الْكُفْرِ وَ الشِّرْكِ وَ الْكِذْبِ وَ الْغِيْبَةِ وَ الْبِدْعَةِ وَ النَّمِيْمَةِ وَ الْفَوَاحِشِ وَ الْبُهْتَانِ وَ الْمَعَاصِىْ كُلِّهَا وَ اَسْلَمْتُ وَ اَقُوْلُ لَآ اِلٰهَ اِلَّا اللهُ مُحَمَّدٌ رَّسُوْلُ اللهِؕ</string>
+    <string name="kalimaRudenglish">O Allah! I seek protection in You from that I should not join any partner with You and I have knowledge of it. I seek Your forgiveness from that which I do not know. I repent from it (ignorance) and I reject disbelief (kufr) and joining partners with You (shirk) and of falsehood and slandering (gheebat) and innovation in religion and tell-tales (nameemat) and bad, evil deeds (fawahish) and the blame and the disobedience, all of them. I submit to Your will and I believe and I declare: There is none worthy of worship except Allah and Muhammad( Peace Be Upon On Him) is His Messenger.</string>
+    <string name="kalimatayaburdu">اللہ تعالیٰ کے سوا کوئی معبود نہیں اور محمد صلی اللہ علیہ وسلم اللہ کے(آخری) رسول ہیںِ</string>
+    <string name="kalimaShahaadatudrdu">میں گواہی دیتا ہوں کہ اللہ تعالیٰ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں اور میں گواہی دیتا ہوں کہ محمد صلی اللہ علیہ وسلم اس کے بندے اور رسول ہیں</string>
+    <string name="kalimaTumjeedurdu">اک ہے اللہ تعالیٰ اور تما تعریفیں اللہ کے لیےہیں اور اللہ کے سوا کوئی معبود نہیں، اللہ سب سے بڑا ہے اور گناہوں سے بچنے کی طاقت نیک کام کرنے کی قوت اللہ ہی کی طرف سے ہے جو عالی شان عظمت والا ہے</string>
+    <string name="kalimaTauhidurdu">اللہ کے سوا کوئی معبود نہیں وہ اکیلا ہے اس کا کوئی شریک نہیںاس کی بادشاہی ہے اسی کے لیے تمام تعریفیں ہیں وہ ہی زندگی اور موت دیتا ہے اور ہمیشہ ہمیشہ کے لیے زندہ ہے اسے موت نہیں، عظمت و بزرگی والا ہے،خیر و برکت اسی کے ہاتھ میں ہے اور وہ ہر شے پر قادر ہےِ</string>
+    <string name="kalimaRudurdu">میں اللہ کی پناہ مانگتا ہوں کہ میں کسی شے کو اس کا شریک ٹھراوں اور مجھے اس کا علم ہو اور میں معافی مانگتا ہوں اس گناہ سے جو مجھے معلوم نہیں میں نے اس سے توبہ کی اور بیزار ہوا کفر سے، شرک سے، جھوٹ سے ،غیبت سے ، بدعت سے ، چغلی سے ، نے حیائی کے کاموں سے اور تہمت لگانے سے اور باقی ہر قسم کی نافرمانیوں سے اور میں تسلیم کرتا ہوں کہ اللہ کے سوا کوئی معبود نہیں اور حضرت محمد صلی اللہ علیہ وسلم اللہ کے رسول ہیں</string>
+
 </resources>

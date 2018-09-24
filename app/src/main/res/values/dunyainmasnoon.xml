@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Aytalkursiarbi">اللهُ لاَ إِلَهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلاَّ بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالأَرْضَ وَلاَ يَئُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ</string>
+    <string name="qanootarbi">للَّهُمَّ إنا نَسْتَعِينُكَ وَنَسْتَغْفِرُكَ وَنُؤْمِنُ بِكَ وَنَتَوَكَّلُ عَلَيْكَ وَنُثْنِئْ عَلَيْكَ الخَيْرَ وَنَشْكُرُكَ وَلَا نَكْفُرُكَ وَنَخْلَعُ وَنَتْرُكُ مَنْ ئَّفْجُرُكَاَللَّهُمَّ إِيَّاكَ نَعْبُدُ وَلَكَ نُصَلِّئ وَنَسْجُدُ وَإِلَيْكَ نَسْعأئ وَنَحْفِدُ وَنَرْجُو رَحْمَتَكَ وَنَخْشآئ عَذَابَكَ إِنَّ عَذَابَكَ بِالكُفَّارِ مُلْحَقٌ
+
+    </string>
+    <string name="masjidentryarbi">اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ</string>
+    <string name="masjidentryurdu">اے اللہ میرے لیے اپنی رحمت کے دروازے کھول دےَ</string>
+    <string name="masjidentryreflink">https://sunnah.com/ibnmajah/4/37</string>
+    <string name="masjidentryref">Reference	 : Sunan Ibn Majah 771
+In-book reference	 : Book 4, Hadith 37
+English translation	 : Vol. 1, Book 4, Hadith 771</string>
+
+    <string name="masjidexitarbi">اللهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ</string>
+    <string name="masjidexiturdu">اے اللہ ! میں تجھ سے تیرے فضل کا سوال کرتا ہوںَ</string>
+    <string name="masjidexitreflink">https://sunnah.com/nasai/8/42</string>
+    <string name="masjidexitref">Reference	 : Sunan an-Nasai 729
+In-book reference	 : Book 8, Hadith 42
+English translation	 : Vol. 1, Book 8, Hadith 730</string>
+
+    <string name="aftervazoarbi">أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهَُ</string>
+    <string name="aftervazourdu">یں گواہی دیتاہوں کہ اللہ کے سوا کوئی معبود نہیں ہے ،وہ تنہا ہے اس کو کوئی شریک نہیں ہے ،اور میں گواہی دیتا ہوں کہ محمد ﷺ اللہ کے بندے اور اس کے رسول ہیںَ</string>
+    <string name="aftervazoreflink">https://sunnah.com/tirmidhi/1/55</string>
+    <string name="aftervazoref">Reference	 : Jami` at-Tirmidhi 55
+In-book reference	 : Book 1, Hadith 55
+English translation	 : Vol. 1, Book 1, Hadith 55</string>
+
+    <string name="afterAzanarbi">اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلاَةِ القَائِمَةِ آتِ مُحَمَّدًا الوَسِيلَةَ وَالفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهَُُ</string>
+    <string name="afterAzanurdu">اے اللہ جو اس مکمل دعا اور قائم ہونے والی نماز کا مالک ہے ، حضرت محمد ﷺ کو وسیلہ اور فضیلت عطا فرما ، اور ان کو مقام محمود پر فائز فرما جس کا آپ نے ان سے وعدہ فرمایاہےَ</string>
+    <string name="afterAzanreflink">https://sunnah.com/riyadussaliheen/9/49</string>
+    <string name="afterAzanref">Riyad as-Salihin » The Book of Virtues » Hadith
+Sunnah.com reference	 : Book 9, Hadith 49
+Arabic/English book reference	 : Book 9, Hadith 1039</string>
+
+    <string name="beforesleeparbi">اللَّهُمَّ بِاسْمِكَ أَمُوتُ وَأَحْيَاَُُ</string>
+    <string name="beforesleepurdu">اے اللہ میں تیرا نام لے کر مرتااور جیتا ہوںَ</string>
+    <string name="beforesleepreflink">https://sunnah.com/bukhari/97/23</string>
+    <string name="beforesleepref">Reference	 : Sahih al-Bukhari 7394
+In-book reference	 : Book 97, Hadith 23
+USC-MSA web (English) reference	 : Vol. 9, Book 93, Hadith 491
+  (deprecated numbering scheme)</string>
+
+
+    <string name="aftersleeparbi">الحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورَُُُ</string>
+    <string name="aftersleepurdu">تمام تعریفیں اس اللہ کے لیے ہیں جس نے ہمیں موت کے بعد زندگی بخشی اور اسی کی طرف اٹھ کر جاناہےَ</string>
+    <string name="aftersleepreflink">https://sunnah.com/bukhari/97/23</string>
+    <string name="aftersleepref">Reference	 : Sahih al-Bukhari 7394
+In-book reference	 : Book 97, Hadith 23
+USC-MSA web (English) reference	 : Vol. 9, Book 93, Hadith 491
+  (deprecated numbering scheme)</string>
+
+    <string name="afraidsleeparbi">أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ غَضَبِهِ وَعِقَابِهِ، وَشَرِّ عِبَادِهِ، وَمِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَنْ يَحْضُرُونُُِ</string>
+    <string name="afraidsleepurdu">میں اللہ کے کامل کلمات کے ذریعے اس کے غضب اور اس کے عذاب اور اس کے بندوں کے شر سے اور شیاطین کے وسوسوں سے اور ان کے میرے پاس آنے سے (اللہ کی )پناہ چاہتا ہوںَ</string>
+    <string name="afraidsleepreflink">https://sunnah.com/urn/517210</string>
+    <string name="afraidsleepref">Muwatta Malik » Hair - كتاب الشعر » Hadith
+
+USC-MSA web (English) reference	 : Book 51, Hadith 9
+Arabic reference	 : Book 51, Hadith 174</string>
+
+    <string name="aftereatingarbi">الحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِينَُُِ</string>
+    <string name="aftereatingurdu">تمام تعریفیں اس اللہ کے لیے ہیں ، جس نے ہمیں کھلایا ، پلایااور ہمیں مسلمان بنایَ</string>
+    <string name="aftereatingreflink">https://sunnah.com/tirmidhi/48/88</string>
+    <string name="aftereatingref">Reference	 : Jami` at-Tirmidhi 3457
+In-book reference	 : Book 48, Hadith 88
+English translation	 : Vol. 6, Book 45, Hadith 3457</string>
+
+    <string name="forprovidfoodarbi">اللهُمَّ، بَارِكْ لَهُمْ فِي مَا رَزَقْتَهُمْ، وَاغْفِرْ لَهُمْ وَارْحَمْهُمَُُِْ</string>
+    <string name="forprovidfoodurdu">اے اللہ ! ان کے رزق میں برکت عطا فرما اور ان کو بخش دے اور ان پر رحم فرماَ</string>
+    <string name="forprovidfoodreflink">https://sunnah.com/muslim/36/202</string>
+    <string name="forprovidfoodref">Reference	 : Sahih Muslim 2042 a
+In-book reference	 : Book 36, Hadith 202
+USC-MSA web (English) reference	 : Book 23, Hadith 5070
+  (deprecated numbering scheme)</string>
+
+
+    <string name="drinkmilkarbi">اللَّهُمَّ بَارِكْ لَنَا فِيهِ وَزِدْنَا مِنْهَُُُِْ</string>
+    <string name="drinkmilkurdu">اے اللہ ! ہمیں اس میں برکت عطا فرما اور ہمیں اور زیادہ دےَ</string>
+    <string name="drinkmilkreflink">https://sunnah.com/abudawud/27/62</string>
+    <string name="drinkmilkref">Grade	: Hasan (Al-Albani)	  حسن   (الألباني)	حكم     :
+Reference	 : Sunan Abi Dawud 3730
+In-book reference	 : Book 27, Hadith 62
+English translation	 : Book 26, Hadith 3721</string>
+
+    <string name="travelarbi">سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا، وَمَا كُنَّا لَهُ مُقْرِنِينَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونََُُُِْ</string>
+    <string name="travelurdu">پاک ہے وہ ذات جس نے اس سواری کو ہمارے لیے مسخرکردیا(اسے ہمارے قبضے میں دے دیا)اور ہم (اس کی قدرت کے بغیر )اس کو قابومیں لانے والے نہ تھے ، اور بلاشبہ ہم کو اپنے رب کی طرف ضرور لوٹناہےَ</string>
+    <string name="travelreflink">https://sunnah.com/abudawud/27/62</string>
+    <string name="travelref">Grade	: Hasan (Al-Albani)	  حسن   (الألباني)	حكم     :
+Reference	 : Sunan Abi Dawud 3730
+In-book reference	 : Book 27, Hadith 62
+English translation	 : Book 26, Hadith 3721</string>
+
+
+</resources>
