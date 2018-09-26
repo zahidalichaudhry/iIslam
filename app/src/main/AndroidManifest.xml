@@ -9,14 +9,19 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Register_Signin_Activity">
+        <activity android:name=".Activities.Register_Signin_Activity">
+
+        </activity>
+        <activity android:name=".Activities.ContentActivity" />
+        <activity android:name=".Activities.Splash" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ContentActivity"></activity>
+        <activity android:name=".Activities.Kalimas" />
+        <activity android:name=".Activities.DetailsKalima"></activity>
     </application>
 
 </manifest>

@@ -1,15 +1,15 @@
-package com.itpvt.iislam;
+package com.itpvt.iislam.Activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.widget.TextView;
 
-public class ContentActivity extends AppCompatActivity {
+import com.itpvt.iislam.R;
+
+public class Register_Signin_Activity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_content);
-
+        setContentView(R.layout.activity_register__signin_);
     }
 }

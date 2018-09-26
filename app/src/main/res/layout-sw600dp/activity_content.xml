@@ -10,8 +10,8 @@
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
+        android:layout_width="782dp"
+        android:layout_height="1086dp"
         android:src="@drawable/back2a"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -21,11 +21,12 @@
 
     <ImageView
         android:id="@+id/imageView3"
-        android:layout_width="338dp"
-        android:layout_height="35dp"
-        android:layout_marginTop="92dp"
+        android:layout_width="0dp"
+        android:layout_height="64dp"
+        android:layout_marginTop="148dp"
         android:src="@drawable/bismillah"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -54,8 +55,8 @@
 
                 <ImageView
                     android:id="@+id/imageView15"
-                    android:layout_width="110dp"
-                    android:layout_height="110dp"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
                     android:src="@drawable/ic5" />
 
                 <TextView
@@ -65,12 +66,11 @@
                     android:gravity="center"
                     android:text="Kalimas"
                     android:textColor="@color/black"
-                    android:textSize="18sp" />
+                    android:textSize="22dp" />
 
             </LinearLayout>
 
             <LinearLayout
-                android:id="@+id/namaz"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20dp"
@@ -78,17 +78,17 @@
 
                 <ImageView
                     android:id="@+id/imageView16"
-                    android:layout_width="110dp"
-                    android:layout_height="110dp"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
                     android:src="@drawable/ic6" />
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:text="Namaz"
+                    android:textSize="22dp"
                     android:textColor="@color/black"
-                    android:textSize="18sp" />
+                    android:text="Namaz" />
             </LinearLayout>
 
         </LinearLayout>
@@ -97,10 +97,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="10dp"
             android:orientation="horizontal">
 
             <LinearLayout
+                android:id="@+id/dua"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginRight="20dp"
@@ -108,22 +109,22 @@
 
                 <ImageView
                     android:id="@+id/imageView14"
-                    android:layout_width="110dp"
-                    android:layout_height="100dp"
-                    android:src="@drawable/ic4" />
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:src="@drawable/ic4"
+                    android:textColor="@color/black" />
 
                 <TextView
                     android:id="@+id/textView3"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:textSize="18sp"
+                    android:text="Dua"
                     android:textColor="@color/black"
-                    android:text="Dua" />
+                    android:textSize="22dp" />
             </LinearLayout>
 
             <LinearLayout
-                android:id="@+id/rawayat"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20dp"
@@ -131,8 +132,8 @@
 
                 <ImageView
                     android:id="@+id/imageView13"
-                    android:layout_width="110dp"
-                    android:layout_height="110dp"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
 
                     android:src="@drawable/ic3" />
 
@@ -141,9 +142,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:text="Rewayat"
+                    android:textSize="22dp"
                     android:textColor="@color/black"
-                    android:textSize="18sp" />
+                    android:text="Rewayat" />
             </LinearLayout>
 
         </LinearLayout>
@@ -152,7 +153,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="10dp"
             android:orientation="horizontal">
 
             <LinearLayout
@@ -164,8 +165,8 @@
 
                 <ImageView
                     android:id="@+id/imageView11"
-                    android:layout_width="110dp"
-                    android:layout_height="110dp"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
 
                     android:src="@drawable/ic1" />
 
@@ -176,11 +177,10 @@
                     android:gravity="center"
                     android:text="Pakeezgi"
                     android:textColor="@color/black"
-                    android:textSize="18sp" />
+                    android:textSize="22dp" />
             </LinearLayout>
 
             <LinearLayout
-                android:id="@+id/bait"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20dp"
@@ -188,8 +188,8 @@
 
                 <ImageView
                     android:id="@+id/imageView12"
-                    android:layout_width="110dp"
-                    android:layout_height="110dp"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
                     android:src="@drawable/ic2" />
 
                 <TextView
@@ -197,9 +197,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:text="Ahlebait"
+                    android:textSize="22dp"
                     android:textColor="@color/black"
-                    android:textSize="18sp" />
+                    android:text="Ahlebait" />
             </LinearLayout>
 
         </LinearLayout>
