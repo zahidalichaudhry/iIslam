@@ -4,13 +4,13 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:background="@color/iislammustard"
+    android:background="@color/transparent"
     android:layout_height="wrap_content">
 
     <TextView
         android:id="@+id/arbi"
         android:layout_width="0dp"
-        android:layout_height="34dp"
+        android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginLeft="8dp"
@@ -63,7 +63,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="5dp"
+        android:layout_height="2dp"
         android:background="@color/black"
         android:orientation="vertical"
         app:layout_constraintEnd_toEndOf="parent"

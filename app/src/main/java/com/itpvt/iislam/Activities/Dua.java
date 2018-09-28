@@ -31,6 +31,13 @@ public class Dua extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        masnoon.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent =new Intent(Dua.this,Masnoon_dua_list.class);
+                startActivity(intent);
+            }
+        });
 
 
     }

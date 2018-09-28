@@ -70,7 +70,7 @@
             </LinearLayout>
 
             <LinearLayout
-                android:id="@+id/namaz"
+                android:id="@+id/dua"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20dp"
@@ -86,7 +86,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:text="Namaz"
+                    android:text="Dua"
                     android:textColor="@color/black"
                     android:textSize="18sp" />
             </LinearLayout>
@@ -104,7 +104,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginRight="20dp"
-                android:id="@+id/dua"
+                android:id="@+id/namaz"
                 android:orientation="vertical">
 
                 <ImageView
@@ -120,7 +120,7 @@
                     android:gravity="center"
                     android:textSize="18sp"
                     android:textColor="@color/black"
-                    android:text="Dua" />
+                    android:text="Namaz" />
             </LinearLayout>
 
             <LinearLayout

@@ -21,7 +21,9 @@
         <activity android:name=".Activities.Kalimas" />
         <activity android:name=".Activities.DetailsKalima" />
         <activity android:name=".Activities.Dua" />
-        <activity android:name=".Activities.QuranDua"></activity>
+        <activity android:name=".Activities.QuranDua" />
+        <activity android:name=".Activities.Masnoon_dua_list" />
+        <activity android:name=".Activities.MasnoonDuaDetails"></activity>
     </application>
 
 </manifest>
