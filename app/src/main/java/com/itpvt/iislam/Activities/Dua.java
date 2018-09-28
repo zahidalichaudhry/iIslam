@@ -11,30 +11,27 @@ import android.widget.TextView;
 
 import com.itpvt.iislam.R;
 
-public class ContentActivity extends AppCompatActivity {
-    LinearLayout kalima,dua;
+public class Dua extends AppCompatActivity {
+
+    TextView qurani,masnoon,azkar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         this.requestWindowFeature(Window.FEATURE_NO_TITLE);
         this.getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
-        setContentView(R.layout.activity_content);
-        kalima=(LinearLayout)findViewById(R.id.kalima);
-        kalima.setOnClickListener(new View.OnClickListener() {
+        setContentView(R.layout.activity_dua);
+        qurani=(TextView)findViewById(R.id.qurani);
+        masnoon=(TextView)findViewById(R.id.masnoon);
+        azkar=(TextView)findViewById(R.id.azkar);
+        qurani.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent =new Intent(ContentActivity.this,Kalimas.class);
+                Intent intent =new Intent(Dua.this,QuranDua.class);
                 startActivity(intent);
             }
         });
-        dua=(LinearLayout)findViewById(R.id.dua);
-        dua.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent intent =new Intent(ContentActivity.this,Dua.class);
-                startActivity(intent);
-            }
-        });
+
+
     }
 }

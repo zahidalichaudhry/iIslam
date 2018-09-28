@@ -14,7 +14,7 @@
     <color name="base">#b9b9b9</color>
     <color name="iron">#cccccc</color>
     <color name="greyshade">#DFDFDF</color>
-    <color name="transparent">#00000000</color>
+    <color name="transparent">#00ffffff</color>
     <color name="default_green">#aed60d</color>
     <color name="backgroundcolor">#efefef</color>
     <color name="warning">#FFCC00</color>
