@@ -5,14 +5,16 @@ public class MasnoonDuaPoji
     private  String Title;
     private String Arbi;
     private String Urdu;
+    private String English;
     private String refrence;
     private String refrenceLink;
 
-    public MasnoonDuaPoji(String Title,String arbi, String urdu, String refrence, String refrenceLink)
+    public MasnoonDuaPoji(String Title,String arbi, String urdu,String English, String refrence, String refrenceLink)
     {
         this.Title=Title;
         this.Arbi = arbi;
         this.Urdu = urdu;
+        this.English=English;
         this.refrence = refrence;
         this.refrenceLink = refrenceLink;
     }
@@ -27,6 +29,14 @@ public class MasnoonDuaPoji
 
     public String getArbi() {
         return Arbi;
+    }
+
+    public String getEnglish() {
+        return English;
+    }
+
+    public void setEnglish(String english) {
+        English = english;
     }
 
     public void setArbi(String arbi) {

@@ -4,9 +4,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/icon"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/icon"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".Activities.Register_Signin_Activity" />
@@ -23,7 +23,10 @@
         <activity android:name=".Activities.Dua" />
         <activity android:name=".Activities.QuranDua" />
         <activity android:name=".Activities.Masnoon_dua_list" />
-        <activity android:name=".Activities.MasnoonDuaDetails"></activity>
+        <activity android:name=".Activities.MasnoonDuaDetails" />
+        <activity android:name=".Activities.Pakizgi" />
+        <activity android:name=".Activities.wazaif" />
+        <activity android:name=".Activities.Namaz"></activity>
     </application>
 
 </manifest>

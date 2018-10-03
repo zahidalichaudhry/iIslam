@@ -38,7 +38,13 @@ public class Dua extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-
+        azkar.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent =new Intent(Dua.this,wazaif.class);
+                startActivity(intent);
+            }
+        });
 
     }
 }

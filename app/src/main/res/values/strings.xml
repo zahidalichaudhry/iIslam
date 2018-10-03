@@ -34,98 +34,98 @@
     <string name="masjidentryarbi">اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ</string>
     <string name="masjidentryurdu">اے اللہ میرے لیے اپنی رحمت کے دروازے کھول دےَ</string>
     <string name="masjidentryreflink">https://sunnah.com/ibnmajah/4/37</string>
-    <string name="masjidentryref">Reference	 : Sunan Ibn Majah 771
-In-book reference	 : Book 4, Hadith 37
-English translation	 : Vol. 1, Book 4, Hadith 771</string>
+    <string name="masjidentryref"><u>Reference	 : Sunan Ibn Majah 771
+\nIn-book reference	 : Book 4, Hadith 37
+        \nEnglish translation	 : Vol. 1, Book 4, Hadith 771</u></string>
 
     <string name="masjidexitTitle">Masjid Se Nikalne Duaَ</string>
     <string name="masjidexitarbi">اللهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ</string>
     <string name="masjidexiturdu">اے اللہ ! میں تجھ سے تیرے فضل کا سوال کرتا ہوںَ</string>
     <string name="masjidexitreflink">https://sunnah.com/nasai/8/42</string>
-    <string name="masjidexitref">Reference	 : Sunan an-Nasai 729
-In-book reference	 : Book 8, Hadith 42
-English translation	 : Vol. 1, Book 8, Hadith 730</string>
+    <string name="masjidexitref"><u>Reference	 : Sunan an-Nasai 729
+\nIn-book reference	 : Book 8, Hadith 42
+        \nEnglish translation	 : Vol. 1, Book 8, Hadith 730</u></string>
 
     <string name="aftervazoTitle">Wazu kay Badَُ</string>
     <string name="aftervazoarbi">أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهَُ</string>
     <string name="aftervazourdu">یں گواہی دیتاہوں کہ اللہ کے سوا کوئی معبود نہیں ہے ،وہ تنہا ہے اس کو کوئی شریک نہیں ہے ،اور میں گواہی دیتا ہوں کہ محمد ﷺ اللہ کے بندے اور اس کے رسول ہیںَ</string>
     <string name="aftervazoreflink">https://sunnah.com/tirmidhi/1/55</string>
-    <string name="aftervazoref">Reference	 : Jami` at-Tirmidhi 55
-In-book reference	 : Book 1, Hadith 55
-English translation	 : Vol. 1, Book 1, Hadith 55</string>
+    <string name="aftervazoref"><u>Reference	 : Jami` at-Tirmidhi 55
+\nIn-book reference	 : Book 1, Hadith 55
+        \nEnglish translation	 : Vol. 1, Book 1, Hadith 55</u></string>
 
     <string name="afterAzanTitle">Azan Kay Badَُُ</string>
     <string name="afterAzanarbi">اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلاَةِ القَائِمَةِ آتِ مُحَمَّدًا الوَسِيلَةَ وَالفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهَُُ</string>
     <string name="afterAzanurdu">اے اللہ جو اس مکمل دعا اور قائم ہونے والی نماز کا مالک ہے ، حضرت محمد ﷺ کو وسیلہ اور فضیلت عطا فرما ، اور ان کو مقام محمود پر فائز فرما جس کا آپ نے ان سے وعدہ فرمایاہےَ</string>
     <string name="afterAzanreflink">https://sunnah.com/riyadussaliheen/9/49</string>
-    <string name="afterAzanref">Riyad as-Salihin » The Book of Virtues » Hadith
-Sunnah.com reference	 : Book 9, Hadith 49
-Arabic/English book reference	 : Book 9, Hadith 1039</string>
+    <string name="afterAzanref"><u>Riyad as-Salihin » The Book of Virtues » Hadith
+\nSunnah.com reference	 : Book 9, Hadith 49
+        \nArabic/English book reference	 : Book 9, Hadith 1039</u></string>
 
 
     <string name="beforesleepTitle">Sone se Pehleَُُ</string>
     <string name="beforesleeparbi">اللَّهُمَّ بِاسْمِكَ أَمُوتُ وَأَحْيَاَُُ</string>
     <string name="beforesleepurdu">اے اللہ میں تیرا نام لے کر مرتااور جیتا ہوںَ</string>
     <string name="beforesleepreflink">https://sunnah.com/bukhari/97/23</string>
-    <string name="beforesleepref">Reference	 : Sahih al-Bukhari 7394
-In-book reference	 : Book 97, Hadith 23
-USC-MSA web (English) reference	 : Vol. 9, Book 93, Hadith 491
-  (deprecated numbering scheme)</string>
+    <string name="beforesleepref"><u>Reference	 : Sahih al-Bukhari 7394
+\nIn-book reference	 : Book 97, Hadith 23
+\nUSC-MSA web (English) reference	 : Vol. 9, Book 93, Hadith 491
+        \n(deprecated numbering scheme)</u></string>
 
 
     <string name="aftersleepTitle">Sone Kay Bad</string>
     <string name="aftersleeparbi">الحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورَُُُ</string>
     <string name="aftersleepurdu">تمام تعریفیں اس اللہ کے لیے ہیں جس نے ہمیں موت کے بعد زندگی بخشی اور اسی کی طرف اٹھ کر جاناہےَ</string>
     <string name="aftersleepreflink">https://sunnah.com/bukhari/97/23</string>
-    <string name="aftersleepref">Reference	 : Sahih al-Bukhari 7394
-In-book reference	 : Book 97, Hadith 23
-USC-MSA web (English) reference	 : Vol. 9, Book 93, Hadith 491
-  (deprecated numbering scheme)</string>
+    <string name="aftersleepref"><u>Reference	 : Sahih al-Bukhari 7394
+\nIn-book reference	 : Book 97, Hadith 23
+\nUSC-MSA web (English) reference	 : Vol. 9, Book 93, Hadith 491
+        \n(deprecated numbering scheme)</u></string>
 
     <string name="afraidsleepTitle">Sone Main Danreُُِ</string>
     <string name="afraidsleeparbi">أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ غَضَبِهِ وَعِقَابِهِ، وَشَرِّ عِبَادِهِ، وَمِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَنْ يَحْضُرُونُُِ</string>
     <string name="afraidsleepurdu">میں اللہ کے کامل کلمات کے ذریعے اس کے غضب اور اس کے عذاب اور اس کے بندوں کے شر سے اور شیاطین کے وسوسوں سے اور ان کے میرے پاس آنے سے (اللہ کی )پناہ چاہتا ہوںَ</string>
     <string name="afraidsleepreflink">https://sunnah.com/urn/517210</string>
-    <string name="afraidsleepref">Muwatta Malik » Hair - كتاب الشعر » Hadith
+    <string name="afraidsleepref"><u>Muwatta Malik » Hair - كتاب الشعر » Hadith
 
-USC-MSA web (English) reference	 : Book 51, Hadith 9
-Arabic reference	 : Book 51, Hadith 174</string>
+\nUSC-MSA web (English) reference	 : Book 51, Hadith 9
+        \nArabic reference	 : Book 51, Hadith 174</u></string>
 
     <string name="aftereatingTitle">Khana Khane kay Badَُُِ</string>
     <string name="aftereatingarbi">الحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِينَُُِ</string>
     <string name="aftereatingurdu">تمام تعریفیں اس اللہ کے لیے ہیں ، جس نے ہمیں کھلایا ، پلایااور ہمیں مسلمان بنایَ</string>
     <string name="aftereatingreflink">https://sunnah.com/tirmidhi/48/88</string>
-    <string name="aftereatingref">Reference	 : Jami` at-Tirmidhi 3457
-In-book reference	 : Book 48, Hadith 88
-English translation	 : Vol. 6, Book 45, Hadith 3457</string>
+    <string name="aftereatingref"><u>Reference	 : Jami` at-Tirmidhi 3457
+\nIn-book reference	 : Book 48, Hadith 88
+        \nEnglish translation	 : Vol. 6, Book 45, Hadith 3457</u></string>
 
     <string name="forprovidfoodTitle">Khana Khilane Waly kay liyeَُُِْ</string>
     <string name="forprovidfoodarbi">اللهُمَّ، بَارِكْ لَهُمْ فِي مَا رَزَقْتَهُمْ، وَاغْفِرْ لَهُمْ وَارْحَمْهُمَُُِْ</string>
     <string name="forprovidfoodurdu">اے اللہ ! ان کے رزق میں برکت عطا فرما اور ان کو بخش دے اور ان پر رحم فرماَ</string>
     <string name="forprovidfoodreflink">https://sunnah.com/muslim/36/202</string>
-    <string name="forprovidfoodref">Reference	 : Sahih Muslim 2042 a
-In-book reference	 : Book 36, Hadith 202
-USC-MSA web (English) reference	 : Book 23, Hadith 5070
-  (deprecated numbering scheme)</string>
+    <string name="forprovidfoodref"><u>Reference	 : Sahih Muslim 2042 a
+\nIn-book reference	 : Book 36, Hadith 202
+\nUSC-MSA web (English) reference	 : Book 23, Hadith 5070
+        \n(deprecated numbering scheme)</u></string>
 
 
     <string name="drinkmilkTitle">Dodh Peeny kiَُُُِْ</string>
     <string name="drinkmilkarbi">اللَّهُمَّ بَارِكْ لَنَا فِيهِ وَزِدْنَا مِنْهَُُُِْ</string>
     <string name="drinkmilkurdu">اے اللہ ! ہمیں اس میں برکت عطا فرما اور ہمیں اور زیادہ دےَ</string>
     <string name="drinkmilkreflink">https://sunnah.com/abudawud/27/62</string>
-    <string name="drinkmilkref">Grade	: Hasan (Al-Albani)	  حسن   (الألباني)	حكم     :
-Reference	 : Sunan Abi Dawud 3730
-In-book reference	 : Book 27, Hadith 62
-English translation	 : Book 26, Hadith 3721</string>
+    <string name="drinkmilkref"><u>Grade	: Hasan (Al-Albani)	  حسن   (الألباني)	حكم     :
+\nReference	 : Sunan Abi Dawud 3730
+\nIn-book reference	 : Book 27, Hadith 62
+        \nEnglish translation	 : Book 26, Hadith 3721</u></string>
 
     <string name="travelTitle">Safar Kiََُُُِْ</string>
     <string name="travelarbi">سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا، وَمَا كُنَّا لَهُ مُقْرِنِينَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونََُُُِْ</string>
     <string name="travelurdu">پاک ہے وہ ذات جس نے اس سواری کو ہمارے لیے مسخرکردیا(اسے ہمارے قبضے میں دے دیا)اور ہم (اس کی قدرت کے بغیر )اس کو قابومیں لانے والے نہ تھے ، اور بلاشبہ ہم کو اپنے رب کی طرف ضرور لوٹناہےَ</string>
     <string name="travelreflink">https://sunnah.com/abudawud/27/62</string>
-    <string name="travelref">Grade	: Hasan (Al-Albani)	  حسن   (الألباني)	حكم     :
-Reference	 : Sunan Abi Dawud 3730
-In-book reference	 : Book 27, Hadith 62
-English translation	 : Book 26, Hadith 3721</string>
+    <string name="travelref"><u>Grade	: Hasan (Al-Albani)	  حسن   (الألباني)	حكم     :
+\nReference	 : Sunan Abi Dawud 3730
+\nIn-book reference	 : Book 27, Hadith 62
+        \nEnglish translation	 : Book 26, Hadith 3721</u></string>
     ///////////////////////////END////////////////////////////////////
     //////////////////////////QURANI DUAYAIN//////////////////////////
     <string name="bakra127arbi">رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ العَلِيم \n(البقرہ: 127)ُُ </string>
@@ -307,16 +307,679 @@ English translation	 : Book 26, Hadith 3721</string>
 
     <string name="waduDefenglish">Wudu is a way to get cleanliness physically, spiritually and mental preparation of Muslims for offering Namaz (prayer) which is important pillar of Islam after saying shahadat during converting to Islam. we can not offer salat without making Wuduِ</string>
     <string name="waduDefurdu">وضو جسمانی صفائی کا ایک ذریعہ ہے یہ مسلمانوں کی رواحانی اور زہنی طور پر نماز جو کے بنیادی ارکان میں شہادت(قبول اسلام) کے بعد ہے، کی تیاری ہے وضو کے بغیر نماز کی ادائگی نہیں ہوتی۔</string>
-    <string name="waduniyat">Niyyah. First of all, make intention (Niyyah) in your heart that this act of making wudu is for offering namaz or reading quran just for sake of Allah then say:  “Bismillah” (in the name of Allah)</string>
+    <string name="waduniyatenglish">Niyyah. First of all, make intention (Niyyah) in your heart that this act of making wudu is for offering namaz or reading quran just for sake of Allah then say:  “Bismillah” (in the name of Allah)</string>
 
-    <string name="wadustep1">Step 1: Wash both hands. wash your both hands up to your wrists three times, make sure that water has reached among the fingers and thumb too.</string>
-    <string name="wadustep2">Step 2: Rinse your mouth. Take water in your palm of right hand and put it into your mouth, keep on rinsing your mouth like this three times and make sure, there is no more food remaining in your mouth.</string>
-    <string name="wadustep3">Step 3: Rinse your nose. Take water in your palm of right hand and inhale it carefully into your nose three times. Use your left hand if necessary to help blowing it out.</string>
-    <string name="wadustep4">Step 4: Wash your face. wash your whole face three times while starting from your forehead to the bottom of the chin and from your right ear to the left ear properly.</string>
-    <string name="wadustep5">Step 5: Wash your arms. wash your right hand up to the elbow properly and make sure that no part of the arm has been left dry then wash left hand like this three times.</string>
-    <string name="wadustep6">Step 6: Perform Masah. wipe your both wet hands from forehead to back of your neck and then wipe back from your neck to forehead again, do it only one time.</string>
-    <string name="wadustep7">Step 7: Wipe your both ears. wipe the grooves and holes of ears with the wet index fingers of your both hands while also using your thumbs of both hands to clean your behind ears from the bottom upwards. do it only one time.</string>
-    <string name="wadustep8">Step 8: Wash your both feet. starting from right foot, wash your both feet to the ankles three times, Use your pinky finger and go through each toe to get rid of anything between the toes and make sure that water has reached between the toes and covered the rest of the foot.</string>
+    <string name="wadustep1english">Step 1: Wash both hands. wash your both hands up to your wrists three times, make sure that water has reached among the fingers and thumb too.</string>
+    <string name="wadustep2english">Step 2: Rinse your mouth. Take water in your palm of right hand and put it into your mouth, keep on rinsing your mouth like this three times and make sure, there is no more food remaining in your mouth.</string>
+    <string name="wadustep3english">Step 3: Rinse your nose. Take water in your palm of right hand and inhale it carefully into your nose three times. Use your left hand if necessary to help blowing it out.</string>
+    <string name="wadustep4english">Step 4: Wash your face. wash your whole face three times while starting from your forehead to the bottom of the chin and from your right ear to the left ear properly.</string>
+    <string name="wadustep5english">Step 5: Wash your arms. wash your right hand up to the elbow properly and make sure that no part of the arm has been left dry then wash left hand like this three times.</string>
+    <string name="wadustep6english">Step 6: Perform Masah. wipe your both wet hands from forehead to back of your neck and then wipe back from your neck to forehead again, do it only one time.</string>
+    <string name="wadustep7english">Step 7: Wipe your both ears. wipe the grooves and holes of ears with the wet index fingers of your both hands while also using your thumbs of both hands to clean your behind ears from the bottom upwards. do it only one time.</string>
+    <string name="wadustep8english">Step 8: Wash your both feet. starting from right foot, wash your both feet to the ankles three times, Use your pinky finger and go through each toe to get rid of anything between the toes and make sure that water has reached between the toes and covered the rest of the foot.</string>
+
+    ///////////////////////////////////END/////////////////////////////////////////////////////////////////////////
+    ///////////////////////////////WAZAIF////////////////////////////////////////////////////////////////
+    <string name="daroodibrahimTitle">Darood-e-Ibrahimi</string>
+    <string name="daroodibrahimarbi">اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ
+كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ
+.إِنَّكَ حَمِيدٌ مَجِيدٌ
+اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ
+كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ
+.إِنَّكَ حَمِيدٌ مَجِيدٌ</string>
+    <string name="daroodibrahimenglish">O Allah! Shower Your mercy on Muhammad (P.B.U.H) and His
+family (followers) as You showered Your
+mercy on Ibrahim and His family (followers). Surely you are praiseworthy and Most
+High.
+O Allah! Bless Muhammad (P.B.U.H) and His family (followers) as You have blessed Ibrahim and
+His family (followers). Surely you are praiseworthy and Most High.</string>
 
 
+    <string name="daroodtajTitle">Darudh-e-Ibrahimi</string>
+    <string name="daroodtajarbi">اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ
+كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ
+.إِنَّكَ حَمِيدٌ مَجِيدٌ
+اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ
+كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ
+.إِنَّكَ حَمِيدٌ مَجِيدٌ</string>
+    <string name="darooditajenglish">O Allah! Shower Your mercy on Muhammad (P.B.U.H) and His
+family (followers) as You showered Your
+mercy on Ibrahim and His family (followers). Surely you are praiseworthy and Most
+High.
+O Allah! Bless Muhammad (P.B.U.H) and His family (followers) as You have blessed Ibrahim and
+His family (followers). Surely you are praiseworthy and Most High.</string>
+
+
+    <string name="janzeTitle">Janaz </string>
+    <string name="janzearbi">اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّداللهُـمِّ اغْفِـرْ لِحَيِّـنا وَمَيِّتِـنا وَشـاهِدِنا ، وَغائِبِـنا ، وَصَغيـرِنا وَكَبيـرِنا ، وَذَكَـرِنا وَأُنْثـانا. اللهُـمِّ مَنْ أَحْيَيْـتَهُ مِنّا فَأَحْيِـهِ عَلى الإِسْلام ،وَمَنْ تَوَفَّـيْتَهُ مِنّا فَتَوَفَّـهُ عَلى الإِيـمانٌ</string>
+    <string name="janzeenglish">O Allah forgive our living and our dead, those who are with us and those who are absent, our young and our old, our menfolk and our womenfolk.
+O Allah, whomever you give life from among us give him life in Islam, and whomever you take way from us take him away in Faith.</string>
+
+
+    <string name="imanMufalTitle">Iman-e-Mufasal</string>
+    <string name="imanMufalarbi">اٰمَنتُ بِاللّٰہِ وَ مَلئِکَتِہِ وَ کُتُبِہِ وَ رَسُلِہِ وَ لیَومِ الاٰخِرِ وَ القَدِر خَیرِہِ وَ شَرِّہِ مِنَ اللّٰہِ تَعَالٰی وَالبَعثِ بَعدَالمَوتٌِ</string>
+    <string name="imanMufalurdu">میں اللّٰہ تعالیٰ پر اور اس کے فرشتوں اور اس کی کتابوں اور اس کے رسولوں اور قیامت کے دن پر اور اس پر کہ اچھی اور بری تقدیر اللّٰہ تعالیٰ کی طرف سے ہوتی ہے اور موت کے بعد اٹھائے جانے پر ایمان لایا</string>
+
+    <string name="imanMujamalTitle">Iman-e-Mujamal</string>
+    <string name="imanMujamalarbi">اٰمَنْتُ بِاﷲِ کَمَا هُوَ بِاَسْمَآئِهِ وَصِفَاتِهِ وَقَبِلْتُ جَمِيْعَ اَحْکَامِهِ اِقْرَارٌ م بِاللِّسَانِ وَتَصْدِيْقٌ م بِالْقَلْبُِ </string>
+    <string name="imanMujamalurdu">میں ایمان لایا اللہ پر جیسا کہ وہ اپنے اسماء اور اپنی صفات کے ساتھ ہے اور میں نے اس کے تمام احکام قبول کیے، زبان سے اقرار کرتے ہوئے اور دل سے تصدیق کرتے ہوئے</string>
+
+
+    <string name="daroodtanjilaTitle">Darood Tunajjena</string>
+    <string name="daroodtanjilaTarbi">اٰمَنتُ بِاللّٰہِ وَ مَلئِکَتِہِ وَ کُتُبِہِ وَ رَسُلِہِ وَ لیَومِ الاٰخِرِ وَ القَدِر خَیرِہِ وَ شَرِّہِ مِنَ اللّٰہِ تَعَالٰی وَالبَعثِ بَعدَالمَوتٌِ</string>
+    <!-- <string name="imanmuzamilurdu">میں اللّٰہ تعالیٰ پر اور اس کے فرشتوں اور اس کی کتابوں اور اس کے رسولوں اور قیامت کے دن پر اور اس پر کہ اچھی اور بری تقدیر اللّٰہ تعالیٰ کی طرف سے ہوتی ہے اور موت کے بعد اٹھائے جانے پر ایمان لایا</string>-->
+
+
+    //////////////////////////////////END/////////////////////////////////////////////////////////////////////
+    /////////////////////////////////////DAROODS////////////////////////////////////////////////////////////////
+    <string name="bukhari3119">اَللّٰھُمَّ صَلِّ عَلٰی مُحَمَّدٍ وَعَلٰی آلِ مُحَمَّدٍ كَمَا صَلَّیْتَ عَلٰی إِبْرَاهِیمَ وَعَلٰی آلِ إِبْرَاهِیمَ إِنَّکَ ،اَللّٰهُمَّ بَارِكْ عَلٰی مُحَمَّدٍ وَعَلٰی آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰی إِبْرَاهِیمَ وَعَلٰی آلِ إِبْرَاهِیمَ إِنَّکَ حَمِیْدٌ مَّجِیْدٌ
+
+(بخاری،باب قول اللہ تعالی واتخذ اللہ،حدیث نمبر:۳۱۱۹)</string>
+    <string name="bukhari4423">۲ اَللّٰهُمَّ صَلِّ عَلٰی مُحَمَّدٍ وَعَلٰی آلِ مُحَمَّدٍ كَمَا صَلَّیْتَ عَلٰی آلِ إِبْرَاهِیمَ إِنَّکَ حَمِیدٌ مَجِیدٌ، اَللّٰهُمَّ بَارِكْ عَلٰی مُحَمَّدٍ وَعَلٰی آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰی آلِ إِبْرَاهِیمَ إِنَّکَ حَمِیدٌ مَجِیدٌ
+
+(بخاری،باب قولہ ان اللہ وملائکتہ یصلون،حدیث نمبر:۴۴۲۳)</string>
+
+
+    <string name="bukhari19">۳ اَللّٰهُمَّ صَلِّ عَلٰی مُحَمَّدٍ وَ آلِ مُحَمَّدٍ كَمَا صَلَّیْتَ عَلٰی آلِ إِبْرَاهِیمَ إِنَّکَ حَمِیْدٌ مَّجِیْدٌ ،اَللّٰهُمَّ بَارِكْ عَلٰی مُحَمَّدٍ وَ آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰی آلِ إِبْرَاهِیمَ اِنَّکَ حَمِیْدٌ مَّجِیْدٌ
+
+(بخاری:۴۷۷،حاکم،نسائی،کعب عن عجرہ:۱۹۰)</string>
+
+    <string name="bukhari5883">۴ اَللّٰهُمَّ صَلِّ عَلٰی مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّیَّتِهِ كَمَا صَلَّیْتَ عَلٰی آلِ إِبْرَاهِیمَ وَبَارِكْ عَلٰی مُحَمَّدٍ وَأَزْوَاجِهٖ وَذُرِّیَّتِهٖ كَمَا بَارَكْتَ عَلٰی آلِ إِبْرَاهِیمَ اِنَّکَ حَمِیْدٌ مَجِیْدٌ
+
+(بخاری،باب ھل یصلی علی غیر النبی ﷺ،حدیث نمبر:۵۸۸۳)</string>
+
+    <string name="bukhari94">۵ اَللّٰهُمَّ صَلِّ عَلٰی مُحَمَّدٍ عَبْدِکَ وَرَسُولِکَ كَمَا صَلَّیْتَ عَلٰی إِبْرَاهِیمَ وَبَارِكْ عَلٰی مُحَمَّدٍ وَ آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰی إِبْرَاهِیمَ و آلِ إِبْرَاهِیمَ (بخاری:۹۴۰،عن ابی سعید)</string>
+    <string name="bukhari198">۶ اَللّٰهُمَّ صَلِّ عَلٰی مُحَمَّدٍ كَمَا صَلَّیْتَ عَلٰی اِبْرَاهِیمَ وَ بَارِكْ عَلٰى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰی إِبْرَاهِیمَ وَ آلِ اِبْرَاهِیمَ
+
+(بخاری،عن ابی سعید،نزل :۱۶۸)</string>
+    <string name="muslim185">۷ اَللّٰهُمَّ صَلِّ عَلٰی مُحَمَّدٍ وَعَلٰی آلِ مُحَمَّدٍ كَمَا صَلَّیْتَ عَلٰی إِبْرَاهِیمَ وَبَارِكْ عَلٰی مُحَمَّدٍ وَعَلٰی آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰی آلِ إِبْرَاهِیمَ فِی الْعَالَمِینَ اِنَّکَ حَمِیْدٌ مَّجِیْدٌ
+
+(مسلم:۱۷۵،ابوداؤد:۱۴۱،ترمذی،نسائی عن ابن مسعود)</string>
+    <string name="nasaii198">۸ اَللّٰهُمَّ صَلِّ عَلٰی مُحَمَّدِ النَّبِىِّ الأُمِّىِّ وَعَلٰی آلِ مُحَمَّدٍ كَمَا صَلَّیْتَ عَلٰی إِبْرَاهِیمَ وَبَارِكْ عَلٰی مُحَمَّدِ النَّبِىِّ الأُمِّىِّ كَمَا بَارَكْتَ عَلٰی إِبْرَاهِیمَ اِنَّکَ حَمِیْدٌ مَّجِیْدٌ
+(نسائی،نزل:۱۶۸)</string>
+    <string name="musnadhakim298">۱۰ اَللّٰهُمَّ صَلِّ عَلٰی مُحَمَّدِ النَّبِىِّ الأُمِّىِّ وَعَلٰی آلِ مُحَمَّدٍ كَمَا صَلَّیْتَ عَلٰى إِبْرَاهِیمَ وَعَلٰى آلِ إِبْرَاهِیمَ وَبَارِكْ عَلٰی مُحَمَّدِ النَّبِىِّ الأُمِّىِّ وَعَلٰى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰی إِبْرَاهِیمَ وَعَلٰی آلِ إِبْرَاهِیمَ إِنَّکَ حَمِیْدٌ مَّجِیْدٌ (مسند حاکم،عن ابن مسعود:۱/۲۶۸)</string>
+    <string name="abudaod141">۱ اَللّٰهُمَّ صَلِّ عَلٰی مُحَمَّدِ النَّبِىِّ ، وَأَزْوَاجِهِ اُمَّھَاتِ الْمُؤْمِنِینَ وَذُرِّیَّتِهِ وَأَهْلِ بَیْتِهِ كَمَا صَلَّیْتَ عَلٰی إِبْرَاهِیمَ اِنَّکَ حَمِیْدٌ مَّجِیْدٌ
+
+(ابوداؤد:۱۴۱،مشکوٰۃ شریف عن ابی ہریرہ)</string>
+    <string name="darqatni">۱۲ اَللّٰهُمَّ صَلِّ عَلٰی مُحَمَّدٍ وَعَلٰی أَهْلِ بَیْتِهِ كَمَا صَلَّیْتَ عَلٰی اِبْرَاهِیمَ اِنَّکَ حَمِیْدٌ مَّجِیْدٌ اَللّٰهُمَّ صَلِّ عَلَیْنَا مَعَهُمْ اَللّٰهُمَّ بَارِكْ عَلٰی مُحَمَّدٍ وَعَلٰی أَهْلِ بَیْتِهِ كَمَا بَارَكْتَ عَلٰی إِبْرَاهِیمَ اِنَّکَ حَمِیدٌ مَجِیدٌ، اَللّٰهُمَّ بَارِكْ عَلَیْنَا مَعَهُمْ صَلَوَاتُ اللهِ وَصَلَوَاتُ الْمُؤْمِنِینَ عَلٰی مُحَمَّدِ النَّبِىِّ الأُمِّىِّ السَّلاَمُ عَلَیْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ (دار قطنی عن ابن مسعود)
+</string>
+
+
+    ///////////////////////////////////////END////////////////////////////////////////////////////////////////////
+    /////////////////////////////////////Wazu /////////////////////////
+    <string name="wazuhukam_maidaarbi">
+يٰاَيُهَا الَّذِيْنَ اٰمَنُوْ ا اِذَا قُمْتُمْ اِلَی الصَّلٰوةِ فَاغْسِلُوْا وُجُوْهَکُمْ وَاَيْدِيَکُمْ اِلَی الْمَرَافِقِ وَامْسَحُوْا بِرُ ئُوْسِکُمْ وَاَرْجُلَکُمْ اِلَی الْکَعْبَيْنِ.
+</string>
+    <string name="wazuhukam_maidaudru">
+’’اے ایمان والو! جب (تمہارا) نماز کے لیے کھڑے (ہونے کا ارادہ) ہو تو (وضو کے لیے) اپنے چہروں کو اور اپنے ہاتھوں کو کہنیوں سمیت دھو لو اور اپنے سروں کا مسح کرو اور اپنے پاؤں (بھی) ٹخنوں سمیت (دھو لو)۔‘‘
+</string>
+
+
+    <string name="wazuniatarbi">نَوَيْتُ اَنْ اَتَوَضَّاَِلاسْتِبَاحَةِ الصَّلٰوةِ تَقَرُّبًا اِلَی اﷲِ تَعَالٰی.</string>
+    <string name="wazuniaturdu">’’مَیں نے وضوکرنے کی نیت کی نماز کو جائز کرنے کے لیے تاکہ قربِ اِلٰہی حاصل کرسکوں۔‘‘</string>
+    <string name="wazuniattriqa">پہلے پاکی حاصل کرنے اور ثواب پانے کی نیت کرے۔اس کے بعد بسم اللہ پڑھ کر تین بار دونوں ہاتھ کلائی تک دھوئے اور پھر تین بار کلی کرے اور مسواک کرے۔\n پھر تین بار ناک میں پانی چڑھائے اور بائیں ہاتھ سے ناک صاف کرے۔ پھر تین بار منہ دھوئے اس طرح کہ پیشانی کے بالوں سے لے کر ٹھوڑی کے نیچے تک اور دونوں کانوں کی لَوتک کوئی جگہ خشک نہ رہے۔\nاگر گھنی داڑھی ہو تو خلال کرے اور اگر داڑھی اتنی ہلکی ہو کہ جلد نظر آتی ہو تو جلد کو دھوئے۔ پھر تین بار دونوں ہاتھ کہنیوں تک دھوئے، پہلے دایاں پھر بایاں۔\n پھر نئے پانی سے دونوں ہاتھ تر کرکے پورے سَر کا ایک بار مسح کرے اس طرح کہ پیشانی کے بالوں سے دونوں ہاتھوں کی تین اُنگلیاں پھیرتا ہوا گدی تک لے جائے اور پھر گُدی سے ہتھیلیاں پھیرتا ہوا واپس لائے۔\n پھر شہادت کی انگلی سے کان کے اندرونی حصہ اور انگوٹھے کے پیٹ سے کان کی بیرونی سطح اور انگلیوں کی پشت سے گردن کا مسح کرے۔\n پھر تین بار دونوں پاؤں دھوئے اور انگلیوں کا خلال کرے،\n پہلے دایاں پاؤں ٹخنوں تک بائیں ہاتھ سے دھوئے۔</string>
+
+    <string name="wazuFaraz">
+منہ دھونا
+دونوں ہاتھ کہنیوں سمیت دھونا۔\n
+چوتھائی سر کا مسح کرنا۔\n
+دونوں پاؤں ٹخنوں سمیت دھونا۔\n
+</string>
+    <string name="wazusuntain">
+
+ بسم اللہ پڑھ کر شروع کرنا۔
+ \nدونوں ہاتھ کلائی تک دھونا۔\nانگلیوں میں خلال کرنا۔\nلی کرنا۔
+مسواک کرنا۔\n
+ناک میں پانی چڑھانا۔\n
+داڑھی کا خلال کرنا۔\n
+\nپورے سَر کا مسح کرنا۔
+\n کانوں کا مسح کرنا۔
+\n پے درپے وضو کرناکہ پہلا عضو خشک ہونے نہ پائے
+ترتیب قائم رکھنا\n
+\nدھوئے جانے والے ہر عضو کو تین بار دھونا۔
+
+</string>
+
+
+    <string name="wazumastehbat">
+
+گردن کا مسح کرنا۔
+قبلہ کی طرف منہ کرنا۔\n
+\nپاک اور اونچی جگہ پر وضو کرنا۔
+پانی بہاتے وقت اعضاء پر ہاتھ پھیرنا۔\n
+\nبغیرضرورت دوسرے سے مدد نہ لینا۔
+دنیا کی باتیں نہ کرنا۔\n
+\nبچا ہوا پانی کھڑے ہوکر تھوڑا پی لینا۔
+وضو کے بعد یہ دُعا پڑھنا:\n
+
+</string>
+
+    <string name="wazumakrohat">
+
+ کلی کے لیے بائیں ہاتھ سے منہ میں پانی ڈالنا۔
+عذر کے بغیر ایک ہاتھ سے منہ دھونا۔\n
+منہ دھوتے وقت زور سے منہ پر چھینٹے مارنا۔\n
+\nوضو کرتے وقت ضرورت سے کم پانی استعمال کرنا۔
+وضو کرتے وقت ضرورت سے زیادہ پانی استعمال کرنا۔\n
+وضو کرتے ہوئے دنیاوی گفتگو کرنا۔\n
+گلے کا مسح کرنا۔\n
+ناپاک جگہ پر وضو کا پانی گرانا۔\n
+\nوضو کے پانی کے قطرے وضو کے برتن میں ٹپکانا۔
+ کسی سنت کو ترک کرنا۔\n
+
+</string>
+
+
+    <string name="wazutorne">
+
+پاخانہ یا پیشاب کے مقام سے کسی چیز کا نکلنا۔
+\nخون یاپیپ زدہ پانی کا نکل کر بدن پر بہہ جانا۔
+\nمنہ بھرقے کرنا۔
+کسی شخص کا تکیہ لگا کر اس طرح سونا کہ تکیہ ہٹانے سے وہ گر جائے اور کولہے زمین سے ہٹ جائیں، لیکن اگر وہ بیٹھا رہا اور اس کے کولہے جگہ سے نہیں ہٹے تو وضو نہیں ٹوٹا۔\n
+بالغ شخص کا نمازجنازہ کے علاوہ کسی نماز میں قہقہہ لگانا۔\n
+کسی وجہ سے بیہوش ہوجانا۔\n
+دکھتی آنکھ سے پانی کا بہنا۔\n
+منی، ودی اور مذی خارج ہونا۔\n
+\nکن چیزوں سے وضو نہیںٹوٹتا
+
+</string>
+    <string name="wazunatotna">
+
+پاخانہ یا پیشاب کے مقام سے کسی چیز کا نکلنا۔
+خون کا ظاہر ہونا جو اپنی جگہ سے بہا نہ ہو۔\n
+خون بہے بغیر گوشت کا گر جانا۔\n
+کیڑے کا زخم سے یا کان سے یا ناک سے نکلنا۔\n
+قے جو منہ بھر کر نہ آئے۔\n
+بلغم کی قے اگرچہ بلغم زیادہ ہو۔\n
+اگر کسی کو چت لیٹے ہوئے ہلکی سی نیند آجائے اور وہ اردگرد کے لوگوں کی باتیں سن رہا ہو تو وضو نہیں ٹوٹتا۔\n
+\nرکوع کی حالت میں نماز پڑھنے والے کا سو جانا۔
+شرم گاہ کو چھونا۔\n
+
+</string>
+    <string name="wazumasail">
+درمیانِ وضو اگر ریح خارج ہویا کوئی ایسی بات ہو جس سے وضو جاتا رہتا ہے تو پھر نئے سرے سے وضو کرے۔ اگر کسی کے زخم سے ہروقت خون یا پیپ بہتی رہتی ہو یا ہر وقت پیشاب کا قطرہ آتا رہتا ہو یا اسے ہوا خارج ہونے کی بیماری لاحق ہو تو ایسا شخص ہر نماز کے وقت وضو کرلیا کرے، اس کی نماز ہوجائے گی کیوں کہ وہ معذور ہے۔ جب تک مقررہ نماز کا وقت رہے گا یہ وضو باقی رہے گا۔
+</string>
+    //////////////////////////////////////END///////////////////////////////////////
+    /////////////////////////////Gusal//////////////////////
+
+    <string name="gusal_hukam_maida_arbi">
+
+وَاِنْ کُنْتُمْ جُنُبًا فَاطَّهَرُوْا.(المائدة، 5: 4)
+</string>
+    <string name="gusal_hukam_maida_urdu">
+’’اور اگر تم حالتِ جنابت میں ہو تو (نہا کر) خوب پاک ہو جاؤ۔‘‘
+</string>
+    <string name="gusal_tareqa">
+پہلے دونوں ہاتھ کلائی تک دھوئے، پھر استنجاکرے اور جس جگہ نجاست ہو اس کو دور کرے۔ پھر وضو کرے اور وضو کے بعد تین مرتبہ سارے جسم پر پانی بہائے، پانی بہانے کی ابتدا سر سے کرے اور اِس کے بعد دائیں کندھے کی طرف سے پانی بہائے، پھر بائیں کندھے کی طرف سے پانی بہانے کے بعد پورے بدن پر تین مرتبہ پانی ڈالے اور مَلے۔دورانِ غسل کسی سے کلام نہ کرے۔
+</string>
+
+    <string name="gusal_faraz">
+
+کلی کرنا، اس طرح کہ پانی حلق کی جڑ تک پہنچ جائے۔ لیکن روزہ کی حالت میں اِحتیاط کی جائے۔ اگر حالتِ روزہ میں پانی حلق سے نیچے اتر گیا تو روزہ فاسد ہوجائے گا۔
+ناک میں پانی ڈالنا کہ جہاں تک نرم ہڈی ہے دُھل جائے۔\n
+سارے بدن پر ایک بار اس طرح پانی بہانا کہ کوئی بھی جگہ خشک نہ رہ جائے۔\n
+
+</string>
+    <string name="gusal_farziat">
+
+
+منی کا شہوت سے نکلنا۔
+سوتے میں احتلام ہونا۔\n
+مرد و عورت کا ہم بستری کرنا خواہ منی نکلے یا نہ نکلے۔\n
+عورت کا حیض سے فارغ ہونا۔\n
+\nنفاس ختم ہونا یعنی بچہ پیدا ہونے کے بعد آنے والے خون کا بند ہونا۔
+
+</string>
+
+    <string name="gusal_Masnoon">
+
+
+نماز جمعہ کے لیے۔
+\nدونوں عیدوں کی نماز کے لیے۔
+\nاحرام باندھتے وقت۔
+عرفہ کے دن\n
+
+
+</string>
+
+    <string name="gusal_Musthib">
+
+جو آدمی پاکیزگی کی حالت میں مسلمان ہوا ہو۔
+جو بچہ عمر کے اعتبار سے بالغ ہو۔\n
+\nجو شخص جنون کے عارضہ سے صحت یاب ہوا ہو۔
+\nنشتر لگوانے کے بعد۔
+میت کو غسل دینے کے بعد۔\n
+شبِ برآت میں عبادت کے لیے۔\n
+لیلۃ القدر میں بطورِ خاص عبادت کے لیے۔\n
+مکہ مکرمہ میں داخل ہونے کے لیے۔\n
+\nمدینہ طیبہ میں داخل ہونے کے لیے۔
+قربانی کے دن مزدلفہ میں ٹھہرنے کے لیے۔\n
+\nطوافِ زیارت کے لیے۔
+سورج گرہن کی نماز کے لیے۔\n
+نمازِ اِستسقاء کے لیے۔\n
+\nخوف کے وقت۔
+دن میں سخت اندھیرے کے وقت۔\n
+تیز آندھی کے وقت۔\n
+
+</string>
+
+
+    <string name="gusal_masail">
+رمضان کی رات جنبی ہوا تو بہتر یہی ہے کہ طلوعِ فجر سے پہلے غسل کرے تاکہ روزے کا ہر حصہ جنابت سے خالی ہو۔ اگر غسل نہیں کیا تو روزہ میں کچھ نقصان نہیں۔ جنبی کا مسجد میں جانا، طواف کرنا، قرآنِ پاک کو چھونا اور پڑھنا حرام ہے۔ جنبی نے اگر درود شریف یا کوئی دعا پڑھ لی تو کوئی حرج نہیں مگر بہتر یہ ہے کہ وضو یا کلی کر کے پڑھے۔ جنبی کے لیے اذان کا جواب دینا جائز ہے۔ جس پرغسل واجب ہو اس کو چاہیے کہ نہانے میں تاخیر نہ کرے کیوں کہ جس گھر میں جنبی ہو اس میں رحمت کے فرشتے نہیں آتے۔ وضو یاغسل کے لیے پانی نہ ملنے کی صورت میں تیمم کرنا چاہیے۔
+</string>
+    /////////////////////END/////////////////////////////////////////
+    //////////////////////////Tayamam//////////////////////////////////
+    <string name="tayam_hukam_arbi">
+فَلَمْ تَجِدُوْا مَآء فَتَيَمَّمُوْا صَعِيْدًا طَيِبًا فَامْسَحُوْا بِوُجُوْهِکُمْ وَاَيْدِيْکُمْ مِّنْهُ.
+\n(المائدة، 5:2)
+</string>
+    <string name="tayam_hukam_urdu">
+’’پھر تم پانی نہ پاؤ تو (اندریں صورت) پاک مٹی سے تیمم کرلیا کرو۔ پس (تیمم یہ ہے کہ) اس(پاک مٹی) سے اپنے چہروں اور اپنے (پورے ) ہاتھوں کا مسح کر لو۔‘‘
+</string>
+
+    <string name="tayam_info">
+
+اگر پانی میسر نہ ہو یا غسل / وضو کرنے سے بیماری بڑھنے کا اندیشہ ہو تو بجائے غسل و وضو کے تیمم کا حکم ہے۔ غسل اور وضو دونوں کے لئے تیمم کا طریقہ ایک ہی ہے، صرف نیت میں فرق ہے کہ غسل کے تیمم کو غسل کے اور وضو کے تیمم کو وضو کے قائم مقام خیال کرے۔
+
+</string>
+    <string name="tayam_triqa">
+
+پہلے نیت کرے کہ میں ناپاکی دور کرنے اور نماز پڑھنے کے لئے تیمم کرتا ہوں۔ پھر دونوں ہاتھوں کی انگلیوں کو کشادہ کر کے پاک مٹی یا کسی ایسی چیز پر جو زمین کی جنس سے ہو ایک بار مارکر سارے منہ کا مسح کرے کہ کوئی جگہ باقی نہ رہے۔ پھر اسی طرح ہاتھ مار کر دونوں ہاتھوں کا ناخنوں سے لے کر کہنیوں سمیت مسح کرے کہ کوئی جگہ باقی نہ رہے۔
+</string>
+    <string name="tayam_fraiz">
+نیت کرنا۔
+\nدونوں ہاتھ مٹی پر مار کر سارے منہ پر پھیرنا۔
+دونوں ہاتھوں کو مٹی پرمار کر کہنیوں تک پھیرنا۔\n
+</string>
+
+    <string name="tayam_sunat">
+
+بسم اللہ کہنا۔
+ہاتھوں کو زمین پر مارنا۔\n
+انگلیاں کھلی ہوئی رکھنا۔\n
+زیادہ مٹی لگ جانے پر ہاتھوں کو جھاڑنا اس طرح کہ ایک ہاتھ کے انگوٹھے کی جڑ کو دوسرے ہاتھ کے انگوٹھے کی جڑ پر مارنا۔\n
+داڑھی اور انگلیوں کا خلال کرنا۔\n
+
+</string>
+
+    <string name="tayam_masyal">
+انگوٹھی، چھلے، چوڑیاں وغیرہ پہنی ہوں تو ان کو اتار کر یا ہٹا کر ان کے نیچے ہاتھ پھیرنا فرض ہے۔ جو چیز آگ سے جل کر نہ راکھ ہوتی ہو، نہ پگھلتی ہو، نہ نرم ہوتی ہو وہ زمین کی جنس سے ہے، اس سے تیمم جائز ہے اگرچہ اس پر غبار نہ ہو۔ ایسا پاک کپڑا جس پر غبار ہو کہ ہاتھ مارنے سے غبار اُڑتا نظر آئے اس سے بھی تیمم جائز ہے۔ جن چیزوں سے وضو ٹوٹتا یا غسل واجب ہوتا ہے ان سے تیمم بھی جاتا رہتا ہے۔ اس کے علاوہ پانی کے میسر آنے سے بھی تیمم ٹوٹ جاتا ہے۔ہر نماز کے لیے نئے سرے سے تیمم کرنا ضروری ہے۔
+</string>
+    ////////////////////////////////////////////////////////////////////END////////////////////////
+    ////////////////////////////////AZAN////////////////////////////////////
+    <string name="azan_quran_ref_arbi">
+وَاِذَا نَادَيْتُمْ اِلَی الصَّلٰوةِ.(المائدة، 5:58)
+</string>
+    <string name="azan_quran_ref_urdu">
+’’اور جب تم نماز کے لیے (لوگوں کو بہ صور تِ اذان) پکارتے ہو۔ ‘‘
+</string>
+
+    <string name="azan_info">
+پانچوں وقت کی نماز کے لیے جس میں جمعہ بھی ہے اذان سنتِ مؤکد ہ ہے۔ اذان وقت پر کہنی چاہیے۔ فرضِ عین کے علاوہ کسی نماز کے لئے اذان نہیں ہے . عورتوں کا اذان کہنامکروہ تحریمی ہے۔ بے وضو کی اذان ہوجائے گی مگر مکروہ ہوگی ، اس لیے بہتر یہ ہے کہ باوضو ہوکر اذان دی جائے۔
+</string>
+
+    <string name="azan_treeqa">
+بلند جگہ قبلہ رُخ کھڑے ہوکر کانوں میں انگلیاں ڈال کر اذان اس طرح کہنی چاہیے:
+
+حَيَ عَلَی الصَّلٰوةِ کہتے وقت دائیں طرف اور حَيَ عَلَی الْفَلاَحِ کہتے وقت بائیں طرف منہ کرنا چاہئے۔ اگر فجر کی اذان ہو تو حَيَ عَلَی الْفَلاَحِ کے بعد دو مرتبہ اَلصَّلٰوةُ خَيْرٌ مِّنَ النَّوْمِ(نماز نیند سے بہتر ہے) کہنا سنت ہے۔
+
+</string>
+    <string name="azan_kalimat_arbi">
+اَﷲُ اَکْبَرُ اﷲُ اَکْبَرُ ط اَﷲُ اَکْبَرُ اﷲُ اَکْبَرُ ط اَشْهَدُ اَنْ لَّااِلٰهَ اِلَّا اﷲُ ط اَشْهَدُ اَنْ لَّااِلٰهَ اِلاَّ اﷲُ ط اَشْهَدُ اَنَّ مُحَمَّدًا رَّسُوْلُ اﷲِ ط اَشْهَدُ اَنَّ مُحَمَّدًا رَّسُوْلُ اﷲِ ط حَيَّ عَلَی الصَّلٰوةِ ط حَيَّ عَلَی الصَّلٰوةِ ط حَيَّ عَلَی الْفَلاَحِ ط حَيَّ عَلَی الْفَلاَحِِ ط اَﷲُ اَکْبَرُ اﷲُ اَکْبَرُ ط لَآاِلٰهَ اِلاَّ اﷲُ.</string>
+
+    <string name="azan_kalimat_urdu">
+’’اللہ ہی بڑا ہے، اللہ ہی بڑا ہے۔ اللہ ہی بڑا ہے، اللہ ہی بڑا ہے۔ میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود نہیں، میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود نہیں۔ میں گواہی دیتا ہوں کہ حضرت محمد ( صلی اللہ علیہ وآلہ وسلم) اللہ کے رسول ہیں، میں گواہی دیتا ہوں کہ حضرت محمد ( صلی اللہ علیہ وآلہ وسلم) اللہ کے رسول ہیں۔ آؤ نماز پڑھنے کے لیے، آؤ نماز پڑھنے کے لیے۔ آؤ نجات پانے کے لیے، آؤ نجات پانے کے لیے۔ اللہ ہی بڑا ہے، اللہ ہی بڑا ہے۔ اللہ کے سوا کوئی عبادت کے لائق نہیں۔‘‘
+</string>
+
+    <string name="azan_masail">
+بہتر یہ کہ مؤذن صالح اور پر ہیزگار ہو اور ثواب کی نیت پر اذان کہتا ہو۔ فاسق، نشئی، پاگل اور نا سمجھ بچے کی اذان مکروہ و واجب الاعادہ ہے۔ حیض و نفاس والی عورت، خطبہ سننے والے، قضائے حاجت اور جماع کرنے والے پر اذان کا جواب نہیں ہے۔ جب اذان ہو تو چاہیے کہ اتنی دیر سب کام یہاں تک کہ قرآن بھی پڑھ رہا ہو تو موقوف کر دے اور چل رہا ہو تو کھڑا ہو کر اذان سنے اور جواب دے۔ اگر چند اذانیں سنے تواس پر پہلی اذان کا جواب ہے۔ اگر سب کا جواب دے تو بہتر ہے۔
+    </string>
+    <string name="azan_aqamat">
+
+اذان کے بعد جماعت کھڑی ہونے کے وقت جو دعا کہی جاتی ہے اس کے الفاظ اذان کے مثل ہیں، چند باتوں کا فرق ہے:
+
+حَيَ عَلَی الْفَلاَحِ کے بعد دو مرتبہ قَدْ قَامَتِ الصَّلٰوۃُ (جماعت کھڑی ہو گئی )کہے۔\n
+\nاذان کے مقابلے میں آواز پست ہو۔
+\nاس کے کلمات جلد کہے جائیں۔
+\nکانوں میں انگلیاں نہ ڈالے۔
+    </string>
+    <string name="azan_ajabat">
+اذان و اِقامت دونوں کا جواب دینا مستحب ہے۔ اِجابت کا مطلب یہ ہے کہ سننے والا بھی وہی کلمات کہتا جائے اور اَشْهَدُ اَنَّ مُحَمَّدً رَّسُوْلُ اﷲِ کہہتے وقت پہلی مرتبہ صَلَّی اﷲُ عَلَيْکَ يَارَسُوْلَ اﷲِاور دوسری مرتبہ قُرَّةُ عَيْنِی اَللّٰهُمَّ مَتِّعْنِی بِالسَّمْعِ وَالْبَصَرِ کہے۔ جو ایسا کرے گا حضورصلی اللہ علیہ وآلہ وسلم اس کی شفاعت فرمائیں گے اور اس کی آنکھوں کی روشنی کبھی نہ جائے گی. حَيَ عَلَی الصَّلٰوةِ اورحَيَ عَلَی الْفَلاَحِ کے جواب میں لَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِااﷲِ الْعَلِيِ الْعَظِيْمِ کہے اور فجر کی اذان میں اَلصَّلٰوةُ خَيْرٌ مِّنَ النَّوْمِ کے جواب میں صَدَقْتَ وَبَرَرْتَ کہے اور اقامت میں قَدْ قَامَتِ الصَّلٰوةُ کے جواب میں اَقَامَهَا اﷲُ وَاَدَامَهَا کہے۔
+    </string>
+
+    <string name="azan_bad_dua_arbi">
+اَللّٰهُمَّ رَبَّ هٰذِهِ الدَّعْوَةِ التَّآمَّةِ وَالصَّلَاةِ الْقَآئِمَةِ اٰتِ سَيِدَنَا مُحَمَّدَ نِ الْوَسِيْلَةَ وَالْفَضِيْلَةَ وَالدَّرَجَةَ الرَّفِيْعَةَ وَابْعَثْهُ مَقَامًا مَّحْمُوْدَ نِ الَّذِيْ وَعَدْتَّهُ وَارْزُقْنَا شَفَاعَتَهُ يَوْمَ الْقِيٰمَةِ ط اِنَّکَ لَا تُخْلِفُ الْمِيعَادَ.    </string>
+    <string name="azan_bad_dua_urdu">
+اے اللہ! اس دعوتِ کامل اور قائم ہونے والی نماز کے مالک! تو ہمارے سردار حضرت محمد( صلی اللہ علیہ وآلہ وسلم) کو وسیلہ اور فضیلت اور بہت بلند درجہ عطا فرما اور ان کو اس مقامِ محمود پر پہنچا جس کا تو نے ان سے وعدہ کیا ہے، اور ہمیں قیامت کے دن ان کی شفاعت نصیب فرما۔ بے شک تو وعدہ کے خلاف نہیں کرتا۔
+    </string>
+    //////////////////////////////END//////////////////////////////////
+    //////////////////////////////NAMAZ///////////////////////////////////////////////////
+    <string name="namaz_niyat_farz">
+        میں نیت کرتا / کرتی ہوں . . . رکعت فرض  نماز . . . کی، واسطے اﷲ تعاليٰ کے، منہ طرف کعبہ شریف کے، اَﷲُ اَکْبَر۔
+</string>
+    <string name="namaz_niyat_sunat">
+        میں نیت کرتا / کرتی ہوں . . . رکعت سنت نماز . . . کی، واسطے اﷲ تعاليٰ کے، منہ طرف کعبہ شریف کے، اَﷲُ اَکْبَر۔
+</string>
+    <string name="namaz_niyat_wajab">
+میں نیت کرتا/کرتی ہوں تین رکعت وتر واجب نماز عشاء کی، واسطے اﷲ تعاليٰ کے، منہ طرف کعبہ شریف کے، اَﷲُ اَکْبَر۔
+    </string>
+    <string name="namaz_treeqa">
+نماز پڑھنے سے پہلے یہ ضروری ہے کہ نمازی کا بدن، کپڑے اور نماز کی جگہ پاک ہو اور نماز کا وقت ہوگیا ہو۔ پھر باوُضو قبلہ کی طرف منہ کر کے دونوں پاؤں کے درمیان کم ازکم چار انگلیاںاور زیادہ سے زیادہ ایک بالشت کا فاصلہ کرکے کھڑا ہو۔ جو نماز پڑھنی ہے اس کا دل سے ارادہ کرے اور زبان سے کہنا مستحب ہے۔ پھر دونوں ہاتھ اپنے کانوں کی لو تک لے جائے اس طرح کہ ہتھیلیاں قبلہ رُخ ہوں اور انگلیاں نہ کھلی ہوئی ہوں نہ ملی ہوئی بلکہ اپنی نارمل حالت میں ہوں۔ اَﷲُ اَکْبَرُ کہتا ہوا ہاتھ نیچے لائے اور ناف کے نیچے باندھ لے اس طرح کہ داہنی ہتھیلی بائیں کلائی کے سرے پر ہو اور بیچ کی تین انگلیاں بائیں کلائی کی پشت پر اور انگوٹھا اور چھنگلیاں کلائی کے اغل بغل ہوں اور نظر سجدہ کی جگہ پر رہے اور ثناء پڑھے۔
+    </string>
+    <string name="namaz_sana_arbi">
+سُبْحَانَکَ اللّٰهُمَّ وَبِحَمْدِکَ، وَتَبَارَکَ اسْمُکَ، وَتَعَالٰی جَدُّکَ، وَلَا اِلٰهَ غَيْرُکَ.
+    </string>
+    <string name="namaz_sana_urdu">
+        اے اﷲ! ہم تیری پاکی بیان کرتے ہیں، تیری تعریف کرتے ہیں، تیرا نام بہت برکت والا ہے، تیری شان بہت بلند ہے اور تیرے سوا کوئی عبادت کے لائق نہیں
+    </string>
+    <string name="namaz_sana_treeqa">
+اگر جماعت کے ساتھ نمازپڑھ رہا ہے تو ثناء پڑھ کر خاموش ہو جائے اور اگر تنہا ہو تو ثناء کے بعد تعوذ، تسمیہ اور سورئہ فاتحہ کے ساتھ کوئی سورۃ ملا کر پڑھے۔
+    </string>
+    <string name="tauz_arbi">
+اَعُوْذُ بِاﷲِ مِنَ الشَّيْطٰنِ الرَّجِيْمِo    </string>
+    <string name="tauz_urdu">
+’’میں شیطان مردود سے اللہ کی پناہ مانگتا/مانگتی ہوں
+    </string>
+    <string name="tasmia_arbi">
+بِسْمِ اﷲِ الرَّحْمٰنِ الرَّحِيْمِo
+    </string>
+    <string name="tasmia_urdu">
+اﷲ کے نام سے شروع جو نہایت مہربان ہمیشہ رحم فرمانے والا ہے
+    </string>
+    <string name="fatia_arbi">
+اَلْحَمْدُِﷲِ رَبِّ الْعٰلَمِيْنَo الرَّحْمٰنِ الرَّحِيْمِo مٰلِکِ يَوْمِ الدِّيْنِo اِيَاکَ نَعْبُدُ وَاِيَاکَ نَسْتَعِيْنُo اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَo صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ لا غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّآلِّيْنَo    </string>
+    <string name="fatia_urdu">
+’’سب تعریفیں اللہ ہی کے لیے ہیں جو تمام جہانوں کی پرورش فرمانے والا ہےo نہایت مہربان بہت رحم فرمانے والا ہےo روزِ جزا کا مالک ہےo (اے اللہ!) ہم تیری ہی عبادت کرتے ہیں اور ہم تجھ ہی سے مدد چاہتے ہیںo ہمیں سیدھا راستہ دکھاo ان لوگوں کا راستہ جن پر تو نے انعام فرمایاo ان لوگوں کا نہیں جن پر غضب کیا گیا ہے اور نہ (ہی) گمراہوں کاo‘‘    </string>
+    <string name="after_fatia">
+سورۃ الفاتحہ پڑھنے کے بعد اِمام اور مقتدی دونوں آہستہ آواز سے کہیں: آمین.    </string>
+    <string name="akhlas_arbi">
+قُلْ هُوَ اﷲُ اَحَدٌo اَﷲُ الصَّمَدُo لَمْ يَلِدْ وَلَمْ يُوْلَدْo وَلَمْ يَکُنْ لَّهُ کُفُوًا اَحَدٌo    </string>
+    <string name="akhlas_urdu">
+’’(اے نبيِ مکرّم!) آپ فرما دیجئے: وہ اﷲ ہے جو یکتا ہےo اﷲ سب سے بے نیاز، سب کی پناہ اور سب پر فائق ہے o نہ اس سے کوئی پیدا ہوا ہے اور نہ ہی وہ پیدا کیا گیا ہےo اور نہ ہی اس کا کوئی ہمسر ہےo‘‘
+    </string>
+    <string name="after_talawat">
+پھر اَﷲُ اَکْبَرُ کہتے ہوئے رکوع میں جائے اور گھٹنوں کو ہاتھ کی انگلیوں سے مضبوط پکڑلے اور اتنا جھکے کہ سر اور کمر برابر ہوجائے اور کم سے کم تین بار کہے: </string>
+    <string name="tasbi_raqo_arbi">
+سُبْحَانَ رَبِّيَ الْعَظِيْمِ.
+    </string>
+    <string name="tasbi_raqo_urdu">
+’’پاک ہے میرا پروردگار عظمت والا۔‘‘    </string>
+    <string name="after_raqoo">
+اگر جماعت ہوتو پھر رکوع سے اٹھتے ہوئے صرف امام تسمیع کہے:    </string>
+    <string name="tasmi_arbi">
+سَمِعَ اﷲُ لِمَنْ حَمِدَهُ.
+    </string>
+    <string name="tasmi_urdu">
+’’اﷲ تعاليٰ نے اس بندے کی بات سن لی جس نے اس کی تعریف کی.‘‘
+    </string>
+    <string name="tasmi_qoma">
+        پھر دونوں ہاتھ چھوڑ کرسیدھا کھڑا ہوجائے اور مقتدی تحمید کہے۔
+    </string>
+    <string name="tamheed_arbi">
+رَبَّنَا لَکَ الْحَمْدُ.
+    </string>
+    <string name="tamheed_urdu">
+’’اے ہمارے پروردگار! تمام تعریفیں تیرے لیے ہیں۔‘‘
+    </string>
+    <string name="after_tamheed">
+تنہا نماز پڑھنے والا اور جماعت سے پڑھنے والا دونوں تحمید کہیں پھر اَﷲُ اَکْبَرُکہتا ہوا سجدہ میں جائے اس طرح کہ پہلے گھٹنے پھر دونوں ہاتھ زمین پر رکھے، پھر ناک اور پھر پیشانی خوب جمائے اور چہرہ دونوں ہاتھوں کے درمیان رکھے اور مرد بازوؤں کو کروٹوں سے اور پیٹ کو رانوں سے اور رانوں کو پنڈلیوں سے جدا رکھے اور کُہنیاں زمین سے اٹھی ہوئی ہوں اور دونوں پاؤں کی انگلیوں کے پیٹ قبلہ رُو زمین پر جمے ہوئے ہوں اور کم سے کم تین بار پڑھے:
+    </string>
+    <string name="sajda_tasmee_arbi">
+سُبْحَانَ رَبِّيَ الْاَعْلٰی.
+    </string>
+    <string name="sajda_tasmee_urdu">
+’’پاک ہے میرا پروردگار جو بلند ترہے۔‘‘
+    </string>
+    <string name="sajda_after_jalsa">
+پھراَﷲُ اَکْبَرُ کہتا ہوا سجدہ سے اس طرح اٹھے کہ پہلے پیشانی، پھر ناک، پھر ہاتھ اٹھیں اور بایاں قدم بچھا کر اس پر بیٹھے اور داہنا قدم کھڑا کر کے رکھے۔ اس کی انگلیاں قبلہ رُو ہوں اور ہاتھ رانوں پر گھٹنوں کے قریب کہ ان کی انگلیاں بھی قبلہ رُخ ہوں .
+    </string>
+    <string name="after_jalsa">
+اسی طرح جلسہ سے اَﷲُ اَکْبَرُ کہتا ہوا دوسرا سجدہ کرے اور پھر اَﷲُ اَکْبَرُ کہتا ہوا کھڑا ہوجائے۔
+    </string>
+
+    <string name="qayam">
+تسمیہ، فاتحہ اور کوئی سورۃ پڑھ کر اسی طرح رکوع و سجود کرے لیکن امام کے پیچھے مقتدی تسمیہ، فاتحہ اور سورۃ نہیں پڑھے گا بلکہ خاموش کھڑا رہے گا۔
+    </string>
+    <string name="qehada">
+دوسری رکعت کے دونوں سجدوں سے فارغ ہوکر اس طرح بیٹھ جائے جس طرح دو سجدوں کے درمیان بیٹھا تھا۔ پھر بیٹھ کر تشہد پڑھے۔
+    </string>
+    <string name="tashad_arbi">
+اَلتَّحِيَاتُِﷲِ، وَالصَّلَوٰتُ وَالطَّيِبَاتُ، اَلسَّلَامُ عَلَيْکَ اَيُهَا النَّبِيُ وَرَحْمَةُ اﷲِ وَبَرَکَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَعَلٰی عِبَادِ اﷲِ الصّٰلِحِيْنَ، اَشْهَدُ اَنْ لَّااِلٰهَ اِلَّا اﷲُ، وَاَشْهَدُ اَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ.
+    </string>
+    <string name="tashad_urdu">
+’’تمام قولی، فعلی اور مالی عبادتیں اﷲ ہی کے لیے ہیں، اے نبی! آپ پر سلام ہو اور اﷲ کی رحمت اور برکتیں ہوں، ہم پر اور اﷲ کے تمام نیک بندوں پر بھی سلام ہو، میں گواہی دیتا ہوں کہ اﷲ کے سوا کوئی معبود نہیں اور میں گواہی دیتا ہوں کہ حضرت محمد صلی اللہ علیہ وآلہ وسلم، اللہ کے بندے اور اس کے رسول ہیں۔‘‘
+    </string>
+    <string name="after_tashad">
+جب تشہد میں کلمہ لَا پر پہنچے تو داہنے ہاتھ کی بیچ کی انگلی اور انگوٹھے کا حلقہ بنائے اور چھنگلی اور اس کے پاس والی انگلی کو ہتھیلی سے ملادے اور لفظ لَا پر شہادت کی انگلی اٹھائے اور اِلاَّ پر گرا دے اور سب انگلیاں فوراً سیدھی کردے۔ اگر دو رکعت والی نماز ہے تو اس تشہد کے بعد درود ابراہیمی اور دعا پڑھ کر سلام پھیردے۔
+    </string>
+    <string name="do_char_raqat">
+اگر چار رکعت والی نماز ہے تو تشہد کے بعد اَﷲُ اَکْبَرُ کہہ کر کھڑا ہوجائے اور دونوں رکعتوں میں اگر فرض ہوں تو صرف تسمیہ اور سورئہ فاتحہ پڑھ کر رکوع و سجود کرے اور اگر سنت و نفل ہوں توسورئہ فاتحہ کے بعد کوئی اور سورۃ بھی پڑھے لیکن امام کے پیچھے مقتدی تسمیہ اور فاتحہ نہیں پڑھے گا بلکہ خاموش کھڑا رہے گا۔ پھر چار رکعتیں پوری کر کے بیٹھ جائے اور تشہد، درودِ ابراہیمی اور دعا پڑھے اور سلام پھیردے۔
+    </string>
+    <string name="after_darood">
+درودابراہیمی کے بعد یہ دعا پڑھیں:
+    </string>
+    <string name="dua_e_masora_arbi">
+رَبِّ اجْعَلْنِيْ مُقِيْمَ الصَّلٰوةِ وَمِنْ ذُرِّيَتِيْ رَبَّنَا وَتَقَبَّلْ دُعَآئِo رَبَّنَا اغْفِرْلِيْ وَلِوَالِدَيَ وَلِلْمُؤْمِنِيْنَ يَوْمَ يَقُوْمُ الْحِسَابُo
+    </string>
+    <string name="dua_e_masora_urdu">
+’’اے میرے رب! مجھے اور میری اولاد کو نماز قائم رکھنے والا بنا دے، اے ہمارے رب! اور تو میری دعا قبول فرما لےo اے ہمارے رب! مجھے بخش دے اور میرے والدین کو (بخش دے) اور دیگر سب مومنوں کو بھی، جس دن حساب قائم ہوگاo‘‘
+    </string>
+    <string name="after_dua_e_masora">
+پھر نماز ختم کرنے کے لیے پہلے دائیں اور پھر بائیں طرف منہ کرکے سلام کہے۔
+    </string>
+    <string name="salam_arbi">
+        اَلسَّلَامُ عَلَيْکُمْ وَرَحْمَةُ اﷲِ
+    </string>
+    <string name="salam_urdu">
+’’تم پر سلامتی ہو اور اللہ کی رحمت ہو۔‘‘
+    </string>
+    <string name="namaz_salam_niat">
+دا ہنی طرف کے سلام میں دا ہنی طرف کے فرشتوں اور نمازیوں کی نیت کرے کہ میں ان کو سلام کہہ رہا ہوں اور بائیں طرف کے سلام میں بائیں طرف کے فرشتوں اور نمازیوں کی نیت کرے اورجس طرف امام ہو اس طرف کے سلام میں امام کی نیت بھی کرے۔ اسی طرح امام بھی دونوں طرف کے سلاموں میں فرشتوں اور مقتدیوں کی نیت کرے . جب تنہا ہو تو دونوں طرف کے فرشتوں کی نیت کرے۔
+    </string>
+    <string name="male_female_namaz_farq">
+مرد اور عورت کی جسمانی ساخت میں جو فرق پایا جاتا ہے، شریعت کی رُو سے شرعی اَحکام و مسائل میں بھی اس کا پاس و لحاظ رکھا گیا ہے۔ طہارت کے مسائل ہوں یا حج کے، روزہ کے مسائل ہوں یا زکوٰۃ کے، عورت کے عورت ہونے کا کسی نہ کسی حکم سے اِظہار ہو جاتا ہے جس طرح نمازِ جمعہ و عیدین مردوں پر فرض ہے عورتوں پر نہیں۔
+
+اِسی طرح نماز جیسی افضل عبادت میں بھی بعض مخصوص مواقع پر عورت کا طریقۂ نماز مرد سے مختلف رکھا گیا تاکہ عورت کے پردہ کا لحاظ رکھا جائے۔ اس کے اعضائے نسوانی کا اعلان و اظہار نہ ہو مثلاً عورت نماز میں تکبیر تحریمہ کے وقت ہاتھ کندھے تک اٹھاتی ہے جبکہ مرد کانوں کی لو تک، مردوں کو سجدہ میں پیٹ رانوں سے اور بازو بغل سے جدا رکھنے کا حکم ہے۔ جبکہ عورت کو سمٹ کر سجدہ کرنے کا حکم دیا گیا ہے۔ کہ وہ سجدہ کرے تو اپنے پیٹ کو اپنی دونوں رانوں سے چپکائے . مرد اور عورت کی نماز میں یہ بنیادی فرق (پردہ) کے اعتبار سے ہے۔
+
+پہلا والا نہیں یہ والا نماز کا طریقہ لکھنا ہے ہم نے
+
+
+    </string>
+
+    <string name="namaz_sharayat_number">
+نماز کی چھ شرطیں ہیں:
+    </string>
+    <string name="namaz_sharayat">
+طہارت یعنی نمازی کا بدن اور کپڑے پاک ہوں۔
+نماز کی جگہ پاک ہو۔\n
+\nسترِ عورت یعنی بدن کا وہ حصہ جس کا چھپانا فرض ہے وہ چھپا ہوا ہو۔ مردکے لیے ستر ناف سے لے کر گھٹنے تک ہے اور عورت کے لیے ہاتھوں، پاؤں اور چہرہ کے علاوہ سارا بدن ستر ہے۔
+استقبالِ قبلہ یعنی منہ اور سینہ قبلہ کی طرف ہو۔\n
+\nوقت یعنی نماز کا اپنے وقت پر پڑھنا۔
+\nنیت کرنا . دل کے پکے ارادہ کا نام نیت ہے اگرچہ زبان سے کہنا مستحب ہے۔
+نماز شروع کرنے سے پہلے ان شرطوں کا ہونا ضروری ہے ورنہ نماز نہیں ہوگی.\n
+
+    </string>
+    <string name="namaz_faraiz_numer">
+        نماز کے سات فرائض ہیں:
+    </string>
+    <string name="namaz_faraiz">
+تکبیرِ تحریمہ یعنی اَﷲُ اَکْبَرُ کہنا۔
+قیام یعنی سیدھا کھڑے ہوکر نماز پڑھنا۔فرض، وتر، واجب اور سنت نماز میں قیام فرض ہے، بلاعذرِ صحیح اگر یہ نمازیں بیٹھ کر پڑھے گا تو ادا نہیں ہوں گی. نفل نماز میں قیام فرض نہیں۔\n
+قرآت یعنی مطلقاًایک آیت پڑھنا۔ فرض کی پہلی دو رکعتوں میں اور سنت وتر و نوافل کی ہررکعت میں فرض ہے جب کہ مقتدی کسی نماز میں قرآت نہیں کرے گا۔\n
+رکوع کرنا۔\n
+سجدہ کرنا۔\n
+قعدئہ اخیرہ یعنی نماز پوری کرکے آخرمیں بیٹھنا۔\n
+خروج بصنعِہِ یعنی دونوں طرف سلام پھیرنا۔\n
+اِن فرضوں میں سے ایک بھی رہ جائے تو نماز نہیں ہوتی اگرچہ سجدئہ سہو کیا جائے۔\n
+    </string>
+    <string name="namaz_wajibat_numer">
+نماز میں درج ذیل چودہ امور واجبات میں سے ہیں:
+
+    </string>
+    <string name="namaz_wajibat">
+فرض نمازوں کی پہلی دو رکعتوں میں قرآ ت کرنا (یعنی تنہا نماز پڑھنے والے یا باجماعت نماز میں اِمام کے لیے).
+\nفرض نمازوں کی تیسری اور چوتھی رکعت کے علاوہ تمام نمازوں کی ہر رکعت میں سورہ فاتحہ پڑھنا۔
+فرض نمازوں کی پہلی دو رکعتوں میں اور واجب، سنت اور نفل نمازوں کی تمام رکعتوں میں سورہ فاتحہ کے بعد کوئی سورت یا بڑی آیت یا تین چھوٹی آیات پڑھنا۔\n
+سورہ فاتحہ کو کسی اور سورت سے پہلے پڑھنا۔\n
+قرآ ت، رکوع، سجدوں اور رکعتوں میں ترتیب قائم رکھنا۔\n
+قومہ کرنا یعنی رکوع سے اٹھ کر سیدھا کھڑا ہونا۔\n
+جلسہ یعنی دونوں سجدوں کے درمیان سیدھا بیٹھ جانا۔\n
+\nتعدیلِ ارکان یعنی رکوع، سجدہ وغیرہ کو اطمینان سے اچھی طرح ادا کرنا۔
+قعدۂ اُوليٰ یعنی تین، چار رکعت والی نماز میں دو رکعتوں کے بعد تشہد کے برابر بیٹھنا۔\n
+دونوں قعدوں میں تشہد پڑھنا۔\n
+امام کا نمازِ فجر، مغرب، عشاء، عیدین، تراویح اور رمضان المبارک کے وتروں میں بلند آواز سے قرآ ت کرنا اور ظہر و عصر کی نماز میں آہستہ پڑھنا۔\n
+اَلسَّلَامُ عَلَيْکُمْ وَرَحْمَۃُ اﷲِ کے ساتھ نماز ختم کرنا۔\n
+نمازِ وتر میں قنوت کے لیے تکبیر کہنا اور دعائے قنوت پڑھنا۔\n
+عیدین کی نمازوں میں زائد تکبیریں کہنا۔\n
+نماز کے واجبات میں سے اگر کوئی واجب بھولے سے رہ جائے تو سجدئہ سہو کرنے سے نماز درست ہوجائے گی. سجدئہ سہو نہ کرنے اور قصداً تر ک کرنے سے نماز کا لوٹانا واجب ہے۔\n
+    </string>
+    <string name="sunon_namaz">
+جو چیزیں نماز میں حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم سے ثابت ہیں لیکن ان کی تاکید فرض اور واجب کے برابر نہیں سنن کہلاتی ہیں۔ نماز میں درج ذیل سنن ہیں:
+    </string>
+    <string name="sunon_namaz_treeqa">
+تکبیر تحریمہ کہنے سے پہلے دونوں ہاتھ کانوں تک اٹھانا۔
+دونوں ہاتھوں کی انگلیوں کو معمول کے مطابق کھلی اور قبلہ رخ رکھنا۔\n
+تکبیر کہتے وقت سر کو نہ جھکانا۔\n
+امام کا تکبیر تحریمہ اور ایک رکن سے دوسرے رکن میں جانے کی تمام تکبیریں بلند آواز سے کہنا۔\n
+سیدھے ہاتھ کو بائیں ہاتھ پر ناف کے نیچے باندھنا۔\n
+ثناء پڑھنا۔\n
+تعوذ یعنی اَعُوْذُ بِاﷲِ مِنَ الشَّيْطَانِ الرَّجِيْمِ پڑھنا۔\n
+تسمیہ یعنی بِسْمِ اﷲِ الرَّحْمٰنِ الرَّحِيْمِ پڑھنا۔\n
+فرض نماز کی تیسری اور چوتھی رکعت میں صرف سورہ فاتحہ پڑھنا۔\n
+آمین کہنا\n
+ثنا، تعوذ، تسمیہ اور آمین سب کا آہستہ پڑھنا۔\n
+سنت کے مطابق قرآت کرنا یعنی نماز میں جس قدر قرآنِ مجید پڑھنا سنت ہے اتنا پڑھنا۔\n
+رکوع اور سجدے میں تین تین بار تسبیح پڑھنا۔\n
+رکوع میں سر اور پیٹھ کو ایک سیدھ میں برابر رکھنا اور دونوں ہاتھوں کی کھلی انگلیوں سے گھٹنوں کو پکڑ لینا۔\n
+قومہ میں امام کا تسمیع یعنی سَمِعَ اﷲُ لِمَنْ حَمِدَہُ اور مقتدی کا تحمید رَبَّنَا لَکَ الْحَمْدُ کہنا اور منفرد کا تسمیع اور تحمید دونوں کہنا۔\n
+سجدے میں جاتے وقت پہلے دونوں گھٹنے، پھر دونوں ہاتھ، پھر ناک، پھر پیشانی رکھنا اور اٹھتے وقت اس کے برعکس عمل کرنا یعنی پہلے پیشانی، پھر ناک، پھر ہاتھ اور اس کے بعد گھٹنے اٹھانا۔\n
+جلسہ اور قعدہ میں بایاں پاؤں بچھا کر اس پر بیٹھنا اور سیدھے پاؤں کو اس طرح کھڑا رکھنا کہ اس کی انگلیوں کے سرے قبلہ رخ ہوں اور دونوں ہاتھ رانوں پر رکھنا۔\n
+تشہد میں اَشْھَدُ اَنْ لَّا اِلٰہَ پر شہادت کی انگلی سے اشارہ کرنا اور اِلَّا اﷲُ پر انگلی گرا دینا۔\n
+قعدۂ اخیرہ میں تشہد کے بعد درودِ ابراہیمی پڑھنا۔\n
+درود اِبراہیمی کے بعد دعا پڑھنا۔\n
+پہلے دائیں طرف پھر بائیں طرف سلام پھیرنا۔\n
+ان سنتوں میں سے اگر کوئی سنت سہواً رہ جائے یا قصداً ترک کی جائے تو نماز نہیں ٹوٹتی اور نہ ہی سجدۂ سہو واجب ہوتا ہے لیکن قصداً چھوڑنے والا گنہگار ہوتا ہے۔\n
+    </string>
+    <string name="namaz_mustahbat">
+قیام میں سجدہ کی جگہ نگاہ رکھنا۔
+رکوع میں قدموں پر نظر رکھنا۔\n
+سجدہ میں ناک کی نوک پر نظر رکھنا۔\n
+قعدہ میں گود پر نظر رکھنا۔\n
+سلام پھیرتے وقت دائیں اور بائیں جانب کے کندھے پر نظر رکھنا۔\n
+جمائی کو آنے سے روکنا، نہ رکے تو حالتِ قیام میں دائیں ہاتھ سے منہ ڈھانک لیں اور دوسری حالتوں میں بائیں ہاتھ کی پیٹھ سے۔\n
+مرد تکبیر تحریمہ کے لیے کپڑے سے ہاتھ باہر نکالیں اور عورتیں اندر رکھیں۔\n
+کھانسی روکنے کی کوشش کرنا۔\n
+\nحَيَ عَلَی الْفَلَاحِ پر امام و مقتدی کا کھڑے ہونا۔
+حالتِ قیام میں دونوں پاؤں کے درمیان کم از کم چار انگلیوں کا فاصلہ ہو۔\n
+    </string>
+    <string name="namaz_mufsadat_info">
+بعض اعمال کی وجہ سے نماز ٹوٹ جاتی ہے اور اسے لوٹانا ضروری ہو جاتا ہے، انہیں مفسداتِ نماز کہتے ہیں۔ نماز کو فاسد بنانے والے اعمال درج ذیل ہیں:
+    </string>
+    <string name="namaz_mufsadat">
+نماز میں بات چیت کرنا۔
+سلام کرنا۔\n
+سلام کا جواب دینا۔\n
+درد اور مصیبت کی وجہ سے آہ و بکا کرنا یا اُف کہنا (لیکن جنت و دوزخ کے ذکر پر رونے سے نماز فاسد نہیں ہوتی).\n
+چھینک آنے پر اَلْحَمْدُِﷲِ کہنا۔\n
+کسی کی چھینک پر يَرْحَمُکَ اﷲُ یا کسی کے جواب میں يَھْدِيْکُمُ اﷲُ کہنا۔\n
+بری خبر پر اِنَّاِﷲِ وَاِنَّا اِلَيْہِ رَاجِعُوْنَ پڑھنا۔\n
+اچھی خبر پر اَلْحَمْدُ لِلّٰہِ کہنا۔\n
+دیکھ کر قرآن پڑھنا۔\n
+کھانا پینا۔\n
+عملِ کثیر یعنی ایسا کام کرنا کہ دیکھنے والا یہ گمان کرے کہ وہ نماز میں نہیں ہے۔\n
+نمازی کا اپنے امام کے سوا کسی اور کو لقمہ دینا۔\n
+قہقہہ کے ساتھ ہنسنا۔\n
+    </string>
+    <string name="namaz_makrohat_info">
+بعض امور کی وجہ سے نماز ناقص ہو جاتی ہے یعنی نمازی اَصل اَجر و ثواب اور کمال سے محروم رہتا ہے، انہیں مکروہات کہتے ہیں۔ ان سے اِجتناب کرنا چاہیے۔ نماز کو مکروہ بنانے والے امور درج ذیل ہیں
+ہر ایسا کام جو نماز میں اﷲ کی طرف سے توجہ ہٹا دے مکروہ ہے۔
+           </string>
+    <string name="namaz_makrohat">
+داڑھی، بدن یا کپڑوں سے کھیلنا۔
+اِدھر اُدھر منہ پھیر کر دیکھنا۔\n
+آسمان کی طرف دیکھنا۔\n
+\nکمر یا کولہے وغیرہ پر ہاتھ رکھنا۔
+کپڑا سمیٹنا۔\n
+\nسَدْلِ ثوب یعنی کپڑا لٹکانا مثلاً سر یا کندھوں پر اس طرح ڈالنا کہ دونوں کنارے لٹکتے ہوں۔
+آستین آدھی کلائی سے زیادہ چڑھی ہوئی رکھنا۔\n
+\nانگلیاں چٹخانا۔
+بول و براز (پاخانہ / پیشاب) یا ہوا کے غلبے کے وقت نماز ادا کرنا۔ اگر دورانِ نماز میں یہ کیفیت پیدا ہو جائے اور وقت میں بھی گنجائش ہو تو نماز توڑ دینا واجب ہے۔\n
+قعدہ یا سجدوں کے درمیان جلسہ میں گھٹنوں کو سینے سے لگانا۔\n
+بلاوجہ کھنکارنا۔\n
+\nناک و منہ کو چھپانا۔
+جس کپڑے پر جاندار کی تصویر ہو اس کو پہن کر نماز پڑھنا۔\n
+کسی کے منہ کے سامنے نماز پڑھنا۔\n
+پگڑی یا عمامہ اس طرح باندھنا کہ درمیان سے سر ننگا ہو۔\n
+کسی واجب کو ترک کرنا مثلاً رکوع میں کمر سیدھی نہ کرنا، قومہ یا جلسہ میں سیدھے ہونے سے پہلے سجدہ کو چلے جانا۔\n
+قیام کے علاوہ اور کسی جگہ پر قرآنِ حکیم پڑھنا۔\n
+رکوع میں قرآ ت ختم کرنا۔\n
+صرف شلوار یا چادر باندھ کر نماز پڑھنا۔\n
+امام سے پہلے رکوع و سجود میں جانا یا اٹھنا۔\n
+\nقیام کے علاوہ نماز میں کسی اور جگہ قرآنِ حکیم پڑھنا۔
+چلتے ہوئے تکبیر تحریمہ کہنا۔\n
+امام کا کسی آنے والے کی خاطر نماز کو بلا وجہ لمبا کرنا۔\n
+قبر کے سامنے نماز پڑھنا۔\n
+غصب کی ہوئی زمین/مکان/کھیت میں نماز پڑھنا۔\n
+الٹا کپڑا پہن/اوڑھ کر نماز پڑھنا۔\n
+اچکن وغیرہ کے بٹن کھول کر نماز پڑھنا جبکہ نیچے قمیص نہ ہو۔\n
+    </string>
+    <string name="namaz_qaza">
+بلاعذر نماز توڑنا حرام ہے، البتہ چند حالتوں میں نماز توڑنا جائز ہے مثلاً مال کے ضائع ہونے کا اندیشہ ہو تو نماز توڑنا مباح ہے جبکہ جان بچانے کے لیے واجب ہے، خواہ اپنی جان یا کسی مسلمان کی جان بچانا مقصود ہو۔ نماز توڑنے کے لیے بیٹھنے کی ضرورت نہیں بلکہ کھڑے کھڑے ایک طرف سلام پھیر دینا کافی ہے۔
+    </string>
+    <string name="sajida_saho_info">
+جب نماز کا کوئی واجب بھولے سے چھوٹ جائے یا کسی فرض کو مکرر کیا جائے۔ مثلاً رکوع دو مرتبہ کرے، نماز کے فرض یا واجب میں زیادتی ہوجائے مثلاً قعدہ اوّل میں تشہد کے بعد درود شریف پڑھ لے تو سجدہ سہو لازم ہے۔ امام کے سہوسے مقتدی کو بھی سجدہ سہو کرنا ہوگا، لیکن اگر مقتدی سے سہو ہوجائے تو مقتدی کو سجدہ سہو لازم نہیں کیوں کہ وہ امام کے تابع ہے۔ امام سہو کرنے لگے تو مقتدی اَﷲُ اَکْبَرُ یا سُبْحَانَ اﷲ کہہ کر امام کو یاد دلائے اور اس کی اِصلاح کرے۔ لیکن اگر عورت مقتدی ہو اور امام سہو کرنے لگے تو اگر امام سہو سے لوٹ آئے تو بہتر ورنہ مقتدیہ عورت اَﷲُ اَکْبَرُ یا سُبْحَانَ اﷲ کہنے کی بجائے تفسیق (یعنی اپنے دایاں ہاتھ بائیں ہاتھ پر مارنے کی آواز) کے ذریعے امام کی اِصلاح کرے گی۔
+
+    </string>
+    <string name="sajida_saho_triqa">
+قعدئہ اخیرہ میں تشہد پڑھنے کے بعد دائیں طرف سلام پھیر کر دو سجدے کرے، اس کے بعد پھر تشہد، درودِ اِبراہیمی اور دعا پڑھ کر دونوں طرف سلام پھیر دے۔
+    </string>
+
+    <string name="fajar_waqat">
+فجر کی نماز کا وقت طلوعِ صبحِ صادق سے آفتاب کی کرن چمکنے تک ہے۔
+    </string>
+    <string name="fajar_tariqa">
+طریقہ:پہلے سنتیں ادا کی جائیں گی پھر دو فرض ادا کیے جائیں گے۔ فجر کی سنتوں کی اہمیت کے پیش نظر شرعی حکم یہ ہے کہ جماعت میں تاخیر سے شامل ہونے کی صورت میں اندازہ کرلیں کہ اگر امام کے سلام پھیرنے سے قبل دو سنتیں ادا کی جاسکتی ہیں تو پہلے سنتیں ادا کرلے اور پھر جماعت میں شامل ہوجائے۔ بصورتِ دیگر جماعت کے ساتھ شامل ہوجائے۔
+    </string>
+
+    <string name="zohar_waqat">
+ظہر کی نماز کا وقت آفتاب ڈھلنے سے اُس وقت تک ہے کہ ہر چیز کا سایہ علاوہ اَصلی کے دو گنا ہو جائے۔ یہی وقت نمازِ جمعہ کا ہے۔    </string>
+
+    <string name="asar_waqat">
+نماز عصر کا وقت ظہر کا وقت ختم ہونے کے بعد یعنی سوا سایۂ اصلی کے دو مثل سایہ ہونے سے آفتاب ڈوبنے تک ہے۔    </string>
+
+    <string name="magrab_waqat">
+مغرب کا وقت غروبِ آفتاب سے غروبِ شفق تک ہے۔    </string>
+
+    <string name="isha_waqat">
+عشاء کی نماز کا وقت غروبِ سپیدی مذکور سے طلوع فجر تک ہے لیکن شمالاً جنوباً پھیلی ہوئی سپیدی کے بعد جو سپیدی شرقاً غرباً باقی رہتی ہے اس کا کچھ اعتبار نہیں، وہ جانب شرق میں صبح کاذب کی مثل ہے۔    </string>
+    >
+    <string name="sunat_moqda_vs_ghair_moqda">
+اگر چار رکعت سنتِ مؤکدہ ہیں تو دوسری رکعت کے بعد قعدہ میں تشہد پورا پڑھنے کے بعد اور درودِ ابراہیمی سے قبل کھڑے ہوجائیں . تیسری اور چوتھی رکعت میں سورئہ فاتحہ کے بعد کوئی سورۃ ملاکر معمول کے مطابق قعدئہ اخیرہ میں تشہد، درود ابراہیمی اور دعا پڑھ کر سلام پھیر دیں گے۔ جبکہ سنتِ غیر مؤکدہ میں دوسری رکعت میں تشہد کے بعد درود ابراہیمی اور دعا پڑھ کر کھڑے ہوجائیں گے اور تیسری رکعت میں سورئہ فاتحہ سے پہلے ثناء پڑھیںگے۔ بقیہ نماز مؤکدہ سنتوں کی طرح ادا کریں گے
+     </string>
+    <string name="tahajt_info">
+٭ اس کی کم از کم دو (2) رکعتیں ہیں۔ مسنون رکعات آٹھ(8) ہیں اور مشائخ کے ہاں بارہ (12) رکعات کامعمول بھی ہے۔
+        ٭ یہ نماز تنہائی میں اللہ تعاليٰ سے مناجات اورملاقات کا دروازہ ہے اور انوار و تجلیات کا خاص وقت ہے۔ احادیثِ نبوی صلی اللہ علیہ وآلہ وسلم میں اس کی بہت زیادہ فضیلت بیان ہوئی ہے:
+    </string>
+
+    <string name="tahajt_waqat">
+٭ بعد نمازِ عشاء سو کر جس وقت بھی اٹھ جائیں پڑھ سکتے ہیں۔بہتر وقت دو (2) ہیں: نصف شب یا آخر شب.
+        ٭ تہجد کے لیے اٹھنے کا یقین ہو تو وتر چھوڑسکتے ہیں۔ اس صورت میں وتر کو نمازِ تہجد کے ساتھ آخر میں پڑھیں۔ یوں کل گیارہ (11) رکعات بن جائیں گی ورنہ وتر بھی نمازِ عشاء کے ساتھ پڑھ لینا بہتر ہے۔\n
+    </string>
+    <string name="tahajt_ref">
+    صحیح بخاری اور صحیح مسلم میں حضرت عبداﷲ بن عمرو رضی اللہ عنہ سے روایت ہے کہ حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم نے فرمایا:’’اﷲ تعاليٰ کو تمام (نفل) نمازوں میں سب سے زیادہ محبوب صلاۃ داؤد علیہ السلام ہے، وہ آدھی رات سوتے، (پھر اٹھ کر) ایک تہائی رات عبادت کرتے اور پھر چھٹے حصے میں سو جاتے۔‘‘
+    </string>
+    <string name="ahsrak_info">
+اسے نمازِ فجر اور صبح کے وظائف پڑھ کر اُٹھنے سے پہلے اسی مقام پر ادا کریں۔
+اس کی رکعات کم از کم دو (2) اور زیادہ سے زیادہ چھ (2) ہیں۔\n
+اس نماز سے باطن کو نور ملتا ہے اور قلب کو سکون و اطمینان کی دولت نصیب ہوتی ہے۔\n
+     </string>
+    <string name="ahsrak_ref">
+ترمذی نے حضرت انس رضی اللہ عنہ سے روایت کیا ہے کہ حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم نے فرمایا: ’’جو شخص نمازِ فجر باجماعت ادا کرنے کے بعد طلوع آفتاب تک ذکرِ الٰہی میں مشغول رہا پھر دو رکعت نماز ادا کی تو اسے پورے حج اور عمرے کا ثواب ملے گا۔‘‘    </string>
+    <string name="ahsrak_waqat">
+اس کا وقت طلوعِ آفتاب سے 20 منٹ بعد شروع ہوتا ہے
+    </string>
+    <string name="chashat_waqat">
+اس کا وقت طلوعِ آفتاب سے 20 منٹ بعد شروع ہوتا ہے
+    </string>
+    ////////////////////////////////END//////////////////////////////////////////////
 </resources>

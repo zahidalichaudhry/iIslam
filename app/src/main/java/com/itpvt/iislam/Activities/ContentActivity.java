@@ -12,7 +12,7 @@ import android.widget.TextView;
 import com.itpvt.iislam.R;
 
 public class ContentActivity extends AppCompatActivity {
-    LinearLayout kalima,dua;
+    LinearLayout kalima,dua,pakiz,namaz;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -33,6 +33,22 @@ public class ContentActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent intent =new Intent(ContentActivity.this,Dua.class);
+                startActivity(intent);
+            }
+        });
+        pakiz=(LinearLayout)findViewById(R.id.pakiz);
+        pakiz.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent =new Intent(ContentActivity.this,Pakizgi.class);
+                startActivity(intent);
+            }
+        });
+        namaz=(LinearLayout)findViewById(R.id.namaz);
+        namaz.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent =new Intent(ContentActivity.this,Namaz.class);
                 startActivity(intent);
             }
         });

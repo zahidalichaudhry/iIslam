@@ -45,6 +45,7 @@ public class TitleAdapter extends RecyclerView.Adapter<TitleAdapter.MyViewHolder
                 intent.putExtra("Title",arrayList.get(i).getTitle());
                 intent.putExtra("Arbi",arrayList.get(i).getArbi());
                 intent.putExtra("Urdu",arrayList.get(i).getUrdu());
+                intent.putExtra("English",arrayList.get(i).getEnglish());
                 intent.putExtra("Ref",arrayList.get(i).getRefrence());
                 intent.putExtra("RefLink",arrayList.get(i).getRefrenceLink());
                activity.startActivity(intent);
