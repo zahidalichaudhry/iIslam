@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">iIslam</string>
+    <string name="wazaiftext">Azkar &amp; Wazaif</string>
     /////////////////////////////////////Kamalmat///////////////////////
     <string name="kalimatayabarbi">لآ اِلَهَ اِلّا اللّهُ مُحَمَّدٌ رَسُوُلُ اللّهِ</string>
     <string name="kalimatayabenglish">There is no God but Allah Muhammad is the Messenger of Allah</string>
@@ -26,7 +27,10 @@
     <string name="kalimaRudurdu">میں اللہ کی پناہ مانگتا ہوں کہ میں کسی شے کو اس کا شریک ٹھراوں اور مجھے اس کا علم ہو اور میں معافی مانگتا ہوں اس گناہ سے جو مجھے معلوم نہیں میں نے اس سے توبہ کی اور بیزار ہوا کفر سے، شرک سے، جھوٹ سے ،غیبت سے ، بدعت سے ، چغلی سے ، نے حیائی کے کاموں سے اور تہمت لگانے سے اور باقی ہر قسم کی نافرمانیوں سے اور میں تسلیم کرتا ہوں کہ اللہ کے سوا کوئی معبود نہیں اور حضرت محمد صلی اللہ علیہ وسلم اللہ کے رسول ہیں</string>
     ///////////////////////////////////////////////////////////////////////
     ////////////////////////////////DUyainMasnoon////////////////////////////
+    <String name="Aytalkursi_Title">Ayatal Kursi</String>
     <string name="Aytalkursiarbi">اللهُ لاَ إِلَهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلاَّ بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالأَرْضَ وَلاَ يَئُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ</string>
+    <string name="Aytalkursiurdu">’’اﷲ، اس کے سوا کوئی عبادت کے لائق نہیں، ہمیشہ زندہ رہنے والا ہے (سارے عالم کو اپنی تدبیر سے) قائم رکھنے والا ہے، نہ اس کو اُونگھ آتی ہے اور نہ نیند، جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے سب اسی کا ہے، کون ایسا شخص ہے جو اس کے حضور اس کے اِذن کے بغیر سفارش کر سکے، جو کچھ مخلوقات کے سامنے (ہو رہا ہے یا ہو چکا) ہے اور جو کچھ ان کے بعد (ہونے والا) ہے (وہ) سب جانتا ہے، اور وہ اس کی معلومات میں سے کسی چیز کا بھی احاطہ نہیں کر سکتے مگر جس قدر وہ چاہے، اس کی کرسئ (سلطنت و قدرت) تمام آسمانوں اور زمین کو محیط ہے، اور اس پر ان دونوں (یعنی زمین و آسمان) کی حفاظت ہرگز دشوار نہیں، وہی سب سے بلند رتبہ بڑی عظمت والا ہے۔‘‘ُ</string>
+
     <string name="qanootarbi">للَّهُمَّ إنا نَسْتَعِينُكَ وَنَسْتَغْفِرُكَ وَنُؤْمِنُ بِكَ وَنَتَوَكَّلُ عَلَيْكَ وَنُثْنِئْ عَلَيْكَ الخَيْرَ وَنَشْكُرُكَ وَلَا نَكْفُرُكَ وَنَخْلَعُ وَنَتْرُكُ مَنْ ئَّفْجُرُكَاَللَّهُمَّ إِيَّاكَ نَعْبُدُ وَلَكَ نُصَلِّئ وَنَسْجُدُ وَإِلَيْكَ نَسْعأئ وَنَحْفِدُ وَنَرْجُو رَحْمَتَكَ وَنَخْشآئ عَذَابَكَ إِنَّ عَذَابَكَ بِالكُفَّارِ مُلْحَقٌ
 
     </string>
@@ -956,6 +960,7 @@ O Allah, whomever you give life from among us give him life in Islam, and whomev
     <string name="sunat_moqda_vs_ghair_moqda">
 اگر چار رکعت سنتِ مؤکدہ ہیں تو دوسری رکعت کے بعد قعدہ میں تشہد پورا پڑھنے کے بعد اور درودِ ابراہیمی سے قبل کھڑے ہوجائیں . تیسری اور چوتھی رکعت میں سورئہ فاتحہ کے بعد کوئی سورۃ ملاکر معمول کے مطابق قعدئہ اخیرہ میں تشہد، درود ابراہیمی اور دعا پڑھ کر سلام پھیر دیں گے۔ جبکہ سنتِ غیر مؤکدہ میں دوسری رکعت میں تشہد کے بعد درود ابراہیمی اور دعا پڑھ کر کھڑے ہوجائیں گے اور تیسری رکعت میں سورئہ فاتحہ سے پہلے ثناء پڑھیںگے۔ بقیہ نماز مؤکدہ سنتوں کی طرح ادا کریں گے
      </string>
+    <string name="namaz_tahajt_title">Namaz-e-Tahjat</string>
     <string name="tahajt_info">
 ٭ اس کی کم از کم دو (2) رکعتیں ہیں۔ مسنون رکعات آٹھ(8) ہیں اور مشائخ کے ہاں بارہ (12) رکعات کامعمول بھی ہے۔
         ٭ یہ نماز تنہائی میں اللہ تعاليٰ سے مناجات اورملاقات کا دروازہ ہے اور انوار و تجلیات کا خاص وقت ہے۔ احادیثِ نبوی صلی اللہ علیہ وآلہ وسلم میں اس کی بہت زیادہ فضیلت بیان ہوئی ہے:
@@ -968,7 +973,8 @@ O Allah, whomever you give life from among us give him life in Islam, and whomev
     <string name="tahajt_ref">
     صحیح بخاری اور صحیح مسلم میں حضرت عبداﷲ بن عمرو رضی اللہ عنہ سے روایت ہے کہ حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم نے فرمایا:’’اﷲ تعاليٰ کو تمام (نفل) نمازوں میں سب سے زیادہ محبوب صلاۃ داؤد علیہ السلام ہے، وہ آدھی رات سوتے، (پھر اٹھ کر) ایک تہائی رات عبادت کرتے اور پھر چھٹے حصے میں سو جاتے۔‘‘
     </string>
-    <string name="ahsrak_info">
+    <string name="namaz_ashrak_title">Namaz-e-Ashrak</string>
+    <string name="ashrak_info">
 اسے نمازِ فجر اور صبح کے وظائف پڑھ کر اُٹھنے سے پہلے اسی مقام پر ادا کریں۔
 اس کی رکعات کم از کم دو (2) اور زیادہ سے زیادہ چھ (2) ہیں۔\n
 اس نماز سے باطن کو نور ملتا ہے اور قلب کو سکون و اطمینان کی دولت نصیب ہوتی ہے۔\n
@@ -978,8 +984,388 @@ O Allah, whomever you give life from among us give him life in Islam, and whomev
     <string name="ahsrak_waqat">
 اس کا وقت طلوعِ آفتاب سے 20 منٹ بعد شروع ہوتا ہے
     </string>
+    <string name="namaz_chashat_title">Namaz-e-Chashat</string>
     <string name="chashat_waqat">
-اس کا وقت طلوعِ آفتاب سے 20 منٹ بعد شروع ہوتا ہے
+اس نماز کا وقت آفتاب کے خوب طلوع ہو جانے پر ہو تا ہے . جب طلوعِ آفتاب اورآغازِ ظہر کے درمیان کل وقت کا آدھا حصہ گزر جائے تو یہ چاشت کے لیے افضل وقت ہے۔
     </string>
+    <string name="chashat_info">
+اس کی کم از کم چار (4) اور زیادہ سے زیادہ بارہ (12) رکعات ہیں۔کم از کم دو (2) اور زیادہ سے زیادہ آٹھ (8) رکعات بھی بیان کی گئی ہیں۔
+دیگر فرائض اورزندگی کی ذمہ داریوں سے فراغت ہو تو نمازِ اشراق سے چاشت تک اسی جگہ پر عبادت اور وظائف و اذکار جاری رکھے جائیں۔ احادیث نبوی میں اس نماز کے بہت فضائل بیان ہوئے ہیں:\n
+    </string>
+    <string name="chashat_ref">
+ترمذی اور ابن ماجہ نے حضرت انس رضی اللہ عنہ سے روایت کیا ہے حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم نے فرمایا: ’’جس نے چاشت کی بارہ رکعتیں پڑھیں اللہ تعاليٰ اس کے لیے جنت میں سونے کا محل بنائے گا۔‘‘
+    </string>
+    <string name="namaz_awaben_title">Namaz-e-Awabin</string>
+    <string name="namaz_awaben_waqat">
+یہ مغرب اور عشاء کے درمیان کی نماز ہے جو کم از کم دو)(2 طویل رکعات یا چھ )(2 مختصر رکعات سے لے کر زیادہ سے زیادہ بیس )(20رکعات پر مشتمل ہے۔
+    </string>
+    <string name="namaz_awaben_info">
+یہ نماز اجر میں بارہ سال کی عبادت کے برابر بیان کی گئی ہے۔ اس کی فضیلت اور انوار و برکات بھی نمازِ تہجد جیسی ہیں۔
+اس کا معمول پختگی سے اپنایا جائے خواہ کم سے کم رکعات ہی کیوں نہ ہوں۔ یہ خاص قبولیت، قرب، تجلیات اور انعامات کا وقت ہے۔ اس کے اسرار بے شمار ہیں۔\n
+    </string>
+    <string name="namaz_awaben_ref">
+
+1. ترمذی اورابن ماجہ میں حضرت ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم نے فر مایا: ’’جو شخص مغرب کے بعد چھ رکعات نفل اس طرح (مسلسل) پڑھے کہ ان کے درمیان کوئی بری بات نہ کرے تو اس کے لیے یہ نوافل بارہ برس کی عبادت کے برابر شمار ہوں گے۔‘‘
+
+\n. طبرانی نے حضرت عمار بن یاسر رضی اللہ عنہ سے روایت کیا ہے کہ حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم نے فرمایا: ’’جو شخص مغرب کے بعد چھ رکعتیں پڑھے اس کے گناہ بخش دیے جائیں گے اگرچہ سمندر کی جھاگ کے برابر ہی کیوں نہ ہوں۔‘‘
+
+\n. ترمذی نے حضرت عائشہ صدیقہ رضی اللہ عنہا سے روایت کیا ہے کہ ’’جو شخص مغرب کے بعد بیس رکعتیں پڑھے اللہ تعاليٰ اس کے لیے جنت میں ایک مکان بنائے گا۔‘‘
+
+        </string>
+    <string name="namaz_toba_title">Namaz-e-Toba</string>
+    <string name="namaz_toba_waqat">
+مکروہ اوقات کے علاوہ کسی بھی وقت دو رکعت نفل نمازِ توبہ ادا کی جاسکتی ہے۔ خصوصاً گناہ سرزد ہونے کے بعد اس نماز کے پڑھنے سے گناہ معاف کر دیے جاتے ہیں۔
+    </string>
+    <string name="namaz_toba_ref">
+امام ابوداؤد، ترمذی، ابن ماجہ اور ابن حِبان نے حضرت ابوبکر صدیق رضی اللہ عنہ سے روایت کی ہے کہ حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم نے فرمایا: ’’جب کسی سے گناہ سرزد ہوجائے تو وہ وضو کر کے نماز پڑھے، پھر استغفار کرے تو اللہ تعاليٰ اس کے گناہ بخش دیتا ہے۔ پھر یہ آیتِ مبارکہ تلاوت فرمائی:
+    </string>
+    <string name="namaz_toba_dua_arbi">
+وَالَّذِيْنَ اِذَا فَعَلُوْا فَاحِشَةً اَوْ ظَلَمُوْا اَنْفُسَهُمْ ذَکَرُوا اﷲَ فَاسْتَغْفَرُوْا لِذُنُوْبِهِمْ قف وَمَنْ يَغْفِرُ الذُّنُوْبَ اِلَّا اﷲُ ص وَلَمْ يُصِرُّوْا عَلٰی مَا فَعَلُوْا وَهُمْ يَعْلَمُوْنَo
+
+(آل عمران، 3:135)
+
+    </string>
+    <string name="namaz_toba_dua_urdu">
+’’اور (یہ) ایسے لوگ ہیں کہ جب کوئی برائی کر بیٹھتے ہیں یا اپنی جانوں پر ظلم کر بیٹھتے ہیں تو اللہ کا ذکر کرتے ہیں، پھر اپنے گناہوں کی معافی مانگتے ہیں، اور اللہ کے سوا گناہوں کی بخشش کون کرتا ہے اور پھر جو گناہ وہ کر بیٹھے تھے ان پر جان بوجھ کر اِصرار بھی نہیں کرتےo ‘‘
+    </string>
+    <string name="namaz_tasbi_title">Namaz-e-Tasbi</string>
+    <string name="namaz_tasbi_waqat">
+اس نماز کی چار رکعات ہیں، مکروہ اوقات کے علاوہ ان کو جب چاہیں ادا کیا جا سکتا ہے۔اس کا طریقہ یہ ہے کہ تکبیرِ تحریمہ کے بعد ثنا پڑھیں۔
+    </string>
+    <string name="namaz_tasbi_Triqa">
+سُبْحَانَکَ اللّٰهُمَّ وَبِحَمْدِکَ، وَتَبَارَکَ اسْمُکَ، وَتَعَالٰی جَدُّکَ، وَلَا اِلٰهَ غَيْرُکَ.
+
+’’اے اﷲ! ہم تیری پاکی بیان کرتے ہیں، تیری تعریف کرتے ہیں، تیرا نام بہت برکت والا ہے، تیری شان بہت بلند ہے اور تیرے سوا کوئی عبادت کے لائق نہیں۔‘‘\n
+
+ثنا کے بعد پندرہ (15) بار درج ذیل تسبیح پڑھیں:\n
+
+سُبْحَانَ اﷲِ وَالْحَمْدُِﷲِ وَلَآ اِلٰهَ اِلَّا اﷲُ وَاﷲُ اَکْبَر.\n
+
+\nپھر تعوذ، تسمیہ، سورۃ الفاتحہ اور کوئی سورت پڑھ کر دس (10) بار یہی تسبیح پڑھیں، پھر رکوع میں
+
+\n سُبْحَانَ رَبِّيَ الْعَظِيْمُ.
+
+\nکے بعد دس (10) بار، پھر رکوع سے اٹھ کر
+
+سَمِعَ اﷲُ لِمَنْ حَمِدَهُ رَبَّنَا وَلَکَ الْحَمْد\nُ
+
+\nکے بعد دس (10) بار، پھر سجدے میں
+
+\n سُبْحَانَ رَبِّيَ الْاَعْلٰی
+
+\n کے بعد دس (10) بار، پھر سجدے سے اٹھ کر جلسہ میں دس (10) بار، پھر دوسرے سجدے میں
+
+\nسُبْحَانَ رَبِّيَ الْاَعْلٰی
+
+کے بعددس (10) بار پڑھیں۔\n
+        پھر دوسری رکعت میں کھڑے ہو جائیں اور تسمیہ یعنی بِسْمِ اﷲِ الرَّحْمٰنِ الرَّحِيْمِo سے پہلے پندرہ (15) بار اسی تسبیح کو پڑھیں اور بعد ازاں سورت فاتحہ، پھر اسی طریقے سے چاروں رکعات مکمل کریں۔ ہر رکعت میں پچھتر (75) بار اور چاروں رکعات میں کل ملا کر تین سو (300) بار یہ تسبیح پڑھی جائے گی.
+
+</string>
+
+    <string name="namaz_tasbi_ref">
+        احادیثِ نبوی سے ثابت ہوتا ہے کہ نمازِ تسبیح کو یومِ جمعہ یا مہینہ میں ایک بار یا سال میں ایک بار یا کم از کم عمر بھر میں ایک بار ضرورپڑھا جائے۔
+
+امام ترمذی، ابوداؤد، ابن ماجہ اور بیہقی سمیت اہل علم کی ایک جماعت نے اپنی اپنی کتب میں بیان کیا ہے حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم نے حضرت عباس رضی اللہ عنہ سے فرمایا: ’’اے چچا جان! کیا میں آپ سے صلہ رحمی نہ کروں؟ کیا میں آپ کو عطیہ نہ دوں؟ کیا میں آپ کو نفع نہ پہنچاؤں؟ کیا آپ کو دس خصلتوں والا نہ بنا دوں؟ کہ جب تک آپ ان پر عمل پیرا رہیں تو اللہ تعاليٰ آپ کے اگلے پچھلے، پرانے، نئے، غلطی سے یا جان بوجھ کر، چھوٹے، بڑے، پوشیدہ اور ظاہر ہونے والے تمام گناہ معاف فرما دے گا۔‘‘ (اس کے بعد حضورنبی اکرم صلی اللہ علیہ وآلہ وسلم نے انہیں نمازِ تسبیح کا طریقہ سکھایا۔) پھر فرمایا:’’ اگر روزانہ ایک مرتبہ پڑھ سکو تو پڑھو، اگر یہ نہ ہو سکے توہر جمعہ کو، اگر اس طرح بھی نہ کر سکو تو مہینہ میں ایک بار، اگر ہر مہینے نہ پڑھ سکو تو سال میں ایک بار اور اگرایسا بھی نہ ہو سکے تو عمر بھر میں ایک بار پڑھ لو۔‘‘
+
+    </string>
+
+    <string name="namaz_hajat_title">Namaz-e-Hajat</string>
+    <string name="namaz_hajat_info">
+جب کسی کو کوئی حاجت پیش آئے تو وہ اللہ کی تائید و نصرت کے لیے کم از کم دو رکعت نفل بطور حاجت پڑھے۔
+    </string>
+    <string name="namaz_hajat_waqat">
+ان دونوں رکعتوں میں سورۃ الفاتحہ کے بعد 11، 11 مرتبہ سورۃ الاخلاص پڑھنا باعثِبرکت ہے۔ چار رکعات بھی ادا کرسکتاہے۔مکروہ اوقات کے علاوہ کسی بھی وقت یہ نماز ادا کی جاسکتی ہے۔ اس نماز کی برکت سے اللہ تعاليٰ حاجت پوری فرما دیتا ہے۔
+    </string>
+    <string name="namaz_hajat_ref">
+        . ترمذی، ابن ماجہ، حاکم، بزار اور طبرانی نے حضرت عبداللہ بن ابی اوفی سے روایت کیا ہے کہ حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم نے فرمایا: ’’جس شخص کو اللہ تعاليٰ یا کسی انسان کی طرف کوئی حاجت ہو تو اسے چاہیے کہ اچھی طرح وضو کر کے دو رکعت نفل پڑھے اور پھر اللہ تعاليٰ کی حمد و ثنا اور بارگاہ رسالت میں تحفۂ درود پیش کر کے یہ دعا مانگے
+    </string>
+
+
+
+    <string name="namaz_istkhara_title">Namaz-e-Istkhara</string>
+    <string name="namaz_istkhara_info">
+اگر کوئی شخص کسی جائز کام کے کرنے یا نہ کرنے کا فیصلہ کرنا چاہتا ہو تو دو رکعت نمازِ استخارہ پڑھے۔ ان دو رکعات میں سے پہلی رکعت میں سورۃ الکافرون اور دوسری رکعت میں سورۃ الاخلاص پڑھے۔ پھر درج ذیل دعا پڑھے:    </string>
+    <string name="namaz_istkhara_dua_arbi">
+اَللّٰهُمَّ اِنِّيْ اَسْتَخِيْرُکَ بِعِلْمِکَ، وَاَسْتَقْدِرُکَ بِقُدْرَتِکَ، وَاَسْاَلُکَ مِنْ فَضْلِکَ الْعَظِيْمِ، فَاِنَّکَ تَقْدِرُ وَلَا اَقْدِرُ، وَ تَعْلَمُ وَلَا اَعْلَمُ، وَ اَنْتَ عَلَّامُ الْغُيُوْبِ. اَللّٰهُمَّ اِنْ کُنْتَ تَعْلَمُ اَنَّ هٰذَا الْاَمْرَ (يہاں اپنی حاجت کا ذکر کرے) خَيْرٌ لِّيْ فِيْ دِيْنِيْ وَمَعَاشِيْ وَعَاقِبَةِ اَمْرِيْ، فَاقْدُرْهُ وَيَسِّرْهُ لِيْ، ثُمَّ بَارِکْ لِيْ فِيْهِ، وَاِنْ کُنْتَ تَعْلَمُ اَنَّ هذَا الْاَمْرَ(یہاں اپنی حاجت کا ذکر کرے) شَرٌّ لِّيْ فِيْ دِيْنِيْ وَمَعَاشِيْ وَعَاقِبَةِ اَمْرِيْ فَاصْرِفْهُ عَنِّيْ وَاصْرِفْنِيْ عَنْهُ وَاقْدُرْ لِيَ الْخَيْرَ حَيْثُ کَانَ ثُمَّ اَرْضِنِيْ بهِ.    </string>
+    <string name="namaz_istkhara_ref">
+صحیح مسلم میں حضرت جابر بن عبداللہ رضی اللہ عنہ سے روایت ہے کہ حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم ہم کو تمام معاملات میں استخارہ کی اس طرح تعلیم فرماتے تھے جیسے قرآن کی سورت تعلیم فرماتے تھے۔
+
+حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم نے حضرت انس رضی اللہ عنہ سے فرمایا: ’’جب تو کسی کام کا ارادہ کرے تو اپنے رب سے اس میں سات (7) بار استخارہ کر پھر جس کی طرف تمہارا دل مائل ہو تو اس کام کے کرنے میں تمہارے لیے خیر ہے۔‘‘
+    </string>
+
+
+    <string name="namaz_Taheyat_wazu_title">Namaz-e-Taheyat-Wazu</string>
+    <string name="namaz_Taheyat_wazu_info">
+وضو کے فوراً بعد دو رکعت نفل پڑھنا مستحب اور باعثِ خیر و برکت ہے۔
+    </string>
+    <string name="namaz_Taheyat_wazu_ref">
+
+1. صحیح مسلم، سنن ابی داؤد، سنن نسائی، سنن ابن ماجہ اور صحیح ابن خزیمہ میں حضرت عقبہ بن عامر رضی اللہ عنہ سے روایت ہے کہ حضورنبی اکرم صلی اللہ علیہ وآلہ وسلم نے فرمایا: ’’جس شخص نے اچھی طرح وضو کرنے کے بعد ظاہر و باطن کی کامل توجہ کے ساتھ دو رکعت نماز پڑھی تو اس کے لئے جنت واجب ہو گئی.‘‘
+
+2. ابوداؤد، بخاری، مسلم اور احمد بن حنبل نے حضرت عثمان بن عفان رضی اللہ عنہ سے مرفوعاً روایت کیا ہے کہ حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم نے فرمایا: جو شخص اچھی طرح وضو کر کے دو رکعت نماز پڑھے تو اس کے پچھلے گناہ معاف کر دیے جاتے ہیں۔
+
+    </string>
+
+    <string name="namaz_Taheyat_Masjid_title">Namaz-e-Taheyat-Masjid</string>
+    <string name="namaz_Taheyat_Masjid_info">
+یہ مکروہ اوقات کے علاوہ مسجد میں داخل ہونے پر پڑھی جاتی ہے جو دو رکعت پر مشتمل ہے۔ یہ حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم کی سنتِ مبارکہ سے ثابت ہے۔ احادیثِ مبارکہ میں اس نماز کی بڑی فضیلت بیان ہوئی ہے۔
+
+    </string>
+    <string name="namaz_Taheyat_Masjid_ref">
+بخاری نے کتاب الصلوۃ، کتاب التہجد اور مسلم نے کتاب صلوۃ المسافرین میں حضرت قتادہ صلی اللہ علیہ وآلہ وسلم سے روایت کیا ہے کہ حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم نے فرمایا: جو شخص مسجد میں داخل ہو تو اسے چاہیے کہ بیٹھنے سے پہلے دو رکعت نماز پڑھ لے۔
+    </string>
+
+
+
+    <string name="namaz_istasqa_title">Namaz-e-Istasqa</string>
+    <string name="namaz_istasqa_info">
+اﷲ تعاليٰ کی بارگاہ بے کس پناہ سے بارانِ رحمت کے نزول کے لیے ادا کی جانے والی نماز اِستسقاء کہلاتی ہے۔ اگر بارش نہ ہو تو نمازِ اِستسقاء کا بار بار پڑھنا مستحب ہے اور تین دن تک اسے متواتر پڑھا جائے تاکہ اﷲ تعاليٰ اپنا لطف و کرم فرمائے۔ اس کے پڑھنے کا مسنون طریقہ ایسا ہی ہے جیسا کہ دو رکعت نماز ادا کی جاتی ہے مگر بہتر ہے کہ پہلی رکعت میں سورۃ الاعليٰ اور دوسری میں سورۃ الغاشیہ پڑھی جائے۔ نماز کے بعد امام خطبہ پڑھے اور دونوں خطبوں کے درمیان جلسہ کرے اور یہ بھی ہو سکتا ہے کہ ایک ہی خطبہ پڑھے اور خطبہ میں دُعا اور تسبیح و اِستغفار کرے اور اثنائے خطبہ میں چادر لوٹ دے یعنی اوپر کا کنارہ نیچے اور نیچے کا اوپر کر دے۔ خطبہ سے فارغ ہو کر قبلہ رُخ ہوکر دُعا کرے۔
+  <string name="namaz_istasqa_waqat">
+نماز استسقاء پڑھنے کے لئے کوئی معین وقت نہیں ہے؛ البتہ مکروہ اوقات کے سوا دن کے پہلے حصے میں نمازِ اِستسقاء پڑھنا سنت ہے۔    </string>
+    </string>
+
     ////////////////////////////////END//////////////////////////////////////////////
+    //////////////////////////////////DUA AFTER NAMAZ///////////////////////////////////
+    <string name="namaz_dua_ast">Astagfar</string>
+    <string name="namaz_dua_ast_arbi">اَسْتَغْفِرُاﷲَ رَبِّيْ مِنْ کُلِّ ذَنْبٍ وَّاَتُوْبُ اِلَيْهِ.</string>
+    <string name="namaz_dua_ast_urdu">’’میں بخشش مانگتا ہوں اللہ سے جو میرا پروردگار ہے ہر گناہ سے اورمیں اس کے حضور توبہ کرتا ہوں۔‘‘</string>
+
+    <string name="namaz_dua_awal">Dua-e-Awal</string>
+    <string name="namaz_dua_awal_arbi">اَللّٰهُمَّ اَنْتَ السَّلَامُ وَمِنْکَ السَّلَامُ وَاِلَيْکَ يَرْجِعُ السَّلَامُ حَيِنَا رَبَّنَا بِالسَّلَامِ وَاَدْخِلْنَا دَارَ السَّلَامِ تَبَارَکْتَ رَبَّنَا وَتَعَالَيْتَ يَا ذَا الْجَلَالِ وَالْاِکْرَامِ.</string>
+    <string name="namaz_dua_awal_urdu">’’اے اللہ تو ہی سلامتی دینے والا ہے اور سلامتی تیری ہی طرف سے ہے اور سلامتی تیری ہی طرف لوٹتی ہے۔ اے ہمارے پروردگار! ہم کو سلامتی کے ساتھ زندہ رکھ اور سلامتی کے گھر میں داخل فرما۔ اے ہمارے پروردگار!تو بڑی برکت والا اور بہت بلند ہے۔‘‘</string>
+
+    <string name="namaz_dua_Dom">Dua-e-Dom</string>
+    <string name="namaz_dua_Dom_arbi">رَبَّنَآ اٰتِنَا فِی الدُّنْيَا حَسَنَةً وَّفِی الْاٰخِرَةِ حَسَنَةً وَّقِنَا عَذَابَ النَّار.</string>
+    <string name="namaz_dua_Dom_urdu">
+’’اے ہمارے پروردگار! ہمیں دنیا میں (بھی) بھلائی عطا فرما اور آخرت میں (بھی) بھلائی سے نواز اور ہمیں دوزخ کے عذاب سے محفوظ رکھ.‘‘
+    </string>
+
+
+    <string name="namaz_Zikar_awal">Zikar-e-Awal</string>
+    <string name="namaz_Zikar_awal_info">ہر نماز کے بعد 33 مرتبہ سُبْحَانَ اﷲِ، 33 مرتبہ اَلْحَمْدُِﷲِ اور 34 مرتبہ اَﷲُ اَکْبَرُ پڑھے اور ایک بار یہ کہے:</string>
+    <string name="namaz_Zikar_awal_arbi">
+لَآ اِلٰهَ اِلَّا اﷲُ وَحْدَهُ لَاشَرِيْکَ لَهُ لَهُ الْمُلْکُ وَلَهُ الْحَمْدُ وَهُوَ عَلٰی کُلِّ شَيْئٍ قَدِيْر.
+    </string>
+    <string name="namaz_Zikar_awal_urdu">
+’’اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اسی کے لیے بادشاہت اوراسی کے لیے حمد ہے اور وہ ہر چیز پر قادر ہے۔‘‘
+    </string>
+
+    <string name="namaz_Zikar_Dom">Zikar-e-Dom</string>
+    <string name="namaz_Zikar_Dom_arbi">لَآ اِلٰهَ اِلَّا اﷲُ وَحْدَهُ لَاشَرِيْکَ لَهُ وَهُوَ عَلٰی کُلِّ شَيْئٍ قَدِيْر. اَللّٰهُمَّ لَا مَانِعَ لِمَآ اَعْطَيْتَ وَلَامُعْطِيَ لِمَا مَنَعْتَ وَلَا رَآدَّ لِمَا قَضَيْتَ وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْکَ الْجَدُّ..</string>
+    <string name="namaz_Zikar_Dom_urdu">
+’’اللہ کے سوا کوئی عبادت کے لائق نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں وہ ہر شے پر قادر ہے۔اے اللہ جو تو عطا کرے اسے کوئی روکنے والا نہیں اور جو تو روک لے اسے کوئی دینے والا نہیں اور تیری قضا کو کوئی پھیر نے والا نہیں اور تیرے مقابل کسی مالدار کو اس کا مال نفع نہیں دے گا۔‘‘
+
+    </string>
+
+
+    ///////////////////////////////////END//////////////////////////////////////////
+////////////////////////////DUA_MOHSIN/////////////////////////////
+    //////////////////AfterDrinkingMilk/////////////
+    <string name="AfterDrinkingMilkTitleenglish">Dua After Drinking Milk </string>
+    <string name="AfterdrinkingMilkTitleUrdu">دودھ پینے کے بعد کی دعا</string>
+    <string name="AfterDrinkingMilkInArbi">اَللّٰهُمَّ بَارِكْ لَنَا فِيهِ وَزِدْنَا مِنْهُ</string>
+    <string name="AfterDrinkingMilkInUrdu">یا الٰہی عزوجل ہمارے لئے اس میں برکت دے اور ہمیں اس سے زیادہ عنایت فرما۔</string>
+    <string name="AfterDrinkingMilkInEnglish">O Allah Azzawajal give us abundance in this and grant us more then this.</string>
+
+    ///////////AfterLeavingToilet/////////////
+    <string name="AfterLeavingToiletTitleenglish">Dua After Leaving Toilet </string>
+    <string name="AfterLeavingToiletTitleUrdu">بیت الخلاء سے باہر آنے کے بعد کی دعا</string>
+    <string name="AfterLeavingToiletInArbi">اَلْحَمْدُ لِلّٰہِ الَّذِي أَذْهَبَ عَنِّي الْأَذَى وَعَافَانِي</string>
+    <string name="AfterLeavingToiletInUrdu">اللہ عزوجل کا شکر ہے جس نے مجھ سے اذیت دور کی اور مجھے عافیت دی۔</string>
+    <string name="AfterLeavingToiletInEnglish">Thanks to Allah Almighty Who removed pain from me and granted me relief.</string>
+
+    //////////////AtThetimeofdressing///////////
+    <string name="AtThetimeofdressingTitleEnglish">Dua at the time of Dressing </string>
+    <string name="AtThetimeofdressingTitleUrdu">لباس پہنتے وقت کی دعا </string>
+    <string name="AtThetimeofdressingArbi">الْحَمْدُ لِلَّهِ الَّذِي كَسَانِي هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ </string>
+    <string name="AtThetimeofdressingUrdu">تمام خوبیاں اللہ عزوجل کے لئے جس نے مجھ کو یہ کپڑا پہنایا اور میری قوت و طاقت کے بغیر مجھ کو عطا فرمایا </string>
+    <string name="AtThetimeofdressingenglish">All excellencies are for Allah Azzawajal Who gave me this cloth to wear and granted me without (using) any strenfth and Power.</string>
+
+    /////////////////////////At The Time Of Lowering A Dead Body Into A Grave ////////////////
+    <string name="AtTheTimeOfLoweringADeadBodyIntoAGraveTitleEnglish">Dua At The Time Of Lowering A Dead Body Into A Grave </string>
+    <string name="AtTheTimeOfLoweringADeadBodyIntoAGraveTitleUrdu">میت کو قبر میں رکھتے وقت کی دعا</string>
+    <string name="AtTheTimeOfLoweringADeadBodyIntoAGraveArbi">بِسْمِ اللَّهِ وَعَلٰی سُنَّةِ رَسُولِ اللَّهِ</string>
+    <string name="AtTheTimeOfLoweringADeadBodyIntoAGraveUrdu">اللہ عزوجل کے نام سے اور رسول اللہ صلی اللہ علیہ وسلم کے طریقہ پر (اسے دفن کرتا ہوں)۔</string>
+    <string name="AtTheTimeOfLoweringADeadBodyIntoAGraveEnglish">Allah Azzawajal in the name of and according to the way of Messenger SAW (It is burried).</string>
+
+    /////////////////////////////Before Entering Toilet //////////////
+    <string name="DuaBeforeEnteringToiletTitleEnglish">Dua Before Entering Toilet </string>
+    <string name="DuaBeforeEnteringToiletTitleUrdu">بیت الخلاء میں داخل ہونے سے پہلے کی دعا</string>
+    <string name="DuaBeforeEnteringToiletArbi">اَللّٰھُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبْثِ وَالْخَبَائِثِ</string>
+    <string name="DuaBeforeEnteringToiletUrdu">اے اللہ عزوجل میں ناپاک جنوں (نرو مادہ) سے تیری پناہ مانگتا ہوں۔</string>
+    <string name="DuaBeforeEnteringToiletEnglish">O Allah (Almighty) I seek your refuge from impure Jinnat (male and female)</string>
+
+    ////////////Dua Before Meals ///////
+    <string name="DuaBeforeMealsTitleEnglish">Dua Before Meals </string>
+    <string name="DuaBeforeMealsTitleUrdu">کھانے سے پہلے کی دعا</string>
+    <string name="DuaBeforeMealsTArbi">ِسْمِ اللّٰہِ وَعَلٰی بَرَكَةِ اللّٰہِ</string>
+    <string name="DuaBeforeMealsTUrdu">میں نے الله کے نام کے ساتھ اور الله کی برکت پر کھانا شروع کیا</string>
+    <string name="DuaBeforeMealsEnglish">In the name of Allah and with the blessings of Allah I begin (eating)</string>
+
+    ///////////Dua Before Sleeping ///////////
+    <string name="DuaBeforeSleepingTitleEnglish">Dua Before Sleeping </string>
+    <string name="DuaBeforeSleepingTitleUrdu">سوتے وقت کی دعا,</string>
+    <string name="DuaBeforeSleepingArbi">َللّٰھُمَّ بِاسْمِكَ أَمُوتُ وَأَحْيَا</string>
+    <string name="DuaBeforeSleepingUrdu">َالٰہی عزوجل میں تیرے نام پر مرتا ہوں اور جیتا ہوں۔</string>
+    <string name="DuaBeforeSleepingEnglish">O Allah (Almighty) I live and die in your name.</string>
+
+    ///////////////Dua Before Wudhu /////////
+    <string name="DuaBeforeWudhuTitleEnglish">Dua Before Wudhu </string>
+    <string name="DuaBeforeWudhuTitleUrdu">وضو سے پہلے کی دعا</string>
+    <string name="DuaBeforeWudhuArbi">ِسْمِ اللّٰہِ وَلْحَمْدُ لِلّٰہِ</string>
+    <string name="DuaBeforeWudhuUrdu">اللہ عزوجل کے نام سے شروع جو بڑا مہربان اور نہایت رحم والا ہے۔</string>
+    <string name="DuaBeforeWudhuEnglish">Allah Azzawajal in the name of the most affectionate, the merciful.</string>
+
+    //////////Dua for Iftar //////////
+    <string name="DuaforIftarTitleEnglish">Dua for Iftar </string>
+    <string name="DuaforIftarTitleUrdu">روزہ افطار کرنے کے بعد کی دعا</string>
+    <string name="DuaforIftarArbi">َللّٰهُمَّ اِنِّی لَکَ صُمْتُ وَبِکَ اٰمَنْتُ وَعَلَيْکَ تَوَکَّلْتُ وَعَلٰی رِزْقِکَ اَفْطَرْتُ</string>
+    <string name="DuaforIftarUrdu"> اللہ!میں نے تیری خاطر روزہ رکھا اور تیرے اوپر ایمان لایا اور تجھ پر بھروسہ کیا اورتیرے رزق سے اسے کھول رہا ہوں۔</string>
+    <string name="DuaforIftarEnglish">O Allah! I fasted for you and I believe in you and I put my trust in You and I break my fast with your sustenance.</string>
+
+    ////////////Dua for Qunut in the Witr prayer/////////
+    <string name="DuaforQunutintheWitrprayerTitleEnglish">Dua for Qunut in the Witr prayer</string>
+    <string name="DuaforQunutintheWitrprayerEnglish">O Allah! We implore You for help, and beg forgiveness of You, and believe in You, and rely on \n You and extol You, and we are thankful to You, and are not ungrateful to You, and we alienate \n and forsake those who disobey You. O(\') Allah! You alone do we worship, and for You do we pray \n and prostrate, and we betake to please You, and present ourselves for the service in Your cause, and we hope for Your mercy, and fear Your chastisement. Undoubtedly, Your torment is \n going to overtake infidels O Allah!</string>
+
+    //////Dua of Sehri ///////
+    <string name="DuaofSehriTitleEnglish">Dua of Sehri </string>
+    <string name="DuaofSehriTitleUrdu">روزہ رکھنے کی نیت</string>
+    <string name="DuaofSehriArbi">.وَبِصَوْمِ غَدٍ نَّوَيْتُ مِنْ شَهْرِ رَمَضَانَ</string>
+    <string name="DuaofSehriUrdu">.اورمیں نے ماہ رمضان کے کل کے روزے کی نیت کی</string>
+    <string name="DuaofSehriEnglish">I Intend to keep the fast for month of Ramadan</string>
+
+    ////////Dua upon Sneezing //////
+    <string name="DuauponSneezingTitleEnglish">Dua upon Sneezing </string>
+    <string name="DuauponSneezingTitleUrdu">چھینک آنے کے وقت کی دعا</string>
+    <string name="DuauponSneezingArbi">اَلْحَمْدُ لِلّٰہِ</string>
+    <string name="DuauponSneezingUrdu">تمام تعریفیں اللہ عزوجل کےلئے ہیں۔</string>
+    <string name="DuauponSneezingEnglish">All praise onto Allah Almighty.</string>
+
+    //////////Dua When Dining at Someone's House///////////
+    <string name="DuaWhenDiningatSomeone_sHouseTitleEnglish">Dua When Dining at Someone(\')s House </string>
+    <string name="DuaWhenDiningatSomeone_sHouseTitleUrdu">دعوت کھانے کے بعد کی دعا</string>
+    <string name="DuaWhenDiningatSomeone_HsouseArbi">اَللّٰهُمَّ أَطْعِمْ مَنْ أَطْعَمَنِي وَاسْقِ مَنْ سَقَانِيِ</string>
+    <string name="DuaWhenDiningatSomeone_sHouseUrdu">یا الٰہی عزوجل اس کو کھلا جس نے مجھے کھلایا اور کو پلا جس نے مجھے پلایا۔</string>
+    <string name="DuaWhenDiningatSomeone_sHouseEnglish">O Allah Azzawajal feed him who fed me and give him to drink who gave to drink.</string>
+
+    /////////Dua When Drinking Zam Zam Water///////////
+    <string name="DuaWhenDrinkingZamZamWaterTitleEnglish">Dua When Drinking Zam Zam Water </string>
+    <string name="DuaWhenDrinkingZamZamWaterTitleUrdu">آب زم زم پیتے وقت کی دعا</string>
+    <string name="DuaWhenDrinkingZamzamWaterArbi">اَللّٰهُمَّ إِنِّي أَسْأَلُكَ عِلْماً نَافِعاً وَرِزْقاً وَاسِعاً وَشِفَاءً مِنْ كُلِّ دَاءٍہِ</string>
+    <string name="DuaWhenDrinkingZamZamWaterUrdu">الٰہی عزوجل میں تجھ سے علم نافع کا اور رزق کی کشادگی کا اور بیماری سے شفایابی کا سوال کرتا ہوں۔</string>
+    <string name="DuaWhenDrinkingZamZamWaterEnglish">Allah Azzawajal I ask you for beneficial knowledge, increase in provision and cure from illness.</string>
+
+    //////////Dua When Entering The Graveyard ////////
+    <string name="DuaWhenEnteringTheGraveyardTitleEnglish">Dua When Entering The Graveyard  </string>
+    <string name="DuaWhenEnteringTheGraveyardTitleUrdu">قبرستان میں داخل ہوتے وقت کی دعا</string>
+    <string name="DuaWhenEnteringTheGraveyardArbi">السَّلَامُ عَلَيْكُمُ يَا أَهْلَ الْقُبُورِ يَغْفِرُ اللَّهُ لَنَا وَلَكُمْ أَنْتُمُ سَلَفُنَا وَنَحْنُ بِالْأَثَرِہِ</string>
+    <string name="DuaWhenEnteringTheGraveyardUrdu">اے قبر والوں تم پر سلام ہو۔ اللہ عزوجل ہماری اور تمہاری مغفرت فرما۔ اور تم ہم سے پہلے پہنچ گئے اور ہم پیچھے آنےوالے ہیں</string>
+    <string name="DuaWhenEnteringTheGraveyardEnglish">O dwellers of the graves peace be upon you. May Allah Azzawajal forgive us and you. You reached before us and we will follow behind you.</string>
+
+    /////////Dua When Entering The Home/////////
+    <string name="DuaWhenEnteringTheHomeTitleEnglish">Dua When Entering The Home  </string>
+    <string name="DuaWhenEnteringTheHomeTitleUrdu">گھر میں داخل ہوتے وقت کی دعا</string>
+    <string name="DuaWhenEnteringTheHomeArbi">اَللّٰھُمَّ اِنِّیْ اَسْئَلُكَ خَیْرَالْمَوْلَجِ وَخَیْرَالْمَخْرَجِ</string>
+    <string name="DuaWhenEnteringTheHome_Urdu">اے اللہ عَزَّ وَجَلَّ ! میں تجھ سے داخل ہونے اور نکلنے کی جگہوں کی بھلائی طلب کرتا ہوں ۔</string>
+    <string name="DuaWhenEnteringTheHomeEnglish">O Allah(عَزَّ وَجَلَّ)! I ask you for the goodness of the places of entering and exiting.</string>
+
+    //////////Dua When Entering the Mosque////////////
+    <string name="DuaWhenEnteringtheMosqueTitleEnglish">Dua When Entering the Mosque  </string>
+    <string name="DuaWhenEnteringtheMosqueTitleUrdu">مسجد میں داخل ہونے کی دعا</string>
+    <string name="DuaWhenEnteringtheMosque_Arbi">اَللّٰهُمَّ افْتَحْ لِيْ اَبْوَابَ رَحْمَتِکَ.</string>
+    <string name="DuaWhenEnteringtheMosqueUrdu">اے اللہ! میرے لیے رحمت کے دروازے کھول دے۔</string>
+    <string name="DuaWhenEnteringtheMosqueEnglish">Oh Allah! Open the doors for me of your Blessings</string>
+
+    ////////Dua When Facing Trouble or Difficulties /////////
+    <string name="DuaWhen_Facing_Trouble_or_Difficulties_TitleEnglish">Dua When Facing Trouble or Difficulties  </string>
+    <string name="Dua_WhenFacingTroubleorDifficultiesTitleUrdu">مصیبت و پریشانی کے وقت کی دعا</string>
+    <string name="DuaWhenFacingTroubleorDifficultiesArbi">إِنَّا لِلهِ وَ إِنَّا إِلَيْهِ رَاجِعُوْن. اَللّٰهُمَّ أْجُرْنِيْ فِيْ مُصِيبَتِيْ وَاخْلُفْ لِيْ خَيْرا مِنْهَا</string>
+    <string name="DuaWhenFacingTroubleorDifficultiesUrdu">يقینا ہم اللہ ہى كى ملكيت ہیں اور اسى كى طرف لوٹ كر جانے والے ہیں۔اے اللہ مجھے ميرے اس صدمے یا تكليف كا اجر دے اور بدلے ميں مجھے \nاس سے زيادہ بہتر دے۔(صحیح مسلم)</string>
+    <string name="DuaWhenFacingTroubleorDifficultiesEnglish">To Allaah we belong and unto Him is our return. O Allaah, recompense me for my affliction and replace it for me with something better</string>
+
+    ////////Dua When Hearing Someone Sneeze /////////
+    <string name="DuaWhenHearingSomeoneSneezeTitleEnglish">Dua When Hearing Someone Sneeze  </string>
+    <string name="DuaWhenHearingSomeoneSneezeTitleUrdu">چھینک آنے پر الحمد للہ کہنے والے کے لئے دعا</string>
+    <string name="DuaWhenHearingSomeoneSneezeArbi">يَرْحَمُكَ اللّٰہُ</string>
+    <string name="DuaWhenHearingSomeoneSneezeUrdu">اللہ عزوجل تجھ پر رحم کرے۔</string>
+    <string name="DuaWhenHearingSomeoneSneezeEnglish">May Allah Almighty Have Mercy on you.</string>
+
+    //////////Dua When Leaving the Mosque //////////
+    <string name="DuaWhenLeavingtheMosqueTitleEnglish">Dua When Leaving the Mosque </string>
+    <string name="DuaWhenLeavingtheMosqueTitleUrdu">مسجد سے نکلنے کی دعا</string>
+    <string name="DuaWhenLeavingtheMosqueArbi">اَللّٰهُمَّ اِنِّيْ اَسْاَلُکَ مِنْ فَضْلِکَ وَرَحْمَتِکَ</string>
+    <string name="DuaWhenLeavingtheMosqueUrdu">اے اللہ! میں تجھ سے تیرا فضل اور تیری رحمت مانگتا ہوں۔</string>
+    <string name="DuaWhenLeavingtheMosqueEnglish">Oh Allah! I ask you of your Favour</string>
+
+    /////////Dua When Looking in the Mirror ////////
+    <string name="DuaWhenLookingintheMirrorTitleEnglish">Dua When Looking in the Mirror  </string>
+    <string name="DuaWhenLookingintheMirrorTitleUrdu">آئنہ دیکھتے وقت کی دعا</string>
+    <string name="DuaWhenLookingintheMirrorArbi">اَللّٰهُمَّ أَنْتَ حَسَّنْتَ خَلْقِي فَحَسِّنْ خُلُقِي</string>
+    <string name="DuaWhen_Looking_in_the_MirrorUrdu">اللہ عزوجل تو نے میری صورت اچھی بنائی تو میری سیرت (اخلاق) بھی اچھی کردے۔</string>
+    <string name="DuaWhenLookingintheMirrorEnglish">O Allah Azzawajal as you made my outward appearance good make my character good too.</string>
+
+    //////////Dua When Meeting Another Muslim //////////
+    <string name="DuaWhenMeetingAnotherMuslimTitleEnglish">Dua When Meeting Another Muslim  </string>
+    <string name="DuaWhenMeetingAnotherMuslimTitleUrdu">ملاقات کے وقت کی دعا</string>
+    <string name="DuaWhenMeetingAnotherMuslimArbi">اَلسَّلَامُ عَلَيْكُمُ - وَعَلَيْكُمُ السَّلَامُِ</string>
+    <string name="DuaWhenMeetingAnotherMuslimUrdu">تم پر سلامتی ہو۔ اور تم پر بھی سلامتی ہو۔</string>
+    <string name="DuaWhenMeetingAnotherMuslimEnglish">Peace be upon you And peace be upon you too.</string>
+
+    /////////Dua When Sighting The New Moon ///////////
+    <string name="DuaWhenSightingTheNewMoonTitleEnglish">Dua When Sighting The New Moon  </string>
+    <string name="DuaWhenSightingTheNewMoonTitleUrdu">نیا چاند دیکھتے وقت کی دعا</string>
+    <string name="DuaWhenSightingTheNewMoonArbi">اَللّٰهُمَّ أَهِلَّهُ عَلَيْنَا بِالْيُمْنِ وَالْإِيمَانِ وَالسَّلَامَةِ وَالْإِسْلَامِ وَالتَّوْفِيقِ لِمَا تُحِبُّ وَتَرْضیٰ رَبِّي وَرَبُّكَ اللّٰہُ</string>
+    <string name="DuaWhenSightingTheNewMoonUrdu">یا الٰہی عزوجل اس چاند کو ہم پر برکت کے ساتھ اور ایمان و سلامتی اور اسلام اور اس چیز کی
+توفیق کے ساتھ نکال جس سے تو راضی ہوتا ہے اور پسند کرتا ہے، (اے پہلی رات کے چاند) میرا
+اور تیرا رب اللہ عزوجل ہے</string>
+    <string name="DuaWhenSightingTheNewMoonEnglish">O Allah Azzawajal make this moon come out on us with blessings and with \n Iman and peace and Islam and make it come out with the ability of that \n thing which pleases you and that you like, (O moom of the first night my and your Lord is Allah Azzawajal).</string>
+
+    ////////////Dua When Waking UP from Sleep ///////////
+    <string name="DuaWhenWakingUPfromSleepTitleEnglish">Dua When Waking UP from Sleep  </string>
+    <string name="DuaWhenWakingUPfromSleepTitleUrdu">نیند سے بیدار ہونے کی دعا</string>
+    <string name="DuaWhenWakingUPfromSleepArbi">الْحَمْدُ لِلّٰہِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ</string>
+    <string name="DuaWhenWakingUPfromSleepUrdu">تمام تعریفیں اللہ عزوجل کے لئے جس نے ہمیں موت (نیند) کے بعد حیات (بیداری) عطا فرمائی اور ہمیں اسی طرف لوٹنا ہے۔</string>
+    <string name="DuaWhenWakingUPfromSleepEnglish">All Praise onto Allah (Almighty) Who granted us life after death (Sleep) and we are return to him.</string>
+
+    ////////Dua When You Become Angry /////////
+    <string name="DuaWhenYouBecomeAngryTitleEnglish"> Dua When You Become Angry </string>
+    <string name="DuaWhenYouBecomeAngryTitleUrdu">غصہ آنے کے وقت کی دعا</string>
+    <string name="DuaWhenYouBecomeAngryArbi">أَعُوذُ بِاللّٰہِ مِنَ الشَّيْطٰنِ الرَّجِيمِ</string>
+    <string name="DuaWhenYouBecomeAngryUrdu">میں شیطان مردود سے اللہ عزوجل کی پناہ چاہتا ہوں۔</string>
+    <string name="DuaWhenYouBecomeAngryEnglish">I seek the refuge of Allah Almighty from the rejected Shetan</string>
+
+    ///////////Dua When You Forget to Say Bismillah Before Meal ////////////
+    <string name="DuaWhenYouForgettoSayBismillahBeforeMealTitleEnglish"> Dua When You Forget to Say Bismillah Before Meal </string>
+    <string name="DuaWhenYouForgettoSayBismillahBeforeMealTitleUrdu">کھانا کھانے سے قبل اگر بسم اللہ پڑھنا بھول جائیں تو یہ دعا پڑھیں</string>
+    <string name="DuaWhenYouForgettoSayBismillahBeforeMealArbi">بِسْمِ اللَّهِ أَوَّلِهِ وَآخِرِهِ</string>
+    <string name="DuaWhenYouForgettoSayBismillahBeforeMealUrdu">اللہ عزوجل کے نام سے اس کے پہلے اور اس کے آخر</string>
+    <string name="DuaWhenYouForgettoSayBismillahBeforeMealEnglish">Allah Azzawajal in the name of before and after it.</string>
+
+    //////////Dua for the Dead//////////
+    <string name="DuafortheDeadTitleEnglish"> Dua for the Dead</string>
+    <string name="DuafortheDeadEnglish">(O Allah, forgive our living and our dead, those who are present and those who are absent, our \n young and our old, our males and our females. O Allah, whomever of us You cause to live, let \n him live in Islam, and whomever of us You cause to die, let him die in (a state of) faith. O Allah, \n do not deprive us of his reward, and do not let us go astray after him) </string>
+
+    /////////Safar ki Dua ///////////
+    <string name="Dua_e_SafarTitleEnglish">Dua-e-Safar</string>
+    <string name="Dua_e_SafarTitleUrdu">سفر کی دعا</string>
+    <string name="Dua_e_SafarArbi">سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَـٰذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَىٰ رَبِّنَا لَمُنقَلِبُونَِ</string>
+    <string name="Dua_e_SafarUrdu">وہ زات پاک ہے جس نے اس کو ہمارے زیر فرمان کر دیا اور ہم میں طاقت نہ تھی کہ اسکو بس میں کرلیتے اور ہم اپنے رب کی طرف لوٹ کر جانے والے ہیں</string>
+    <string name="DuaeSafarEnglish">All praise be to Allah, Glory be to Allah who has put this (vehicle) under our control though we were unable to control it. Surely, to our Sustainer are we to return.</string>
+
+
+    //////////Iman e Mujmal in English//////////
+    <string name="Iman_e_MujmalinEnglishTitle">Iman e Mujmal in English</string>
+    <string name="TheSummaryDeclarationofFaith">I solemnly believe in ALLAH with His all Names and personal Attributes and I also accept all His commandments by reciting them with tongue and believing them with hear.</string>
+
+    /////////IMAN-E-MUFASSIL //////////
+    <string name="IMAN_E_MUFASSILTitle">IMAN-E-MUFASSIL (The Detailed Declaration of Faith)</string>
+    <string name="IMAN_E_MUFASSILEnglish">I have faith in Allah and His Angels, His Books and His Messengers, and the Day of
+Judgment and that all good and evil and fate is from Almighty Allah and it is sure that
+there will be resurrection after death.</string>
+
+    ////////////End/////////////
+    /////////////////////////END/////////////////////
+
+    ///////////////////HASANSTRINGS//////////////////////////////////////////
+    /////////////////////////END//////////////////////////////////
 </resources>

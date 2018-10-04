@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
+import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
@@ -13,7 +14,7 @@ import com.itpvt.iislam.R;
 
 public class Dua extends AppCompatActivity {
 
-    TextView qurani,masnoon,azkar;
+    Button qurani,masnoon,azkar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,9 +22,9 @@ public class Dua extends AppCompatActivity {
         this.requestWindowFeature(Window.FEATURE_NO_TITLE);
         this.getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
         setContentView(R.layout.activity_dua);
-        qurani=(TextView)findViewById(R.id.qurani);
-        masnoon=(TextView)findViewById(R.id.masnoon);
-        azkar=(TextView)findViewById(R.id.azkar);
+        qurani=(Button)findViewById(R.id.qurani);
+        masnoon=(Button)findViewById(R.id.masnoon);
+        azkar=(Button)findViewById(R.id.azkar);
         qurani.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

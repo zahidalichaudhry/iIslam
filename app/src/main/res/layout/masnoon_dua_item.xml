@@ -9,13 +9,15 @@
 
     <TextView
         android:id="@+id/Title"
-        android:layout_width="222dp"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_margin="15dp"
         android:layout_marginLeft="8dp"
         android:layout_marginStart="8dp"
-        android:gravity="left"
+        android:background="@drawable/black_border"
+        android:gravity="center"
         android:hint="Title"
+        android:padding="5dp"
         android:textColor="@color/black"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"

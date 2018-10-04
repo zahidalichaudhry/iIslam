@@ -29,7 +29,7 @@ public class Masnoon_dua_list extends AppCompatActivity {
         this.getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
         setContentView(R.layout.activity_masnoon_dua_list);
 
-         English="";
+         English=" ";
         recyclerView=(RecyclerView)findViewById(R.id.quran_recycler);
         layoutManager=new GridLayoutManager(this,1);
         recyclerView.setLayoutManager(layoutManager);
