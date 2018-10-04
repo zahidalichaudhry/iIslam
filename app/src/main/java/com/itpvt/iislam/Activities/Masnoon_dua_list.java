@@ -107,6 +107,15 @@ public class Masnoon_dua_list extends AppCompatActivity {
         arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
 
 
+
+        Title= getResources().getString(R.string.AfterDrinkingMilkTitleenglish);
+        Arbi= getResources().getString(R.string.AfterDrinkingMilkInArbi);
+        Urdu=getResources().getString(R.string.AfterDrinkingMilkInUrdu);
+        English=getResources().getString(R.string.AfterDrinkingMilkInEnglish);
+        RefLink=getResources().getString(R.string.travelreflink);
+        Ref= getResources().getString(R.string.travelref);
+        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+
         Title= getResources().getString(R.string.travelTitle);
         Arbi= getResources().getString(R.string.travelarbi);
         Urdu=getResources().getString(R.string.travelurdu);
