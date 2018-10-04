@@ -34,21 +34,21 @@ public class Masnoon_dua_list extends AppCompatActivity {
         recyclerView.setLayoutManager(layoutManager);
         recyclerView.setHasFixedSize(true);
 
-        Arbi= getResources().getString(R.string.masjidentryarbi);
-        Urdu=getResources().getString(R.string.masjidentryurdu);
-        Title= getResources().getString(R.string.masjidentryTitle);
-        English=" ";
-        Ref= getResources().getString(R.string.masjidentryref);
-        RefLink=getResources().getString(R.string.masjidentryreflink);
-        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+//        Arbi= getResources().getString(R.string.masjidentryarbi);
+//        Urdu=getResources().getString(R.string.masjidentryurdu);
+//        Title= getResources().getString(R.string.masjidentryTitle);
+//        English=" ";
+//        Ref= getResources().getString(R.string.masjidentryref);
+//        RefLink=getResources().getString(R.string.masjidentryreflink);
+//        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
 
-        Title= getResources().getString(R.string.masjidexitTitle);
-        Arbi= getResources().getString(R.string.masjidexitarbi);
-        Urdu=getResources().getString(R.string.masjidexiturdu);
-        English=" ";
-        RefLink=getResources().getString(R.string.masjidexitreflink);
-        Ref= getResources().getString(R.string.masjidexitref);
-        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+//        Title= getResources().getString(R.string.masjidexitTitle);
+//        Arbi= getResources().getString(R.string.masjidexitarbi);
+//        Urdu=getResources().getString(R.string.masjidexiturdu);
+//        English=" ";
+//        RefLink=getResources().getString(R.string.masjidexitreflink);
+//        Ref= getResources().getString(R.string.masjidexitref);
+//        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
 
         Title= getResources().getString(R.string.aftervazoTitle);
         Arbi= getResources().getString(R.string.aftervazoarbi);
@@ -214,6 +214,117 @@ public class Masnoon_dua_list extends AppCompatActivity {
         RefLink=" ";
         Ref= " ";
         arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+
+
+        Title= getResources().getString(R.string.DuauponSneezingTitleEnglish);
+        TitleUrdu=getResources().getString(R.string.DuauponSneezingTitleUrdu);
+        Arbi= getResources().getString(R.string.DuauponSneezingArbi);
+        Urdu=getResources().getString(R.string.DuauponSneezingUrdu);
+        English=getResources().getString(R.string.DuauponSneezingEnglish);
+        RefLink=" ";
+        Ref= " ";
+        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+
+        Title= getResources().getString(R.string.DuaWhenDiningatSomeone_sHouseTitleEnglish);
+        TitleUrdu=getResources().getString(R.string.DuaWhenDiningatSomeone_sHouseTitleUrdu);
+        Arbi= getResources().getString(R.string.DuaWhenDiningatSomeone_HsouseArbi);
+        Urdu=getResources().getString(R.string.DuaWhenDiningatSomeone_sHouseUrdu);
+        English=getResources().getString(R.string.DuaWhenDiningatSomeone_sHouseEnglish);
+        RefLink=" ";
+        Ref= " ";
+        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+
+        Title= getResources().getString(R.string.DuaWhenDrinkingZamZamWaterTitleEnglish);
+        TitleUrdu=getResources().getString(R.string.DuaWhenDrinkingZamZamWaterTitleUrdu);
+        Arbi= getResources().getString(R.string.DuaWhenDrinkingZamzamWaterArbi);
+        Urdu=getResources().getString(R.string.DuaWhenDrinkingZamZamWaterUrdu);
+        English=getResources().getString(R.string.DuaWhenDrinkingZamZamWaterEnglish);
+        RefLink=" ";
+        Ref= " ";
+        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+
+        Title= getResources().getString(R.string.DuaWhenEnteringTheGraveyardTitleEnglish);
+        TitleUrdu=getResources().getString(R.string.DuaWhenEnteringTheGraveyardTitleUrdu);
+        Arbi= getResources().getString(R.string.DuaWhenEnteringTheGraveyardArbi);
+        Urdu=getResources().getString(R.string.DuaWhenEnteringTheGraveyardUrdu);
+        English=getResources().getString(R.string.DuaWhenEnteringTheGraveyardEnglish);
+        RefLink=" ";
+        Ref= " ";
+        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+
+
+        Title= getResources().getString(R.string.DuaWhenEnteringTheHomeTitleEnglish);
+        TitleUrdu=getResources().getString(R.string.DuaWhenEnteringTheHomeTitleUrdu);
+        Arbi= getResources().getString(R.string.DuaWhenEnteringTheHomeArbi);
+        Urdu=getResources().getString(R.string.DuaWhenEnteringTheHome_Urdu);
+        English=getResources().getString(R.string.DuaWhenEnteringTheHomeEnglish);
+        RefLink=" ";
+        Ref= " ";
+        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+
+        Title= getResources().getString(R.string.DuaWhenEnteringtheMosqueTitleEnglish);
+        TitleUrdu=getResources().getString(R.string.DuaWhenEnteringtheMosqueTitleUrdu);
+        Arbi= getResources().getString(R.string.DuaWhenEnteringtheMosque_Arbi);
+        Urdu=getResources().getString(R.string.DuaWhenEnteringtheMosqueUrdu);
+        English=getResources().getString(R.string.DuaWhenEnteringtheMosqueEnglish);
+        Ref= getResources().getString(R.string.masjidentryref);
+        RefLink=getResources().getString(R.string.masjidentryreflink);
+        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+
+        Title= getResources().getString(R.string.DuaWhen_Facing_Trouble_or_Difficulties_TitleEnglish);
+        TitleUrdu=getResources().getString(R.string.Dua_WhenFacingTroubleorDifficultiesTitleUrdu);
+        Arbi= getResources().getString(R.string.DuaWhenFacingTroubleorDifficultiesArbi);
+        Urdu=getResources().getString(R.string.DuaWhenFacingTroubleorDifficultiesUrdu);
+        English=getResources().getString(R.string.DuaWhenFacingTroubleorDifficultiesEnglish);
+        RefLink=" ";
+        Ref= " ";
+        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+
+        Title= getResources().getString(R.string.DuaWhenHearingSomeoneSneezeTitleEnglish);
+        TitleUrdu=getResources().getString(R.string.DuaWhenHearingSomeoneSneezeTitleUrdu);
+        Arbi= getResources().getString(R.string.DuaWhenHearingSomeoneSneezeArbi);
+        Urdu=getResources().getString(R.string.DuaWhenHearingSomeoneSneezeUrdu);
+        English=getResources().getString(R.string.DuaWhenHearingSomeoneSneezeEnglish);
+        RefLink=" ";
+        Ref= " ";
+        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+
+        Title= getResources().getString(R.string.DuaWhenLeavingtheMosqueTitleEnglish);
+        TitleUrdu=getResources().getString(R.string.DuaWhenLeavingtheMosqueTitleUrdu);
+        Arbi= getResources().getString(R.string.DuaWhenLeavingtheMosqueArbi);
+        Urdu=getResources().getString(R.string.DuaWhenLeavingtheMosqueUrdu);
+        English=getResources().getString(R.string.DuaWhenLeavingtheMosqueEnglish);
+        RefLink=getResources().getString(R.string.masjidexitreflink);
+        Ref= getResources().getString(R.string.masjidexitref);
+        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+
+        Title= getResources().getString(R.string.DuaWhenLookingintheMirrorTitleEnglish);
+        TitleUrdu=getResources().getString(R.string.DuaWhenLookingintheMirrorTitleUrdu);
+        Arbi= getResources().getString(R.string.DuaWhenLookingintheMirrorArbi);
+        Urdu=getResources().getString(R.string.DuaWhen_Looking_in_the_MirrorUrdu);
+        English=getResources().getString(R.string.DuaWhenLookingintheMirrorEnglish);
+        RefLink=" ";
+        Ref= " ";
+        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+
+        Title= getResources().getString(R.string.DuaWhenMeetingAnotherMuslimTitleEnglish);
+        TitleUrdu=getResources().getString(R.string.DuaWhenMeetingAnotherMuslimTitleUrdu);
+        Arbi= getResources().getString(R.string.DuaWhenMeetingAnotherMuslimArbi);
+        Urdu=getResources().getString(R.string.DuaWhenMeetingAnotherMuslimUrdu);
+        English=getResources().getString(R.string.DuaWhenMeetingAnotherMuslimEnglish);
+        RefLink=" ";
+        Ref= " ";
+        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+
+        Title= getResources().getString(R.string.DuaWhenSightingTheNewMoonTitleEnglish);
+        TitleUrdu=getResources().getString(R.string.DuaWhenSightingTheNewMoonTitleUrdu);
+        Arbi= getResources().getString(R.string.DuaWhenSightingTheNewMoonArbi);
+        Urdu=getResources().getString(R.string.DuaWhenSightingTheNewMoonUrdu);
+        English=getResources().getString(R.string.DuaWhenSightingTheNewMoonEnglish);
+        RefLink=" ";
+        Ref= " ";
+        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+
 
         adapter=new TitleAdapter(arrayList,Masnoon_dua_list.this);
         recyclerView.setAdapter(adapter);

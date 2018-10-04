@@ -1469,5 +1469,253 @@ there will be resurrection after death.</string>
 
     //////////////////END//////////////////////////
     ///////////////////HASANSTRINGS//////////////////////////////////////////
+
+    <string name="FarzNamazWazaifTitle"> Namaz e Fajar K Wazaif</string>
+
+    // dua se phly///
+    <string name="DuaSePhlyTitle"> Dua se Phly K Wazaif</string>
+
+    <string name="DuaSePhly"> لَا اِلٰهَ اِلَّا اﷲُ وَحْدَهُ لَا شَرِيْکَ لَهُ، لَهُ الْمُلْکُ وَلَهُ الْحَمْدُ يُحْيِيْ وَ يُمِيْتُ وَ هُوَ حَیٌّ لَّا يَمُوْتُ بِيَدِهِ الْخَيْرُ وَهُوَ عَلٰی کُلِّ شَيْئٍ قَدِيْرٌo</string>
+    <string name="Dua_Se_phly_"> 2. اس کے بعد سورۃ توبہ کی آیات 128.129 کی تلاوت کریں:</string>
+
+    <string name="Dua_Se_phly_talawatt">بِسْمِ اﷲِ الرَّحْمٰنِ الرَّحِيْمِo لَقَدْ جَآءَ کُمْ رَسُوْلٌ مِّنْ أَنْفُسِکُمْ عَزِيْزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيْصٌ عَلَيْکُمْ بِالْمُؤْمِنِيْنَ رَؤُفٌ رَّحِيْمٌo فَاِنْ تَوَلَّوْا فَقُلْ حَسْبِيَ اﷲُ لَآ اِلٰهَ اِلَّا هُوَ ط عَلَيْهِ تَوَکَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيْمِo</string>
+    <string name="Dua_Se_phly_Azaentasbe">3. بعد ازاں یہ تسبیح کریں: </string>
+
+    <string name="Dua_Se_phly_zikrAllah"> سُبْحَانَ اﷲِ: 33 بار؛ اَلْحَمْدُِﷲِ: 33 بار؛ اَﷲُ اَکْبَرُ: 34 بار</string>
+
+    <string name="Dua_Se_phly_zailtasbeeh">4. درج ذیل تسبیح تین بار پڑھیں:</string>
+
+    <string name="Dua_Se_phly_zailtasbeehzikr">سُبْحَانَ اﷲِ وَبِحَمْدِهِ، سُبْحَانَ اﷲِ الْعَظِيْمِ.</string>
+
+    <string name="Dua_Se_phly_ikhtatam"> 5. دعا کے اِختتام پر یہ آیات پڑھیں:</string>
+    <string name="Dua_Se_phly_ikhtmampar">سُبْحَانَ رَبِّکَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُوْنَo وَ سَلٰمٌ عَلَی الْمُرْسَلِيْنَo وَ الْحَمْدُِﷲِ رَبِّ الْعَالَمِيْنَo</string>
+    <string name="Dua_Se_phly_refer"> (الصّٰفت، 37: 180.182) </string>
+    <string name="Dua_Se_phly_barkaat">برکات: حضور صلی اللہ علیہ وآلہ وسلم نے فرمایا: اس وظیفہ کے کرنے والے کے گناہ اگرچہ سمندر کی جھاگ کے برابر ہی کیوں نہ ہوں بخش دیئے جاتے ہیں۔</string>
+    <string name="Dua_Se_phly_ref">مسلم، الصحيح، کتاب المساجد و مواضع الصلاة، باب استحباب الذکر بعد الصلاة، 1: 418، رقم: 597)</string>
+
+    //dua k badd//
+
+
+    <string name="Dua_k_Bad"> Dua k Baad k Wazaif </string>
+    <string name="AfterDua_surahfatiha"> سورۃ الفاتحہ ایک بار</string>
+
+    <string name="AfterDua_aitalkursi">آیت الکرسی ایک بار</string>
+    <string name="AfterDua_zikrha">لَا اِلٰہَ اِلاَّ اﷲُ کم از کم سو (100) مرتبہ پڑھیں۔ ایک سو چھیاسٹھ (122) مرتبہ پڑھنا افضل ہے اور آخر میں مُحَمَّدٌ رَّسُوْلُ اﷲِ پڑھیں۔</string>
+
+    <string name="AfterDua_astagfar">استغفار تین بار</string>
+    <string name="AfterDua_astagfarr">َسْتَغْفِرُ اﷲَ الْعَظِيْمَ الَّذِيْ لَا اِلٰهَ اِلَّا هُوَ الْحَيُ الْقَيُوْمُ وَ اَتُوْبُ اِلَيْهِo</string>
+    <string name="AfterDua_farmaya">حضور صلی اللہ علیہ وآلہ وسلم خود یہ استغفار روزانہ سو (100) مرتبہ فرماتے تھے۔</string>
+    <string name="AfterDua_jofarmaya">یہ وظیفہ گناہوں کی بخشش، بلندی درجات، رزق میں وسعت، عطائے الٰہی میں اضافہ حصولِ برکات اور تنگی و مشکلات کے حل کا باعث ہے۔</string>
+
+    <string name="AfterDua_hasab"> حَسْبُنَا اﷲُ وَ نِعْمَ الْوَکِيْل</string>
+    <string name="AfterDua_tarika">طریقہ: تعوذ (اَعُوْذُ بِاﷲِ مِنَ الشَّيْطٰنِ الرَّجِيْمِ) اور تسمیہ (بِسْمِ اﷲِ الرَّحْمَنِ الرَّحِيْمِ) پڑھنے کے بعد سورہ آلِ عمران کی درج ذیل دو آیات (173.174) کی تلاوت کریں</string>
+    <string name="AfterDua_ayat">اَلَّذِيْنَ قَالَ لَهُمُ النَّاسُ اِنَّ النَّاسَ قَدْ جَمَعُوْا لَکُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيْمَانًا وَّ قَالُوْاحَسْبُنَا اﷲُ وَ نِعْمَ الْوَکِيْلُo</string>
+    <string name="AfterDua_sobar">یہاں پہنچ کر ان کلمات کو سو (100) مرتبہ پڑھیں۔</string>
+    <string name="AfterDua_tasbeeh">یہ تسبیح پوری کرنے کے بعد آگے یہ آیت ایک بار پڑھیں اور وظیفہ مکمل کر لیں</string>
+    <string name="AfterDua_ayaat">فَانْقَلَبُوْا بِنِعْمَةٍ مِّنَ اﷲِ وَ فَضْلٍ لَّمْ يَمْسَسْهُمْ سُوْءٌ وَّاتَّبَعُوْا رِضْوَانَ اﷲِط وَاﷲُ ذُوْ فَضْلٍ عَظِيْمٍO</string>
+
+
+
+
+    <string name="AfterDua_barkaaat">برکات: اس وظیفہ کو مستقل جاری رکھنے سے حفظ نعمت، اﷲ کے فضل و احسان میں اضافہ، دشمن سے امان، خوف و خطر سے نجات، ہدایت الٰہی، مدد و نصرت، اﷲ تعاليٰ کی رحمت اور خصوصاً رضائے الٰہی نصیب ہوتی ہے۔\n یہ اکثر اولیاء و صالحین کا وظیفہ ہے۔ خاص مشکل کے اوقات میں بھی اسے کثرت کے ساتھ پڑھا جائے۔ \nان شاء اﷲ پریشانی دور ہوگی اور نصرت الٰہی نصیب ہوگی.\n یہ وظیفہ حضرت شیخ الاسلام ڈاکٹر محمد طاہر القادری کو ان کے والد گرامی حضرت علامہ ڈاکٹر فرید الدین قادری نے عطا فرمایا اور انہیں دمشق کی جامع مسجد اُموی میں مقامِ زکریا علیہ السلام پر غیب سے ظاہر ہونے والے ایک ابدال نے عطا کیا تھا۔\n سیدنا امام جعفر صادق رضی اللہ عنہ سمیت بہت سے مشائخ و اولیاء سے بھی یہ منقول ہے۔</string>
+    <string name="AfterDua_prhna">درج ذیل درود شریف سو (100) مرتبہ پڑھی:</string>
+
+    <string name="AfterDua_darood">اَللّٰهُمَّ صَلِّ عَلٰی سَيِدِنَا مُحَمَّدٍ وَّ عَلٰی اٰلِهِ وَ صَحْبِهِ وَ بَارِکْ وَسَلِّمْ</string>
+    <string name="kalmat">دیگر کلمات اور صیغوں پر مبنی درود شریف بھی پڑھ سکتے ہیں۔</string>
+    <string name="AfterDua_talawat">تلاوت قرآن مجید: ان وظائف کے بعد وقت کی وسعت کے مطابق تلاوتِ قرآن مجید کریں۔</string>
+    <string name="AfterDua_dalael">دلائل الخیرات: کا یومیہ ورد کر سکتا ہے۔</string>
+    <string name="AfterDua_kasida">قصیدہ بُردہ حسبِ توفیق</string>
+    <string name="AfterDua_kasidagosia">قصیدہ غوثیہ مکمل</string>
+    <string name="AfterDua_moreforgood">اگر صبح وقت میسر نہ ہو تو دلائل الخیرات، قصیدہ بُردہ اور قصیدہ غوثیہ کے لئے بعد نمازِ مغرب یا بعد نمازِ عشاء بھی اچھا وقت ہے۔\n سہولت کے مطابق آپ وقت کا تعین کر سکتے ہیں۔</string>
+
+
+    // Namaz zohar/asar   /  /
+
+    <string name="NamzaZoharAsarTitle">   Namaz e Zohar Asar </string>
+    <string name="NamzaZoharAsarazkarwazaif">ظہر اور عصر کی نمازوں میں مندرجہ ذیل وظائف اور اذکار میں سے جس قدر چاہیں مقرر کر لیں:</string>
+    // Dua se Phly //
+
+
+    <string name="NamzaZoharAsar_DuaSePhly">دُعا سے پہلے کے وظائف</string>
+    <string name="NamzaZoharAsar_phly_readthem">درج ذیل وظائف نماز فرض کے بعد دعا سے پہلے پڑھنے کے لئے ہیں:</string>
+    <string name="NamzaZoharAsar_NamzaZoharAsar_phly_zikr">لَا اِلٰهَ اِلَّا اﷲُ وَحْدَهُ لَا شَرِيْکَ لَهُ، لَهُ الْمُلْکُ وَلَهُ الْحَمْدُ يُحْيِيْ وَ يُمِيْتُ وَ هُوَ حَیٌّ لَّا يَمُوْتُ بِيَدِهِ الْخَيْرُ وَهُوَ عَلٰی کُلِّ شَيْئٍ قَدِيْرُo</string>
+    <string name="NamzaZoharAsar_phly_ayatno">اس کے بعد سورۃ توبہ کی آیات 128.129 کی تلاوت کریں۔</string>
+    <string name="NamzaZoharAsar_phly_ayat">بِسْمِ اﷲِ الرَّحْمٰنِ الرَّحِيْمِo لَقَدْ جَآءَ کُمْ رَسُوْلٌ مِّنْ أَنْفُسِکُمْ عَزِيْزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيْصٌ عَلَيْکُمْ بِالْمُؤْمِنِيْنَ رَؤُفٌ رَّحِيْمٌo فَاِنْ تَوَلَّوْا فَقُلْ حَسْبِيَ اﷲُ لَآ اِلٰهَ اِلَّا هُوَ ط عَلَيْهِ تَوَکَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيْمِo</string>
+    <string name="NamzaZoharAsar_phly_tasbeeh">بعد ازاں یہ تسبیح کریں</string>
+    <string name="NamzaZoharAsar_phly_zikrAllah">سُبْحَانَ اﷲِ: 33 بار؛ اَلْحَمْدُِﷲِ: 33 بار؛ اَﷲُ اَکْبَرُ: 34 بار</string>
+    <string name="NamzaZoharAsar_phly_tasbeeeh">درج ذیل تسبیح تین بار پڑھیں:</string>
+    <string name="NamzaZoharAsar_phly_tasbih">سُبْحَانَ اﷲِ وَ بِحَمْدِهِ، سُبْحَانَ اﷲِ الْعَظِيْمِ.</string>
+
+    <string name="NamzaZoharAsar_phly_duakaren">پھر دعا کریں۔</string>
+    <string name="NamzaZoharAsar_phly_afterdua">دعا کے اِختتام پر یہ آیات پڑھیں:</string>
+    <string name="NamzaZoharAsar_phly_ayaat">سُبْحَانَ رَبِّکَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُوْنَo وَ سَلٰمٌ عَلَی الْمُرْسَلِيْنَo وَ الْحَمْدُِ ﷲِ رَبِّ الْعَالَمِيْنَo</string>
+    <string name="NNamzaZoharAsar_phly_ref">(الصّٰفت، 37: 180.182)</string>
+
+    // Dua k Bad / / /
+    <string name="NamzaZoharAsar_Dua_k_Bad"> Dua k Baad k Wazaif </string>
+    <string name="NamzaZoharAsar_bad_fatiha">سورۃ الفاتحہ ایک بار</string>
+    <string name="NamzaZoharAsar_bad_aitalkursi">آیۃ الکرسی ایک بار</string>
+    <string name="NamzaZoharAsar_bad_astagfar">استغفار تین بار</string>
+    <string name="NamzaZoharAsar_bad_ayatt">اَسْتَغْفِرُ اﷲَ الْعَظِيْمَ الَّذِيْ لَآ اِلٰهَ اِلَّا هُوَ الْحَيُ الْقَيُوْمُ وَ اَتُوْبُ اِلَيْهِ.</string>
+    <string name="NamzaZoharAsar_bad_darood">درود شریف تین بار</string>
+    <string name="NamzaZoharAsar_bad_daaroood">اَللّٰهُمَّ صَلِّ عَلٰی سَيِدِنَا مُحَمَّدٍ وَّ عَلٰی اٰلِهِ وَ صَحْبِهِ وَ بَارِکْ وَسَلِّمْ.</string>
+
+    // Namaz Magrab k Wazaif //
+
+    <string name="NamzaMagrib_Title">   Namaz e Magrib </string>
+    <string name="NamzaMagrib_azkarewazaif">مغرب کی نماز میں مندرجہ ذیل وظائف اور اذکار میں سے جس قدر چاہیں مقرر کر لیں:</string>
+
+    // dua se phly//
+
+    <string name="NamzaMagrib_DuasePhly">دُعا سے پہلے کے وظائف</string>
+
+    <string name="NamzaMagrib_phly_readthem">درج ذیل وظائف نمازِ فرض کے بعد دعا سے پہلے پڑھنے کے لئے ہیں:</string>
+    <string name="NamzaMagrib_phly_zikr">لَا اِلٰهَ اِلَّا اﷲُ وَحْدَهُ لَا شَرِيْکَ لَهُ، لَهُ الْمُلْکُ وَلَهُ الْحَمْدُ يُحْيِيْ وَ يُمِيْتُ وَ هُوَ حَیٌّ لَّا يَمُوْتُ بِيَدِهِ الْخَيْرُ وَهُوَ عَلٰی کُلِّ شَيْئٍ قَدِيْرُo</string>
+    <string name="NamzaMagrib_phly_ayatno">اس کے بعد سورۃ توبہ کی آیات 128.129 کی تلاوت کریں:</string>
+    <string name="NamzaMagrib_phly_ayat">بِسْمِ اﷲِ الرَّحْمٰنِ الرَّحِيْمِo لَقَدْ جَآءَ کُمْ رَسُوْلٌ مِّنْ أَنْفُسِکُمْ عَزِيْزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيْصٌ عَلَيْکُمْ بِالْمُؤْمِنِيْنَ رَؤُفٌ رَّحِيْمٌo فَاِنْ تَوَلَّوْا فَقُلْ حَسْبِيَ اﷲُ لَآ اِلٰهَ اِلَّا هُوَ ط عَلَيْهِ تَوَکَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيْمِo</string>
+    <string name="NamzaMagrib_phly_tasbeeh">بعد ازاں یہ تسبیح کریں:</string>
+    <string name="NamzaMagrib_phly_zikrAllah">سُبْحَانَ اﷲِ: 33 بار؛ اَلْحَمْدُِﷲِ: 33 بار؛ اَﷲُ اَکْبَرُ: 34 بار</string>
+    <string name="NamzaMagrib_phly_tasbih">درج ذیل تسبیح تین بار پڑھیں:</string>
+    <string name="NamzaMagrib_phly_tasbiih">سُبْحَانَ اﷲِ وَ بِحَمْدِهِ، سُبْحَانَ اﷲِ الْعَظِيْمِ.</string>
+    <string name="NamzaMagrib_phly_againdua">پھر دعا کریں۔</string>
+    <string name="NamzaMagrib_phly_attheend">دعا کے اِختتام پر یہ آیات پڑھیں:</string>
+    <string name="NamzaMagrib_phly_dua">سُبْحَانَ رَبِّکَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُوْنَo وَسَلٰمٌ عَلَی الْمُرْسَلِيْنَo وَالْحَمْدُِﷲِ رَبِّ الْعَالَمِيْنَo</string>
+    <string name="NamzaMagrib_phly_duaref"> (الصّٰفت، 37: 180.182)</string>
+
+
+    // dua k baad k wazaif //
+    <string name="NamzaMagrib_Dua_k_Bad"> Dua k Baad k Wazaif </string>
+    <string name="NamzaMagrib_Bad_fatiha">سورۃ الفاتحہ ایک بار</string>
+    <string name="NamzaMagrib_Bad_aitalkursi">آیۃ الکرسی ایک بار</string>
+    <string name="NamzaMagrib_Bad_astagfar">اِستغفار تین یا سات بار</string>
+    <string name="NamzaMagrib_Bad_ayat">اَسْتَغْفِرُ اﷲَ الْعَظِيْمَ الَّذِيْ لَا اِلٰهَ اِلَّا هُوَ الْحَيُ الْقَيُوْمُ وَ اَتُوْبُ اِلَيْهِo</string>
+    <string name="NamzaMagrib_Bad_darood">درود شریف تین یا سات بار</string>
+    <string name="NamzaMagrib_Bad_daarood">اَللّٰهُمَّ صَلِّ عَلٰی سَيِدِنَا مُحَمَّدٍ وَّ عَلٰی اٰلِهِ وَ صَحْبِهِ وَ بَارِکْ وَسَلِّمْ.</string>
+    <string name="NamzaMagrib_Bad_shahadat">کلمہ شہادت تین یا سات بار</string>
+    <string name="NamzaMagrib_Bad_kalma">أَشْهَدُ أَنْ لَّا اِلٰهَ اِلَّا اﷲُ الْمَلِکُ الْحَقُّ الْمُبِيْن وَ أَشْهَدُ أَنَّ مُحَّمَدًا رَّسُوْلُ اﷲِ صَادِقُ الْوَعْدِ الْاَمِيْن.</string>
+    <string name="NamzaMagrib_Bad_nafal">دو رکعت نمازِ نفل بطور خاص حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم کی طرف سے ادا کریں۔</string>
+    <string name="NamzaMagrib_Bad_tareeka">پہلی رکعت میں سورۃ الکافرون اور دوسری رکعت میں سورۃ الاخلاص پڑھیں۔ \nاس کا ثواب بارگاہِ نبوی صلی اللہ علیہ وآلہ وسلم میں نذر کریں۔ ہدیہ ثواب میں حضور صلی اللہ علیہ وآلہ وسلم کے توسط سے آپ صلی اللہ علیہ وآلہ وسلم کے ساتھ اہلِ بیت اطہار l\n، صحابہ کرام l، سیدنا غوثِ اعظم شیخ عبدالقادر جیلانی رضی اللہ عنہ \n، آپ کے اپنے سلسلہ کے مشائخ عظام l اور اپنے والدین کو بھی شریک کریں۔</string>
+    <string name="NamzaMagrib_Bad_khairatyomia">دلائلِ خیرات یومیہ ورد</string>
+    <string name="NamzaMagrib_Bad_kasida">قصیدہ بُردہ حسبِ توفیق</string>
+    <string name="NamzaMagrib_Bad_gosia">قصیدہ غوثیہ مکمل</string>
+    <string name="NamzaMagrib_Bad_formore">
+اپنی چاہت، طبعی رغبت اور فرصت کے مطابق درج بالا تینوں وظائف جس قدر پڑھنا چاہیں اجازت ہے۔
+</string>
+
+    // namaz e ishaaa k wazif//
+
+
+
+    <string name="NamzaEshaa_Title">   Namaz e Magrib </string>
+    <string name="NamzaEshaa_azkarewazaif">عشاء کی نماز میں مندرجہ ذیل وظائف اور اذکار میں سے جس قدر چاہیں مقرر کر لیں:</string>
+    // dua se phly//
+    <string name="NamzaEshaa_phly_DuasePhly">دُعا سے پہلے کے وظائف</string>
+    <string name="NamzaEshaa_phly_zikr">لَا اِلٰهَ اِلَّا اﷲُ وَحْدَهُ لَا شَرِيْکَ لَهُ، لَهُ الْمُلْکُ وَلَهُ الْحَمْدُ يُحْيِيْ وَ يُمِيْتُ وَ هُوَ حَیٌّ لَّا يَمُوْتُ بِيَدِهِ الْخَيْرُ وَهُوَ عَلٰی کُلِّ شَيْئٍ قَدِيْرُo</string>
+    <string name="NamzaEshaa_phly_ayatno">اس کے بعد سورۃ توبہ کی آیات 128.129 کی تلاوت کریں:</string>
+    <string name="NamzaEshaa_phly_ayat">بِسْمِ اﷲِ الرَّحْمٰنِ الرَّحِيْمِo لَقَدْ جَآءَ کُمْ رَسُوْلٌ مِّنْ أَنْفُسِکُمْ عَزِيْزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيْصٌ عَلَيْکُمْ بِالْمُؤْمِنِيْنَ رَؤُفٌ رَّحِيْمٌo فَاِنْ تَوَلَّوْا فَقُلْ حَسْبِيَ اﷲُ لَآ اِلٰهَ اِلَّا هُوَ ط عَلَيْهِ تَوَکَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيْمِo</string>
+    <string name="NamzaEshaa_phly_tasbeeh">بعد ازاں یہ تسبیح کریں:</string>
+    <string name="NamzaEshaa_phly_zikrAllah">سُبْحَانَ اﷲِ: 33 بار؛ اَلْحَمْدُِﷲِ: 33 بار؛ اَﷲُ اَکْبَرُ: 34 بار</string>
+    <string name="zikrr">سُبْحَانَ اﷲِ وَ الْحَمْدُِﷲِ وَلَا إِلٰ.هَ إِلَّا اﷲُ وَاﷲُ اَکْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاﷲِ الْعَلِيِ الْعَظِيْمِ.(ایک مرتبہ)</string>
+    <string name="NamzaEshaa_phly_againdua">پھر دعا کریں۔</string>
+    <string name="NamzaEshaa_phly_attheend">دعا کے اِختتام پر یہ آیات پڑھیں:</string>
+    <string name="NamzaEshaa_phly_dua">سُبْحَانَ رَبِّکَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُوْنَo وَسَلٰمٌ عَلَی الْمُرْسَلِيْنَo وَالْحَمْدُِﷲِ رَبِّ الْعَالَمِيْنَo</string>
+    <string name="NamzaEshaa_phly_duaref"> (الصّٰفت، 37: 180.182)</string>
+
+    // dua k baad k wazaif //
+    <string name="NamzaEshaa_bad_Dua_k_Bad"> Dua k Baad k Wazaif </string>
+    <string name="NamzaEshaa_bad_fatiha">سورۃ الفاتحہ ایک بار</string>
+    <string name="NamzaEshaa_bad_aitalkursi">آیۃ الکرسی ایک بار</string>
+    <string name="NamzaEshaa_bad_astagfar">اِستغفار تین یا سات بار</string>
+    <string name="NamzaEshaa_bad_ayat">اَسْتَغْفِرُ اﷲَ الْعَظِيْمَ الَّذِيْ لَا اِلٰهَ اِلَّا هُوَ الْحَيُ الْقَيُوْمُ وَ اَتُوْبُ اِلَيْهِo</string>
+    <string name="NamzaEshaa_bad_darood">درود شریف تین یا سات بار</string>
+    <string name="NamzaEshaa_bad_shahadat">کلمہ شہادت تین یا سات بار</string>
+    <string name="NamzaEshaa_bad_kalma">أ
+أَشْهَدُ أَنْ لَّا اِلٰهَ اِلَّا اﷲُ الْمَلِکُ الْحَقُّ الْمُبِيْنُ وَاَشْهَدُ اَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ خَاتَمُ الْاَنْبِيَآءِ وَالْمُرْسَلِيْنَ صَادِقُ الْوَعْدِ الْاَمِيْنo
+</string>
+    <string name="NamzaEshaa_bad_darjazail">درج ذیل کلمات تین یا سات بار پڑھیں</string>
+    <string name="NamzaEshaa_bad_zikrr">سُبْحَانَ اﷲِ وَ بِحَمْدِهِ سُبْحَانَ اﷲِ الْعَظِيْمo اَللّٰهُمَّ اَنْتَ رَبِّيْ لَا اِلٰهَ اِلَّا اَنْتَ عَلَيْکَ تَوَکَّلْتُ وَ اَنْتَ رَبُّ الْعَرْشِ الْعَظِيْم بِسْمِ اﷲِ وَ بِاﷲِ وَ مَا شَآءَ اﷲُ وَ اﷲُ اَکْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاﷲِ الْعَلِيِ الْعَظِيْمِo</string>
+    <string name="NamzaEshaa_bad_barkaat">
+برکات: حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم نے ارشاد فرمایا: اس وظیفہ سے انسان سوائے موت کے ہر آفت سے محفوظ رہے گا اور اس کے اہل و عیال اور مال و اولاد میں ہر طرح کی نعمت و برکت نصیب ہو گی.\n مزید یہ کہ خود اس کو، اس کے گھر والوں کو اور اس کے مال و اسباب کو کوئی نقصان نہیں پہنچے گا۔
+</string>
+    <string name="NamzaEshaa_bad_zikaar">سورۃ الفاتحہ (گیارہ مرتبہ). سورۃ الاخلاص (گیارہ مرتبہ)</string>
+
+    <string name="NamzaEshaa_bad_fazilat">اس کا ثواب بارگاہ نبوی صلی اللہ علیہ وآلہ وسلم میں نذر کریں۔ہدیہ ثواب میں حضور صلی اللہ علیہ وآلہ وسلم کے توسط سے آپ صلی اللہ علیہ وآلہ وسلم کے ساتھ اَرواحِ انبیاء علیہم السلام، اہلِ بیت اطہار سلام اللہ علیہم، صحابہ کرام رضوان اللہ علیہم اجمعین، سیدنا غوث الاعظم شیخ عبدالقادر </string>
+    <string name="NamzaEshaa_bad_faziilat">جیلانی رضی اللہ عنہ اور آپ کے سلسلہ کے مشائخ عظام رحمۃ اللہ تعالی علیہم، بزرگان، والدین، صالحین و صالحات اور امت محمدیہ کے جمیع مسلمین و مسلمات کو بھی شریک کریں۔</string>
+    <string name="NamzaEshaa_bad_mulk">سورۃ الملک: اگر فرصت ہو تو نمازِ عشاء کے بعد سورۃ الملک کی تلاوت کا معمول بنائیں۔</string>
+    <string name="NamzaEshaa_bad_barkat">برکات:یہ سورۃ قبر کو روشن کرے گی اور مرنے کے بعد قبر میں ہر معاملے میں حفاظت، حمایت اور کفالت کرے گی.</string>
+    <string name="NamzaEshaa_bad_yasin">سورۃ يٰسین: اگر فرصت ہو تو نمازِ عشاء کے بعد سورۃ يٰسین کی تلاوت کا معمول بنائیں</string>
+
+
+
+    // namaz e juma///
+
+
+    <string name="NamzaJuma_Title">   Namaz e Juma </string>
+    <string name="NamzaJuma_ayat">
+يٰاَيُهَا الَّذِيْنَ اٰمَنُوْا اِذَا نُوْدِيَ لِلصَّلٰوةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا اِلٰی ذِکْرِ اﷲِ وَذَرُوا الْبَيْعَ ط ذٰلِکُمْ خَيْرٌ لَّکُمْ اِنْ کُنْتُمْ تَعْمَلُوْنَo
+</string>
+    <string name="NamzaJuma_ref">(الجمعة، 22:9)</string>
+    <string name="NamzaJuma_tarjuma_ayat">’’اے ایمان والو! جب جمعہ کے دن (جمعہ کی) نماز کے لئے اذان دی جائے تو فوراً اللہ کے ذکر(یعنی خطبہ و نماز) کی طرف تیزی سے چل پڑو اور خرید و فروخت (یعنی کاروبار) چھوڑ دو۔ \nیہ تمہارے حق میں بہتر ہے اگر تم علم رکھتے ہوo‘‘</string>
+    <string name="NamzaJuma_namaz">جمعہ کی نماز فرضِ عین ہے۔ اس کی فرضیت ظہر سے زیادہ مؤکدہ ہے اور اس کا منکر کافر ہے۔\n جمعہ کی نماز ظہر کے قائم مقام ہے اور اس کا وقت وہی ہے جو ظہر کا ہے۔</string>
+    <string name="NamzaJuma_sharat_title">شرائط جمعہ</string>
+    <string name="NamzaJuma_sharat_follo">جمعہ کی نماز کے لیے چند شرطیں ہیں۔ اگر ایک شرط بھی مفقود ہوئی تو جمعہ نہ ہوگا،\n جس جگہ کوئی شرط مفقود ہو وہاں ظہر کی نماز پڑھی جائے گی، وہ شرائط درج ذیل ہیں:</string>
+
+    <string name="NamzaJuma_sharaat">شہر ہو یا شہر کے قائم مقام و ہ گاؤں ہو جو اپنے علاقے میں مرکزی حیثیت رکھتا ہو۔
+وقت ظہر کا ہو۔\n
+نماز سے پہلے خطبہ ہو۔\n
+جماعت ہو کیوں کہ بلا جماعت جمعہ نہ ہو گا۔\n
+عام اجازت ہو۔\n
+فرضیتِ جمعہ\n
+ہرمسلمان مرد جو آزاد ، بالغ ، عقلمند، تندرست اور مقیم ہے اس پر جمعہ فرض ہے۔\n جب کہ عورت، غلام، قیدی، نابالغ، مخبوط الحواس، بیمار، اپاہج، تیماردار، مسافر، جس کو کسی کا خوف ہو یاجس کو کسی نقصان کا اندیشہ ہو، ان پر جمعہ فرض نہیں۔ \nہاں اگر مسافر ، مریض اور عورتیں نماز میں شریک ہوجائیں تو ان کی نماز درست ہوگی اور ظہر ان کے ذمے سے ساقط ہوجائے گی.\n
+</string>
+    <string name="NamzaJuma_masail_title">جمعہ کے مسائل</string>
+    <string name="NamzaJuma_masail">جو چیزیںنمازمیں حرام ہیں وہ خطبہ میں بھی حرام ہیں مثلاً کھانا ، پینا، سلام وکلام کرنا یہاں تک کہ امربالمعروف کرنا۔ سب حاضر
+ین پر خطبہ سننا اور چپ رہنا فرض ہے، ہاں خطیب امر بالمعروف کرسکتا ہے۔\n خطیب نے کوئی دعائیہ کلمہ کہا تو سامعین کا ہاتھ اٹھانا یا آمین کہنا منع ہے۔ دو خطبوں کے درمیان بغیر ہاتھ اٹھائے دل میں دعا کرنا جائز ہے۔
+</string>
+
+
+
+    /// namaz e eid ////..
+
+    <string name="NamazEid_Title">   Namaz e Eiden </string>
+    <string name="NamazEid_irshad">وَلِتُکْمِلُوا الْعِدَّةَ وَلِتُکَبِّرُوا اﷲَ عَلٰی مَاهَدٰکُمْ وَلَعَلَّکُمْ تَشْکُرُوْنَo</string>
+    <string name="NamazEid_reff">(البقرة، 2: 185)</string>
+    <string name="NamazEid_tarjma">’’اور اس لیے کہ تم گنتی پوری کر سکو اور اس لیے کہ اس نے تمہیں جو ہدایت فرمائی ہے\n اس پر اس کی بڑائی بیان کرو اور اس لیے کہ تم شکر گزار بن جاؤo ‘‘</string>
+
+
+    <string name="NamazEid_again_title">پھر فرمایا:</string>
+
+    <string name="NamazEid_again">فَصَلِّ لِرَبِّکَ وَانْحَرْo</string>
+    <string name="NamazEid_tarjumaa">’’اپنے رب کے لیے نماز پڑھو اور قربانی کرو۔‘‘</string>
+    <string name="NamazEid_info">عیدین کی نماز واجب ہے۔ سب پر نہیں بلکہ انہی پر جن پر جمعہ فرض ہے اور اس کی ادا کی وہی شرطیں ہیں جو جمعہ کیلئے ہیں۔ صرف اتنا فرق ہے کہ جمعہ میں خطبہ شرط ہے اور عیدین میں سنت .\n ان دونوں نمازوں کا وقت سورج کے بقدر ایک نیزہ بلند ہونے سے لے کر زوال تک ہے۔ \nمگر عیدالفطر میں کچھ دیر کرنا اور عید الاضحی میں جلدی کرنا مستحب ہے۔ \nان نمازوں سے پہلے اذان و اقامت نہیں ہے۔\n ان دونوں نمازوں کے ادا کرنے کا طریقہ ایک ہی ہے۔</string>
+
+    <string name="NamazEid_method_title">نمازِ عیدین کا طریقہ</string>
+    <string name="NamazEid_method">پہلے نیت کریں: دو رکعت عیدالفطر یا عیدالاضحی واجب مع زائد چھ تکبیروں کے۔ پھر تکبیر کہہ کر ہاتھ باندھ لیں اور ثناء پڑھیں اس کے بعد امام زور سے اور مقتدی آہستہ سے (اتنی آواز سے کہ خود سن سکیں) تکبیریں کہیں، دو تکبیروں کے بعد ہاتھ چھوڑ دیں\n اور تیسری کے بعد باندھ لیں۔ پھر امام بلند آواز سے سورئہ فاتحہ اور کوئی سورۃ پڑھ کر رکوع اور سجود کرے\n گا۔ دوسر ی رکعت میں فاتحہ اور قرآت کے بعد رکوع میں جانے سے پہلے امام و مقتدی ہاتھ اٹھا کر تین تکبیریں کہہ کر ہاتھ چھوڑدیں \nاور چوتھی تکبیر کہتے وقت ہاتھ کانوںتک نہ اٹھائیں بلکہ رکوع میں چلے جائیں اور قاعدے کے مطابق نماز پوری کریں۔</string>
+
+
+    <string name="NamazEid_mastahbat_title">عیدکے مستحبات</string>
+    <string name="NamazEid_detail_mastahbat_title">عید کے دن درج ذیل اموربجا لانا مستحب ہے:</string>
+    <string name="NamazEid_mashabat">
+حجامت بنوانا۔\n
+n\ناخن ترشوانا۔
+n\مسواک کرنا۔
+n\اچھے کپڑے پہننا۔\n
+خوشبو لگانا۔\n
+عید گاہ کو پیدل جانا۔\n
+راستہ میں تکبیر کہتے ہوئے جانا۔\n
+دوسرے راستہ سے واپس آنا۔\n
+عیدالفطر میں نماز سے پہلے صدقۂ فطر ادا کرنا اور کوئی میٹھی چیز کھانا، \nطاق عدد(تین، پانچ، سات) کھجوریں ہوں تو بہتر ہے۔\n
+آپس میں ملنا اور مصافحہ و معانقہ کرنا۔\n
+مبارک باد دینا۔\n
+</string>
+
+    <string name="NamazEid_kalmat_title">کلماتِ تکبیر</string>
+    <string name="NamazEid_kalmaat">اَﷲُ اَکْبَرُ اَﷲُ اَکْبَرُ لَآ اِلٰهَ اِلَّا اﷲُ وَاﷲُ اَکْبَرُ اَﷲُ اَکْبَرُ وَِﷲِ الْحَمْدُ.</string>
+    <string name="NamazEid_infoo">نویں ذی الحجہ کی فجرسے تیرہویں کی عصر تک ہر فرض نمازکے فوراً بعد یہی تکبیر ایک بار کہنا واجب اور\n تین بار کہنا افضل ہے۔ اسے تکبیر تشریق کہتے ہیں۔</string>
+
+
+
+
+
     /////////////////////////END//////////////////////////////////
 </resources>
