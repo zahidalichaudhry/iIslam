@@ -9,13 +9,19 @@ android {
         versionCode 1
         versionName "ic1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        resValue "string", "RES_FOO", "RES FOO RELEASE"
     }
     buildTypes {
+        debug {
+            buildConfigField "String", "FOO", "\"FOO DEBUG\""
+            resValue "string", "RES_FOO", "RES FOO DEBUG"
+        }
         release {
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            buildConfigField "String", "FOO", "\"FOO RELEASE\""
+            resValue "string", "RES_FOO", "RES FOO RELEASE"
         }
     }
+
 }
 
 dependencies {

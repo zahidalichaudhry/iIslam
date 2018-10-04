@@ -70,7 +70,7 @@
         \nArabic/English book reference	 : Book 9, Hadith 1039</u></string>
 
 
-    <string name="beforesleepTitle">Sone se Pehleَُُ</string>
+    <string name="beforesleepTitle">Sone se Pehleَُُ  </string>
     <string name="beforesleeparbi">اللَّهُمَّ بِاسْمِكَ أَمُوتُ وَأَحْيَاَُُ</string>
     <string name="beforesleepurdu">اے اللہ میں تیرا نام لے کر مرتااور جیتا ہوںَ</string>
     <string name="beforesleepreflink">https://sunnah.com/bukhari/97/23</string>
@@ -89,7 +89,7 @@
 \nUSC-MSA web (English) reference	 : Vol. 9, Book 93, Hadith 491
         \n(deprecated numbering scheme)</u></string>
 
-    <string name="afraidsleepTitle">Sone Main Danreُُِ</string>
+    <string name="afraidsleepTitle">Sone Main Danre</string>
     <string name="afraidsleeparbi">أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ غَضَبِهِ وَعِقَابِهِ، وَشَرِّ عِبَادِهِ، وَمِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَنْ يَحْضُرُونُُِ</string>
     <string name="afraidsleepurdu">میں اللہ کے کامل کلمات کے ذریعے اس کے غضب اور اس کے عذاب اور اس کے بندوں کے شر سے اور شیاطین کے وسوسوں سے اور ان کے میرے پاس آنے سے (اللہ کی )پناہ چاہتا ہوںَ</string>
     <string name="afraidsleepreflink">https://sunnah.com/urn/517210</string>
@@ -98,7 +98,7 @@
 \nUSC-MSA web (English) reference	 : Book 51, Hadith 9
         \nArabic reference	 : Book 51, Hadith 174</u></string>
 
-    <string name="aftereatingTitle">Khana Khane kay Badَُُِ</string>
+    <string name="aftereatingTitle">Khana Khane kay Bad</string>
     <string name="aftereatingarbi">الحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِينَُُِ</string>
     <string name="aftereatingurdu">تمام تعریفیں اس اللہ کے لیے ہیں ، جس نے ہمیں کھلایا ، پلایااور ہمیں مسلمان بنایَ</string>
     <string name="aftereatingreflink">https://sunnah.com/tirmidhi/48/88</string>
@@ -110,10 +110,10 @@
     <string name="forprovidfoodarbi">اللهُمَّ، بَارِكْ لَهُمْ فِي مَا رَزَقْتَهُمْ، وَاغْفِرْ لَهُمْ وَارْحَمْهُمَُُِْ</string>
     <string name="forprovidfoodurdu">اے اللہ ! ان کے رزق میں برکت عطا فرما اور ان کو بخش دے اور ان پر رحم فرماَ</string>
     <string name="forprovidfoodreflink">https://sunnah.com/muslim/36/202</string>
-    <string name="forprovidfoodref"><u>Reference	 : Sahih Muslim 2042 a
+    <string name="forprovidfoodref">Reference	 : Sahih Muslim 2042 a
 \nIn-book reference	 : Book 36, Hadith 202
 \nUSC-MSA web (English) reference	 : Book 23, Hadith 5070
-        \n(deprecated numbering scheme)</u></string>
+        \n(deprecated numbering scheme)</string>
 
 
     <string name="drinkmilkTitle">Dodh Peeny kiَُُُِْ</string>
@@ -1084,7 +1084,6 @@ O Allah, whomever you give life from among us give him life in Islam, and whomev
     </string>
 
 
-
     <string name="namaz_istkhara_title">Namaz-e-Istkhara</string>
     <string name="namaz_istkhara_info">
 اگر کوئی شخص کسی جائز کام کے کرنے یا نہ کرنے کا فیصلہ کرنا چاہتا ہو تو دو رکعت نمازِ استخارہ پڑھے۔ ان دو رکعات میں سے پہلی رکعت میں سورۃ الکافرون اور دوسری رکعت میں سورۃ الاخلاص پڑھے۔ پھر درج ذیل دعا پڑھے:    </string>
@@ -1117,7 +1116,6 @@ O Allah, whomever you give life from among us give him life in Islam, and whomev
     <string name="namaz_Taheyat_Masjid_ref">
 بخاری نے کتاب الصلوۃ، کتاب التہجد اور مسلم نے کتاب صلوۃ المسافرین میں حضرت قتادہ صلی اللہ علیہ وآلہ وسلم سے روایت کیا ہے کہ حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم نے فرمایا: جو شخص مسجد میں داخل ہو تو اسے چاہیے کہ بیٹھنے سے پہلے دو رکعت نماز پڑھ لے۔
     </string>
-
 
 
     <string name="namaz_istasqa_title">Namaz-e-Istasqa</string>
@@ -1162,7 +1160,7 @@ O Allah, whomever you give life from among us give him life in Islam, and whomev
 
 
     ///////////////////////////////////END//////////////////////////////////////////
-////////////////////////////DUA_MOHSIN/////////////////////////////
+    ////////////////////////////DUA_MOHSIN/////////////////////////////
     //////////////////AfterDrinkingMilk/////////////
     <string name="AfterDrinkingMilkTitleenglish">Dua After Drinking Milk </string>
     <string name="AfterdrinkingMilkTitleUrdu">دودھ پینے کے بعد کی دعا</string>
@@ -1378,25 +1376,25 @@ there will be resurrection after death.</string>
 
 پھر رفع یدین کے ساتھ تکبیر تحریمہ کرکے زیرِ ناف ہاتھ باندھ لے اور یہ ثنا پڑھے:</string>
 
-    <string name ="Hath_Baand_kr_SanaaParhy">سُبْحَانَکَ اللّٰهُمَّ وَبِحَمْدِکَ، وَتَبَارَکَ اسْمُکَ وَتَعَالٰی جَدُّکَ، وَجَلَّ ثَنَآئُکَ وَلَآ اِلٰهَ غَيْرُکَ</string>
+    <string name="Hath_Baand_kr_SanaaParhy">سُبْحَانَکَ اللّٰهُمَّ وَبِحَمْدِکَ، وَتَبَارَکَ اسْمُکَ وَتَعَالٰی جَدُّکَ، وَجَلَّ ثَنَآئُکَ وَلَآ اِلٰهَ غَيْرُکَ</string>
     <string name="Dosri_Taqbeer_Hath_Uthae_Baghair_DaroodParhy">دوسری تکبیر ہاتھ اٹھائے بغیر کہے اور یہ درود پاک پڑھے</string>
-    <string name= "dosriTaqbeer">اَللّٰهُمَّ صَلِّ عَلٰی مُحَمَّدٍ وَّعَلٰی آلِ مُحَمَّدٍ، کَمَا صَلَّيْتَ وَسَلَّمْتَ وَبَارَکْتَ وَرَحِمْتَ وَتَرَحَّمْتَ عَلٰی اِبْرَاهِيْمَ وَعَلٰی آلِ اِبْرَاهِيْمَ، اِنَّکَ حَمِيْدٌ مَّجِيْدٌ
+    <string name="dosriTaqbeer">اَللّٰهُمَّ صَلِّ عَلٰی مُحَمَّدٍ وَّعَلٰی آلِ مُحَمَّدٍ، کَمَا صَلَّيْتَ وَسَلَّمْتَ وَبَارَکْتَ وَرَحِمْتَ وَتَرَحَّمْتَ عَلٰی اِبْرَاهِيْمَ وَعَلٰی آلِ اِبْرَاهِيْمَ، اِنَّکَ حَمِيْدٌ مَّجِيْدٌ
 </string>
 
-    <string name ="Mard_o_Aurat_k_janaza_mae_DuaTitle">پھر ہاتھ اٹھائے بغیر تیسری تکبیر کہے، میت اور تمام مسلمانوں کے لیے دعائے مغفرت کرے۔ بالغ مرد و عورت دونوں کی نمازِ جنازہ میں یہ دعا پڑھے
+    <string name="Mard_o_Aurat_k_janaza_mae_DuaTitle">پھر ہاتھ اٹھائے بغیر تیسری تکبیر کہے، میت اور تمام مسلمانوں کے لیے دعائے مغفرت کرے۔ بالغ مرد و عورت دونوں کی نمازِ جنازہ میں یہ دعا پڑھے
 </string>
-    <string name ="DuaforMardoAuratkjanaza">اَللّٰهُمَّ اغْفِرْ لِحَيِنَا وَمَيِتِنَا، وَشَاهِدِنَا وَغَائِبِنَا، وَصَغِيْرِنَا وَکَبِيْرِنَا، وَذَکَرِنَا وَاُنْثَانَا. اَللّٰهُمَّ مَنْ اَحْيَيْتَهُ مِنَّا فَاَحْيِهِ عَلَی الْاِسْلَامِ، وَمَنْ تَوَفَّيْتَهُ مِنَّا فَتَوَفَّهُ عَلَی اَ لْاِيْمَانِ</string>
-    <string name ="DuaforMardoAuratkjanazaUrdu">"یا اللہ! تو ہمارے زندوں کو بخش اور ہمارے مرُدوں کو، اور ہمارے حاضر لوگوں کو اور ہمارے غائب لوگوں کو اور ہمارے چھوٹوں کو اور ہمارے بڑوں کو اور ہمارے مردوں کو اور ہماری عورتوں کو۔ یا اللہ! تو ہم میں سے جس کو زندہ رکھے تو اس کو اسلام پر زندہ رکھ اور جس کو ہم میں سے موت دے تو اس کو حالتِ ایمان پر موت دے"</string>
-    <string name= "DuaforChild_BoyJanazaTitle">:اگر نابالغ لڑکے کا جنازہ ہو تو یہ دعا پڑھے
+    <string name="DuaforMardoAuratkjanaza">اَللّٰهُمَّ اغْفِرْ لِحَيِنَا وَمَيِتِنَا، وَشَاهِدِنَا وَغَائِبِنَا، وَصَغِيْرِنَا وَکَبِيْرِنَا، وَذَکَرِنَا وَاُنْثَانَا. اَللّٰهُمَّ مَنْ اَحْيَيْتَهُ مِنَّا فَاَحْيِهِ عَلَی الْاِسْلَامِ، وَمَنْ تَوَفَّيْتَهُ مِنَّا فَتَوَفَّهُ عَلَی اَ لْاِيْمَانِ</string>
+    <string name="DuaforMardoAuratkjanazaUrdu">"یا اللہ! تو ہمارے زندوں کو بخش اور ہمارے مرُدوں کو، اور ہمارے حاضر لوگوں کو اور ہمارے غائب لوگوں کو اور ہمارے چھوٹوں کو اور ہمارے بڑوں کو اور ہمارے مردوں کو اور ہماری عورتوں کو۔ یا اللہ! تو ہم میں سے جس کو زندہ رکھے تو اس کو اسلام پر زندہ رکھ اور جس کو ہم میں سے موت دے تو اس کو حالتِ ایمان پر موت دے"</string>
+    <string name="DuaforChild_BoyJanazaTitle">:اگر نابالغ لڑکے کا جنازہ ہو تو یہ دعا پڑھے
 </string>
     <string name="DuaforChildJanaza">اَللّٰهُمَّ اجْعَلْهُ لَنَا فَرَطًا وَّاجْعَلْهُ لَنَا اَجْرًا وَّذُخْرًا وَاجْعَلْهُ لَنَا شَافِعًا وَّمُشَفَّعًا</string>
     <string name="DuaforChildJanazaUrdu">"اے اللہ! اس بچہ کو ہمارے لیے منزل پر آگے پہنچانے والا بنا، اسے ہمارے لیے باعثِ اجر اور آخرت کا ذخیرہ بنا، اور اسے ہمارے حق میں شفاعت کرنے والا اور مقبولِ شفاعت بنا</string>
 
-    <string name= "DuaforChild_GirlJanazaTitle">نابالغ لڑکی کا جنازہ ہو تو یہ دعا پڑھے</string>
+    <string name="DuaforChild_GirlJanazaTitle">نابالغ لڑکی کا جنازہ ہو تو یہ دعا پڑھے</string>
 
-    <string name= "DuaforChild_GirlJanaza">اَللّٰهُمَّ اجْعَلْهَا لَنَا فَرَطاً وَّ اجْعَلْهَا لَنَا اَجْرًا وَّ ذُخْرًا وَّ اجْعَلْهَا لَنَا شَافِعَةً وَّ مُشَفَّعَةً</string>
+    <string name="DuaforChild_GirlJanaza">اَللّٰهُمَّ اجْعَلْهَا لَنَا فَرَطاً وَّ اجْعَلْهَا لَنَا اَجْرًا وَّ ذُخْرًا وَّ اجْعَلْهَا لَنَا شَافِعَةً وَّ مُشَفَّعَةً</string>
 
-    <string name= "DuaforChild_GirlJanazaurdu">’’اے اللہ! اس بچی کو ہمارے لیے منزل پر آگے پہنچانے والا بنا، اسے ہمارے لیے باعثِ اجر اور آخرت کا ذخیرہ بنا، اور اسے ہمارے حق میں شفاعت کرنے والا اور مقبولِ شفاعت بنا۔‘</string>
+    <string name="DuaforChild_GirlJanazaurdu">’’اے اللہ! اس بچی کو ہمارے لیے منزل پر آگے پہنچانے والا بنا، اسے ہمارے لیے باعثِ اجر اور آخرت کا ذخیرہ بنا، اور اسے ہمارے حق میں شفاعت کرنے والا اور مقبولِ شفاعت بنا۔‘</string>
     <string name="IfSomeoneNotRememberTheseDuasTitle">اگر کسی کو ان دعاؤں میں سے کوئی دعا یاد نہ ہو تو یہ دعا پڑھ لینی چاہیے</string>
     <string name="IfSomeoneNotRememberTheseDuas">اَللّٰهُمَّ اغْفِرْلَنَا وَلِوَالِدَيْنَا وَ لِلْمُؤْمِنِيْنَ وَالْمُؤْمِنَاتِ</string>
     <string name="IfSomeoneNotRememberTheseDuasUrdu">’’اے اللہ! تو ہمیں، ہمارے والدین اور تمام مومن مردوں اور عورتوں کو بخش دے۔‘‘</string>
@@ -1405,7 +1403,7 @@ there will be resurrection after death.</string>
     <string name="FourthTaqbeerUrdu1">پھر چوتھی تکبیر بغیر ہاتھ اٹھائے کہے اور بعد ازاں</string>
     <string name="FourthTaqbeerArbi">اَلسَّلَامُ عَلَيْکُمْ وَرَحْمَةُ اﷲِ، اَلسَّلَامُ عَلَيْکُمْ وَرَحْمَةُ اﷲِ</string>
     <string name="FourthTaqbeerUrdu2">کہتے ہوئے دائیں بائیں سلام پھیر دے ، اس کے بعد صفیں توڑ کر دعا مانگے۔</string>
-    <string name= "Note">نوٹ: جنازہ کو کاندھا دینا عبادت اور بہت اجر و ثواب کا باعث ہے۔ یہ جو مشہور ہے کہ شوہر اپنی بیوی کے جنازے کو نہ کندھا دے سکتا ہے، نہ قبر میں اتار سکتا ہے، نہ منہ دیکھ سکتا ہے۔ محض غلط ہے صرف نہلانے اور بلا حائل بدن کو ہاتھ لگانے کی ممانعت ہے۔</string>
+    <string name="Note">نوٹ: جنازہ کو کاندھا دینا عبادت اور بہت اجر و ثواب کا باعث ہے۔ یہ جو مشہور ہے کہ شوہر اپنی بیوی کے جنازے کو نہ کندھا دے سکتا ہے، نہ قبر میں اتار سکتا ہے، نہ منہ دیکھ سکتا ہے۔ محض غلط ہے صرف نہلانے اور بلا حائل بدن کو ہاتھ لگانے کی ممانعت ہے۔</string>
 
     ////////////////Namaz_e_Qasar/////////
 
@@ -1419,7 +1417,7 @@ there will be resurrection after death.</string>
     <string name="Namaz_e_QasarInSafarWasail">مسافر اگر ظہر، عصر اور عشاء کی نماز میں قصر نہ کرے اور پوری رکعات پڑھے تو وہ گنہگار ہوگا، یہ ایسے ہی ہے جیسے کوئی ظہر کی چھ رکعات فرض پڑھے تو بجائے ثواب کے اسے گناہ ہوگا۔ لیکن اگر مسافر لاعلمی میں قصر کرنا بھول گیا اور اُس نے دو کی بجائے چار رکعات پڑھ لیں اور نماز ختم ہونے سے پہلے یاد آیا اور دوسری رکعت کے آخری قعدہ میں التحیات پڑھنے کی مقدار بیٹھ گیا اور سجدہ سہو کر لیا تو اس کی دو رکعات فرض ہو جائیں گی اور دو نفل اور اگر دوسری رکعت میں نہ بیٹھا تو چاروں رکعات نفل ہوںگی، لہٰذا فرض نماز دوبارہ پڑھے گا۔</string>
     <string name="Namaz_e_QasarTareeqa">نمازِ قصر کرنے کا طریقہ حضرت ابنِ عمر رضی اللہ عنہ سے مروی ہے کہ انہوں نے حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم کے ساتھ حضر اور سفر میں نمازیں پڑھی ہیں۔ انھوںنے آپ کے ساتھ حضر میں ظہر چار رکعت پڑھی، اس کے بعد دو رکعت سنت اور سفر میں حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم کے ساتھ ظہر دو رکعت پڑھی اور اس کے بعد دو رکعت سنت ادا کی. اور (سفر میں) عصر کی نماز دو رکعت ادا کی اس کے بعد آپ نے کچھ نہ پڑھا۔ مغرب کی نماز سفر اور حضر میں تین رکعتیں ادا کیں اور آپ سفر و حضر میں مغرب کے فرائض تین سے کم ادا نہیں فرماتے تھے اور یہ دن کے وتر ہیں اور اس کے بعد دو رکعت ادا فرماتے۔ وتر اور سنتوں میں قصر نہیں۔</string>
     <string name="AyatReference">(ترمذی، السنن، کتاب ابواب الصلاة، باب ما جاء فی التطوع فی السفر، 2: 437، رقم: 552)</string>
-    <string name= "QazaNamazTareeqaDuringSafar">کسی مسافر کی دورانِ سفر اگر نمازیں قضا ہو جائیں تو گھر پہنچ کر تب بھی چار رکعات والی نمازوں کی دو دو رکعات قصر کے ساتھ قضا پڑھے اور اگر سفر سے پہلے ان میں سے کوئی نماز قضا ہوئی تو سفر کی حالت میں چار رکعات قضاء پڑھے (دونوں صورتوں میں عشاء میں تین وتر بھی پڑھے).</string>
+    <string name="QazaNamazTareeqaDuringSafar">کسی مسافر کی دورانِ سفر اگر نمازیں قضا ہو جائیں تو گھر پہنچ کر تب بھی چار رکعات والی نمازوں کی دو دو رکعات قصر کے ساتھ قضا پڑھے اور اگر سفر سے پہلے ان میں سے کوئی نماز قضا ہوئی تو سفر کی حالت میں چار رکعات قضاء پڑھے (دونوں صورتوں میں عشاء میں تین وتر بھی پڑھے).</string>
 
     /////////Namaz_e_Taraweeh///////
 
@@ -1466,7 +1464,6 @@ there will be resurrection after death.</string>
     <string name="QazaNamazKiSafarMaeAdaigi">اگر کسی کی نمازیں سفر میں قضا ہوگئیں تو گھر پہنچ کر بھی چار رکعت والی نمازوں (ظہر، عصر اور عشاء) کی دو دو رکعتیں قصر کے ساتھ قضا پڑھے۔ اور اگر سفر سے پہلے ان میں سے کوئی نماز قضا ہو گئی تھی تو سفر کی حالت میں چار رکعتیں قضا پڑھے (اور دونوں صورتوں میں عشاء کے تین وتر بھی پڑھے)۔</string>
 
 
-
     //////////////////END//////////////////////////
     ///////////////////HASANSTRINGS//////////////////////////////////////////
 
@@ -1491,7 +1488,7 @@ there will be resurrection after death.</string>
     <string name="Dua_Se_phly_ikhtmampar">سُبْحَانَ رَبِّکَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُوْنَo وَ سَلٰمٌ عَلَی الْمُرْسَلِيْنَo وَ الْحَمْدُِﷲِ رَبِّ الْعَالَمِيْنَo</string>
     <string name="Dua_Se_phly_refer"> (الصّٰفت، 37: 180.182) </string>
     <string name="Dua_Se_phly_barkaat">برکات: حضور صلی اللہ علیہ وآلہ وسلم نے فرمایا: اس وظیفہ کے کرنے والے کے گناہ اگرچہ سمندر کی جھاگ کے برابر ہی کیوں نہ ہوں بخش دیئے جاتے ہیں۔</string>
-    <string name="Dua_Se_phly_ref">مسلم، الصحيح، کتاب المساجد و مواضع الصلاة، باب استحباب الذکر بعد الصلاة، 1: 418، رقم: 597)</string>
+    <string name="Dua_Se_phly_ref">مسلم، الصحيح، کتاب المساجد و مواضع الصلاة، باب استحباب الذکر بعد الصلاة، (1: 418، رقم: 597)</string>
 
     //dua k badd//
 
@@ -1515,8 +1512,6 @@ there will be resurrection after death.</string>
     <string name="AfterDua_ayaat">فَانْقَلَبُوْا بِنِعْمَةٍ مِّنَ اﷲِ وَ فَضْلٍ لَّمْ يَمْسَسْهُمْ سُوْءٌ وَّاتَّبَعُوْا رِضْوَانَ اﷲِط وَاﷲُ ذُوْ فَضْلٍ عَظِيْمٍO</string>
 
 
-
-
     <string name="AfterDua_barkaaat">برکات: اس وظیفہ کو مستقل جاری رکھنے سے حفظ نعمت، اﷲ کے فضل و احسان میں اضافہ، دشمن سے امان، خوف و خطر سے نجات، ہدایت الٰہی، مدد و نصرت، اﷲ تعاليٰ کی رحمت اور خصوصاً رضائے الٰہی نصیب ہوتی ہے۔\n یہ اکثر اولیاء و صالحین کا وظیفہ ہے۔ خاص مشکل کے اوقات میں بھی اسے کثرت کے ساتھ پڑھا جائے۔ \nان شاء اﷲ پریشانی دور ہوگی اور نصرت الٰہی نصیب ہوگی.\n یہ وظیفہ حضرت شیخ الاسلام ڈاکٹر محمد طاہر القادری کو ان کے والد گرامی حضرت علامہ ڈاکٹر فرید الدین قادری نے عطا فرمایا اور انہیں دمشق کی جامع مسجد اُموی میں مقامِ زکریا علیہ السلام پر غیب سے ظاہر ہونے والے ایک ابدال نے عطا کیا تھا۔\n سیدنا امام جعفر صادق رضی اللہ عنہ سمیت بہت سے مشائخ و اولیاء سے بھی یہ منقول ہے۔</string>
     <string name="AfterDua_prhna">درج ذیل درود شریف سو (100) مرتبہ پڑھی:</string>
 
@@ -1529,7 +1524,7 @@ there will be resurrection after death.</string>
     <string name="AfterDua_moreforgood">اگر صبح وقت میسر نہ ہو تو دلائل الخیرات، قصیدہ بُردہ اور قصیدہ غوثیہ کے لئے بعد نمازِ مغرب یا بعد نمازِ عشاء بھی اچھا وقت ہے۔\n سہولت کے مطابق آپ وقت کا تعین کر سکتے ہیں۔</string>
 
 
-    // Namaz zohar/asar   /  /
+    // Namaz zohar/asar / /
 
     <string name="NamzaZoharAsarTitle">   Namaz e Zohar Asar </string>
     <string name="NamzaZoharAsarazkarwazaif">ظہر اور عصر کی نمازوں میں مندرجہ ذیل وظائف اور اذکار میں سے جس قدر چاہیں مقرر کر لیں:</string>
@@ -1605,8 +1600,7 @@ there will be resurrection after death.</string>
     // namaz e ishaaa k wazif//
 
 
-
-    <string name="NamzaEshaa_Title">   Namaz e Magrib </string>
+    <string name="NamzaEshaa_Title">   Namaz e Ishaa </string>
     <string name="NamzaEshaa_azkarewazaif">عشاء کی نماز میں مندرجہ ذیل وظائف اور اذکار میں سے جس قدر چاہیں مقرر کر لیں:</string>
     // dua se phly//
     <string name="NamzaEshaa_phly_DuasePhly">دُعا سے پہلے کے وظائف</string>
@@ -1620,6 +1614,8 @@ there will be resurrection after death.</string>
     <string name="NamzaEshaa_phly_attheend">دعا کے اِختتام پر یہ آیات پڑھیں:</string>
     <string name="NamzaEshaa_phly_dua">سُبْحَانَ رَبِّکَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُوْنَo وَسَلٰمٌ عَلَی الْمُرْسَلِيْنَo وَالْحَمْدُِﷲِ رَبِّ الْعَالَمِيْنَo</string>
     <string name="NamzaEshaa_phly_duaref"> (الصّٰفت، 37: 180.182)</string>
+    <string name="khali"></string>
+    <string name="khaali"></string>
 
     // dua k baad k wazaif //
     <string name="NamzaEshaa_bad_Dua_k_Bad"> Dua k Baad k Wazaif </string>
@@ -1644,7 +1640,6 @@ there will be resurrection after death.</string>
     <string name="NamzaEshaa_bad_mulk">سورۃ الملک: اگر فرصت ہو تو نمازِ عشاء کے بعد سورۃ الملک کی تلاوت کا معمول بنائیں۔</string>
     <string name="NamzaEshaa_bad_barkat">برکات:یہ سورۃ قبر کو روشن کرے گی اور مرنے کے بعد قبر میں ہر معاملے میں حفاظت، حمایت اور کفالت کرے گی.</string>
     <string name="NamzaEshaa_bad_yasin">سورۃ يٰسین: اگر فرصت ہو تو نمازِ عشاء کے بعد سورۃ يٰسین کی تلاوت کا معمول بنائیں</string>
-
 
 
     // namaz e juma///
@@ -1672,7 +1667,6 @@ there will be resurrection after death.</string>
     <string name="NamzaJuma_masail">جو چیزیںنمازمیں حرام ہیں وہ خطبہ میں بھی حرام ہیں مثلاً کھانا ، پینا، سلام وکلام کرنا یہاں تک کہ امربالمعروف کرنا۔ سب حاضر
 ین پر خطبہ سننا اور چپ رہنا فرض ہے، ہاں خطیب امر بالمعروف کرسکتا ہے۔\n خطیب نے کوئی دعائیہ کلمہ کہا تو سامعین کا ہاتھ اٹھانا یا آمین کہنا منع ہے۔ دو خطبوں کے درمیان بغیر ہاتھ اٹھائے دل میں دعا کرنا جائز ہے۔
 </string>
-
 
 
     /// namaz e eid ////..
@@ -1709,12 +1703,9 @@ n\اچھے کپڑے پہننا۔\n
 مبارک باد دینا۔\n
 </string>
 
-    <string name="NamazEid_kalmat_title">کلماتِ تکبیر</string>
-    <string name="NamazEid_kalmaat">اَﷲُ اَکْبَرُ اَﷲُ اَکْبَرُ لَآ اِلٰهَ اِلَّا اﷲُ وَاﷲُ اَکْبَرُ اَﷲُ اَکْبَرُ وَِﷲِ الْحَمْدُ.</string>
+    <string name="NamazEid_kalmat_title"></string>
+    <string name="NamazEid_kalmaat">کلماتِ تکبیر\nاَﷲُ اَکْبَرُ اَﷲُ اَکْبَرُ لَآ اِلٰهَ اِلَّا اﷲُ وَاﷲُ اَکْبَرُ اَﷲُ اَکْبَرُ وَِﷲِ الْحَمْدُ.</string>
     <string name="NamazEid_infoo">نویں ذی الحجہ کی فجرسے تیرہویں کی عصر تک ہر فرض نمازکے فوراً بعد یہی تکبیر ایک بار کہنا واجب اور\n تین بار کہنا افضل ہے۔ اسے تکبیر تشریق کہتے ہیں۔</string>
-
-
-
 
 
     /////////////////////////END//////////////////////////////////

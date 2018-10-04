@@ -26,7 +26,12 @@
         <activity android:name=".Activities.MasnoonDuaDetails" />
         <activity android:name=".Activities.Pakizgi" />
         <activity android:name=".Activities.wazaif" />
-        <activity android:name=".Activities.Namaz"></activity>
+        <activity android:name=".Activities.Namaz" />
+        <activity android:name=".Activities.Azkar" />
+        <activity android:name=".Activities.NamazFzail" />
+        <activity android:name=".Activities.AzkarBaad" />
+        <activity android:name=".Activities.BeforeAfterDua" />
+        <activity android:name=".Activities.NamazFzailBaad"></activity>
     </application>
 
 </manifest>
