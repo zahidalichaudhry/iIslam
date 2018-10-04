@@ -37,13 +37,14 @@ public class MasnoonDuaDetails extends AppCompatActivity {
         urdu.setText(Urdu);
         ref.setText(Ref);
         english.setText(English);
-
-        ref.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent myIntent = new Intent(Intent.ACTION_VIEW, Uri.parse(RefLink));
-                startActivity(myIntent);
-            }
-        });
+if (!RefLink.equals("")) {
+    ref.setOnClickListener(new View.OnClickListener() {
+        @Override
+        public void onClick(View view) {
+            Intent myIntent = new Intent(Intent.ACTION_VIEW, Uri.parse(RefLink));
+            startActivity(myIntent);
+        }
+    });
+}
     }
 }
