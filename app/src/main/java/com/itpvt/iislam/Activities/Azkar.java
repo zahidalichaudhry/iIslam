@@ -52,6 +52,9 @@ public class Azkar extends AppCompatActivity {
         title6=getResources().getString(R.string.Dua_Se_phly_refer);
         title7=getResources().getString(R.string.Dua_Se_phly_barkaat);
         title8=getResources().getString(R.string.Dua_Se_phly_ref);
+
+
+
         Title= getResources().getString(R.string.FarzNamazWazaifTitle);
         TitleUrdu=getResources().getString(R.string.DuaSePhlyTitle);
         Arbi= getResources().getString(R.string.DuaSePhly);

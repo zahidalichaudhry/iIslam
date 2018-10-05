@@ -7,7 +7,7 @@ package com.itpvt.iislam.Activities.PojoClass;
 public class AzkarAdapterBaadPojo {
 
     private  String Title, title1, title2, title3, title4,title5,title6, title7,title8,title9,title10,
-            title11,title12,title13,title14,title15,TitleUdru;
+            title11,title12,title13,title14,title15,TitleUdru,title16,title17,title18,title19,title20;
 
     private String Arbi;
     private String Urdu;
@@ -19,7 +19,7 @@ public class AzkarAdapterBaadPojo {
 
 
     public AzkarAdapterBaadPojo(String title, String TitleUdru, String arbi, String urdu, String refrence, String refrenceLink, String title1, String title2, String title3, String title4, String title5, String title6, String title7, String title8,
-                                String title9, String title10, String title11, String title12, String title13, String title14,String title15) {
+                                String title9, String title10, String title11, String title12, String title13, String title14, String title15, String title16, String title17, String title18) {
         Title = title;
         this.TitleUdru = TitleUdru;
         Arbi = arbi;
@@ -43,8 +43,53 @@ public class AzkarAdapterBaadPojo {
         this.title13 = title13;
         this.title14 = title14;
         this.title15 = title15;
+        this.title16 = title16;
+        this.title17 = title17;
+        this.title18 = title18;
+        this.title19 = title19;
+        this.title20 = title20;
 
 
+    }
+
+    public String getTitle19() {
+        return title19;
+    }
+
+    public void setTitle19(String title19) {
+        this.title19 = title19;
+    }
+
+    public String getTitle20() {
+        return title20;
+    }
+
+    public void setTitle20(String title20) {
+        this.title20 = title20;
+    }
+
+    public String getTitle16() {
+        return title16;
+    }
+
+    public void setTitle16(String title16) {
+        this.title16 = title16;
+    }
+
+    public String getTitle17() {
+        return title17;
+    }
+
+    public void setTitle17(String title17) {
+        this.title17 = title17;
+    }
+
+    public String getTitle18() {
+        return title18;
+    }
+
+    public void setTitle18(String title18) {
+        this.title18 = title18;
     }
 
     public String getTitle10() {

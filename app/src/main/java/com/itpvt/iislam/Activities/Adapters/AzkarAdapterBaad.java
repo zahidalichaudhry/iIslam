@@ -9,9 +9,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.itpvt.iislam.Activities.NamazFzail;
+import com.itpvt.iislam.Activities.NamazFzailBaad;
 import com.itpvt.iislam.Activities.PojoClass.AzkarAdapterBaadPojo;
-import com.itpvt.iislam.Activities.PojoClass.AzkarWazaifPojo;
 import com.itpvt.iislam.R;
 
 import java.util.ArrayList;
@@ -22,10 +21,10 @@ import java.util.ArrayList;
 
 public class AzkarAdapterBaad extends RecyclerView.Adapter<AzkarAdapter.MyViewHolder> {
 
-    ArrayList<AzkarWazaifPojo> arrayList = new ArrayList<>();
+    ArrayList<AzkarAdapterBaadPojo> arrayList = new ArrayList<>();
     Activity activity;
 
-    public AzkarAdapterBaad(ArrayList<AzkarWazaifPojo> arrayList, Activity activity) {
+    public AzkarAdapterBaad(ArrayList<AzkarAdapterBaadPojo> arrayList, Activity activity) {
         this.arrayList = arrayList;
         this.activity = activity;
     }
@@ -43,7 +42,7 @@ public class AzkarAdapterBaad extends RecyclerView.Adapter<AzkarAdapter.MyViewHo
         myViewHolder.Title.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(activity, NamazFzail.class);
+                Intent intent = new Intent(activity, NamazFzailBaad.class);
                 intent.putExtra("Title", arrayList.get(i).getTitle());
                 intent.putExtra("TitleUrdu", arrayList.get(i).getTitleUdru());
                 intent.putExtra("Arbi", arrayList.get(i).getArbi());
@@ -60,12 +59,18 @@ public class AzkarAdapterBaad extends RecyclerView.Adapter<AzkarAdapter.MyViewHo
                 intent.putExtra("title7", arrayList.get(i).getTitle7());
                 intent.putExtra("title8", arrayList.get(i).getTitle8());
                 intent.putExtra("title9", arrayList.get(i).getTitle9());
-                intent.putExtra("title10", arrayList.get(i).getTitle());
-                intent.putExtra("title11", arrayList.get(i).getTitle8());
-                intent.putExtra("title12", arrayList.get(i).getTitle8());
-                intent.putExtra("title13", arrayList.get(i).getTitle8());
-                intent.putExtra("title14", arrayList.get(i).getTitle8());
-                intent.putExtra("title15", arrayList.get(i).getTitle8());
+                intent.putExtra("title10", arrayList.get(i).getTitle10());
+                intent.putExtra("title11", arrayList.get(i).getTitle11());
+                intent.putExtra("title12", arrayList.get(i).getTitle12());
+                intent.putExtra("title13", arrayList.get(i).getTitle13());
+                intent.putExtra("title14", arrayList.get(i).getTitle14());
+                intent.putExtra("title15", arrayList.get(i).getTitle15());
+                intent.putExtra("title16", arrayList.get(i).getTitle16());
+                intent.putExtra("title17", arrayList.get(i).getTitle17());
+                intent.putExtra("title18", arrayList.get(i).getTitle18());
+                intent.putExtra("title19", arrayList.get(i).getTitle19());
+                intent.putExtra("title20", arrayList.get(i).getTitle20());
+
 
 
                 activity.startActivity(intent);

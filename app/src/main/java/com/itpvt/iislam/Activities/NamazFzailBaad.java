@@ -15,7 +15,7 @@ public class NamazFzailBaad extends AppCompatActivity {
     String Urdu;
 
     String Ref;
-    String RefLink,titlee1, titlee3,titlee4,titlee5,titlee6,titlee8,titlee2,titlee7,titlee9,titlee10,titlee11,titlee12,titlee13,titlee14;
+    String RefLink,titlee1, titlee3,titlee4,titlee5,titlee17,titlee20,titlee21,titlee18,titlee19,titlee6,titlee8,titlee15,titlee2,titlee16,titlee7,titlee9,titlee10,titlee11,titlee12,titlee13,titlee14;
     TextView title1;
     TextView title2;
     TextView title3;
@@ -23,7 +23,7 @@ public class NamazFzailBaad extends AppCompatActivity {
     TextView title5;
     TextView title6;
     TextView title7;
-    TextView title8,title9,title10,title11,title12,title13,title14,title15;
+    TextView title8,title9,title10,title11,title12,title13,title14,title15,title16,title17,title18,title19,title20;
     TextView title,arbi,ref,urdu;
     TextView titleurdu;
     @Override
@@ -54,6 +54,11 @@ public class NamazFzailBaad extends AppCompatActivity {
         title13=(TextView)findViewById(R.id.title13);
         title14=(TextView)findViewById(R.id.title14);
         title15=(TextView)findViewById(R.id.title15);
+        title16=(TextView)findViewById(R.id.title16);
+        title17=(TextView)findViewById(R.id.title17);
+        title18=(TextView)findViewById(R.id.title18);
+        title19=(TextView)findViewById(R.id.title19);
+        title20=(TextView)findViewById(R.id.title20);
 
 
         Intent intent = getIntent();
@@ -71,7 +76,22 @@ public class NamazFzailBaad extends AppCompatActivity {
         titlee5=intent.getStringExtra("title5");
         titlee6=intent.getStringExtra("title6");
         titlee7=intent.getStringExtra("title7");
-        titlee8=intent.getStringExtra("title8");
+        titlee9=intent.getStringExtra("title8");
+        titlee10=intent.getStringExtra("title9");
+        titlee11=intent.getStringExtra("title10");
+        titlee12=intent.getStringExtra("title11");
+        titlee13=intent.getStringExtra("title12");
+        titlee14=intent.getStringExtra("title13");
+        titlee15=intent.getStringExtra("title14");
+        titlee16=intent.getStringExtra("title15");
+        titlee17=intent.getStringExtra("title16");
+        titlee18=intent.getStringExtra("title17");
+        titlee19=intent.getStringExtra("title18");
+        titlee20=intent.getStringExtra("title19");
+        titlee21=intent.getStringExtra("title20");
+
+
+
 
 
 
@@ -93,6 +113,18 @@ public class NamazFzailBaad extends AppCompatActivity {
         title7.setText(titlee6);
         title8.setText(titlee7);
         title9.setText(titlee8);
+        title10.setText(titlee9);
+        title11.setText(titlee10);
+        title12.setText(titlee11);
+        title13.setText(titlee12);
+        title14.setText(titlee13);
+        title15.setText(titlee14);
+        title16.setText(titlee15);
+        title17.setText(titlee16);
+        title18.setText(titlee17);
+        title19.setText(titlee18);
+        title20.setText(titlee19);
+
 
 
     }
