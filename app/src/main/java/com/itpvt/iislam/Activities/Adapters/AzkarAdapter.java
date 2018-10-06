@@ -18,10 +18,6 @@ import com.itpvt.iislam.R;
 
 import java.util.ArrayList;
 
-/**
- * Created by Hassan on 10/4/2018.
- */
-
 public class AzkarAdapter extends RecyclerView.Adapter<AzkarAdapter.MyViewHolder>{
     ArrayList<AzkarWazaifPojo> arrayList= new ArrayList<>();
     Activity activity;

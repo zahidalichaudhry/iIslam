@@ -137,11 +137,11 @@ public class Azkar extends AppCompatActivity {
 
         title1=getResources().getString(R.string.NamzaJuma_sharat_follo);
         title2=getResources().getString(R.string.NamzaJuma_sharaat);
-        title3=getResources().getString(R.string.NamzaJuma_masail_title);
-        title4=getResources().getString(R.string.NamzaJuma_masail);
-        title5=getResources().getString(R.string.khali);
+        title3=getResources().getString(R.string.khali);
+        title4=getResources().getString(R.string.khali);
+        title5=getResources().getString(R.string.NamzaJuma_masail_title);
         title6=getResources().getString(R.string.khali);
-        title7=getResources().getString(R.string.khaali);
+        title7=getResources().getString(R.string.NamzaJuma_masail);
         title8=getResources().getString(R.string.khali);
 
 

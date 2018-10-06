@@ -31,7 +31,11 @@
         <activity android:name=".Activities.NamazFzail" />
         <activity android:name=".Activities.AzkarBaad" />
         <activity android:name=".Activities.BeforeAfterDua" />
-        <activity android:name=".Activities.NamazFzailBaad"></activity>
+        <activity android:name=".Activities.NamazFzailBaad" />
+        <activity android:name=".Activities.FarazNamaz" />
+        <activity android:name=".Activities.FarazN" />
+        <activity android:name=".Activities.NafaliNamaz" />
+        <activity android:name=".Activities.NafliNamazG"></activity>
     </application>
 
 </manifest>

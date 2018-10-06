@@ -10,7 +10,7 @@ import com.itpvt.iislam.R;
 
 public class Namaz extends AppCompatActivity {
 
-    TextView farz, masnoon, azkar;
+    TextView farz, nafli, azkar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,13 +19,15 @@ public class Namaz extends AppCompatActivity {
 
 
         farz=(TextView) findViewById(R.id.qurani);
-        masnoon=(TextView) findViewById(R.id.masnoon);
+        nafli=(TextView) findViewById(R.id.masnoon);
         azkar=(TextView) findViewById(R.id.azkar);
 
         farz.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
+Intent i= new Intent(Namaz.this,FarazN.class);
+startActivity(i);
 
 
 
@@ -33,9 +35,14 @@ public class Namaz extends AppCompatActivity {
         });
 
 
-        masnoon.setOnClickListener(new View.OnClickListener() {
+        nafli.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
+
+                Intent i= new Intent(Namaz.this,NafaliNamaz.class);
+                startActivity(i);
+
 
             }
         });
