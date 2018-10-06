@@ -15,7 +15,7 @@ import java.util.ArrayList;
 
 public class wazaif extends AppCompatActivity {
     ArrayList<MasnoonDuaPoji> arrayList=new ArrayList<>();
-    String Title,Arbi,Urdu,English,Ref,RefLink;
+    String Title,TitleUrdu,Arbi,Urdu,English,Ref,RefLink;
     RecyclerView recyclerView;
     TitleAdapter adapter;
     RecyclerView.LayoutManager layoutManager;
@@ -27,12 +27,7 @@ public class wazaif extends AppCompatActivity {
 
         setContentView(R.layout.activity_wazaif);
 
-        Title= " ";
-        Arbi=" ";
-        Urdu=" ";
-        English=" ";
-        Ref= " ";
-        RefLink=" ";
+
 
         recyclerView=(RecyclerView)findViewById(R.id.quran_recycler);
         layoutManager=new GridLayoutManager(this,1);
@@ -40,27 +35,44 @@ public class wazaif extends AppCompatActivity {
         recyclerView.setHasFixedSize(true);
 
         Title= getResources().getString(R.string.daroodibrahimTitle);
+        TitleUrdu=" ";
+        Urdu=" ";
+        Ref= " ";
+        RefLink=" ";
         Arbi= getResources().getString(R.string.daroodibrahimarbi);
+
         English=getResources().getString(R.string.daroodibrahimenglish);
         arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
 
-        Title= getResources().getString(R.string.daroodtajTitle);
-        Arbi= getResources().getString(R.string.daroodtajarbi);
-        English=getResources().getString(R.string.darooditajenglish);
-        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+//        Title= getResources().getString(R.string.daroodtajTitle);
+//        Arbi= getResources().getString(R.string.daroodtajarbi);
+//        English=getResources().getString(R.string.darooditajenglish);
+//        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
 
         Title= getResources().getString(R.string.janzeTitle);
+        TitleUrdu=" ";
+        Urdu=" ";
+        Ref= " ";
+        RefLink=" ";
         Arbi= getResources().getString(R.string.janzearbi);
         English=getResources().getString(R.string.janzeenglish);
         arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
 
         Title= getResources().getString(R.string.imanMufalTitle);
+        TitleUrdu=" ";
+        English=getResources().getString(R.string.TheSummaryDeclarationofFaith);
+        Ref= " ";
+        RefLink=" ";
         Arbi= getResources().getString(R.string.imanMufalarbi);
         Urdu=getResources().getString(R.string.imanMufalurdu);
         arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
 
         Title= getResources().getString(R.string.imanMujamalTitle);
         Arbi= getResources().getString(R.string.imanMujamalarbi);
+        TitleUrdu=" ";
+        English=getResources().getString(R.string.IMAN_E_MUFASSILEnglish);
+        Ref= " ";
+        RefLink=" ";
         Urdu=getResources().getString(R.string.imanMujamalurdu);
         arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
 
@@ -68,6 +80,53 @@ public class wazaif extends AppCompatActivity {
         Arbi= getResources().getString(R.string.daroodtanjilaTarbi);
 //        Urdu=getResources().getString(R.string.imanMujamalurdu);
         arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+
+
+        Title= getResources().getString(R.string.namaz_dua_ast);
+        Arbi= getResources().getString(R.string.namaz_dua_ast_arbi);
+        TitleUrdu=" ";
+        English=" ";
+        Ref= " ";
+        RefLink=" ";
+        Urdu=getResources().getString(R.string.namaz_dua_ast_urdu);
+        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+
+        Title= getResources().getString(R.string.namaz_dua_awal);
+        Arbi= getResources().getString(R.string.namaz_dua_awal_arbi);
+        Urdu=getResources().getString(R.string.namaz_dua_awal_urdu);
+        TitleUrdu=" ";
+        English=" ";
+        Ref= " ";
+        RefLink=" ";
+        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+
+        Title= getResources().getString(R.string.namaz_dua_Dom);
+        Arbi= getResources().getString(R.string.namaz_dua_Dom_arbi);
+        Urdu=getResources().getString(R.string.namaz_dua_Dom_urdu);
+        TitleUrdu=" ";
+        English=" ";
+        Ref= " ";
+        RefLink=" ";
+        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+
+        Title= getResources().getString(R.string.namaz_Zikar_awal);
+        Arbi= getResources().getString(R.string.namaz_Zikar_awal_info);
+        Urdu=getResources().getString(R.string.namaz_Zikar_awal_arbi);
+        TitleUrdu=" ";
+        English=getResources().getString(R.string.namaz_Zikar_awal_urdu);
+        Ref= " ";
+        RefLink=" ";
+        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+
+        Title= getResources().getString(R.string.namaz_Zikar_Dom);
+        Arbi= getResources().getString(R.string.namaz_Zikar_Dom_arbi);
+        Urdu=getResources().getString(R.string.namaz_Zikar_Dom_urdu);
+        TitleUrdu=" ";
+        English=" ";
+        Ref= " ";
+        RefLink=" ";
+        arrayList.add(new MasnoonDuaPoji(Title,Arbi,Urdu,English,Ref,RefLink));
+
 
         adapter=new TitleAdapter(arrayList,wazaif.this);
         recyclerView.setAdapter(adapter);

@@ -7,28 +7,48 @@
     android:background="@color/transparent"
     android:layout_height="wrap_content">
 
+    <!--<Button-->
+        <!--android:id="@+id/transEnglish"-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="English Translation"-->
+        <!--android:background="@drawable/froziback"-->
+        <!--android:padding="10dp"-->
+        <!--app:layout_constraintEnd_toEndOf="@+id/arbi"-->
+        <!--app:layout_constraintTop_toBottomOf="@+id/arbi" />-->
+
+    <!--<Button-->
+        <!--android:id="@+id/transurdu"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Urdu TRanslation"-->
+        <!--android:padding="10dp"-->
+        <!--android:background="@drawable/button_back"-->
+        <!--app:layout_constraintStart_toStartOf="@+id/arbi"-->
+        <!--app:layout_constraintTop_toBottomOf="@+id/arbi" />-->
+
     <TextView
         android:id="@+id/arbi"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
+        android:background="@drawable/black_border"
         android:gravity="start"
         android:hint="Arbi"
-        android:padding="5dp"
-        android:textColorHint="@color/white"
-        android:paddingLeft="20dp"
-        android:paddingStart="20dp"
+        android:paddingBottom="10dp"
+        android:paddingEnd="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="10dp"
         android:textColor="@color/white"
-        android:background="@drawable/black_border"
+        android:textColorHint="@color/white"
         android:textSize="20sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/urdu"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -40,10 +60,15 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="5dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/button_back"
         android:gravity="start"
         android:hint="Urdu"
         android:padding="5dp"
+        android:paddingBottom="10dp"
+        android:paddingEnd="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="10dp"
         android:textColor="@color/black"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -57,18 +82,27 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:hint="English"
+        android:paddingRight="10dp"
+        android:paddingEnd="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="20dp"
+        android:paddingStart="20dp"
+        android:background="@drawable/froziback"
         android:gravity="start"
         android:textSize="20sp"
         android:padding="5dp"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         app:layout_constraintEnd_toEndOf="@+id/urdu"
         app:layout_constraintStart_toStartOf="@+id/urdu"
         app:layout_constraintTop_toBottomOf="@+id/urdu" />
 
     <LinearLayout
+        android:id="@+id/linearLayout2"
         android:layout_width="match_parent"
         android:layout_height="2dp"
-        android:background="@color/black"
+        android:layout_marginTop="2dp"
+        android:background="@color/yellow"
         android:orientation="vertical"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
