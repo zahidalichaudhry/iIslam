@@ -31,12 +31,37 @@ public class MasnoonDuaDetails extends AppCompatActivity {
         Ref=intent.getStringExtra("Ref");
         RefLink=intent.getStringExtra("RefLink");
 
+        if (!Title.equals(" "))
+        {
+            title.setText(Title);
+            title.setVisibility(View.VISIBLE);
+        }
+        if (!Arbi.equals(" "))
+        {
+            arbi.setText(Arbi);
+            arbi.setVisibility(View.VISIBLE);
+        }
+        if (!Urdu.equals(" "))
+        {
+            urdu.setText(Urdu);
+            urdu.setVisibility(View.VISIBLE);
+        }
+        if (!Ref.equals(" "))
+        {
+            ref.setText(Ref);
+            ref.setVisibility(View.VISIBLE);
+        }
+        if (!English.equals(" "))
+        {
+            english.setText(English);
+            english.setVisibility(View.VISIBLE);
+        }
 
-        title.setText(Title);
-        arbi.setText(Arbi);
-        urdu.setText(Urdu);
-        ref.setText(Ref);
-        english.setText(English);
+//        title.setText(Title);
+//        arbi.setText(Arbi);
+//        urdu.setText(Urdu);
+//        ref.setText(Ref);
+//        english.setText(English);
 if (!RefLink.equals("")) {
     ref.setOnClickListener(new View.OnClickListener() {
         @Override

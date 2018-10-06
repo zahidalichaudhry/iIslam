@@ -1355,7 +1355,7 @@ O Allah, whomever you give life from among us give him life in Islam, and whomev
 
 
     //////////Iman e Mujmal in English//////////
-    <string name="Iman_e_MujmalinEnglishTitle">Iman e Mujmal in English</string>
+    <string name="Iman_e_MujmalinEnglishTitle">Iman e Mujmal</string>
     <string name="TheSummaryDeclarationofFaith">I solemnly believe in ALLAH with His all Names and personal Attributes and I also accept all His commandments by reciting them with tongue and believing them with hear.</string>
 
     /////////IMAN-E-MUFASSIL //////////
@@ -1606,7 +1606,7 @@ there will be resurrection after death.</string>
 
 
 
-    <string name="NamzaEshaa_Title">   Namaz e Magrib </string>
+    <string name="NamzaEshaa_Title">Namaz e Magrib </string>
     <string name="NamzaEshaa_azkarewazaif">عشاء کی نماز میں مندرجہ ذیل وظائف اور اذکار میں سے جس قدر چاہیں مقرر کر لیں:</string>
     // dua se phly//
     <string name="NamzaEshaa_phly_DuasePhly">دُعا سے پہلے کے وظائف</string>
