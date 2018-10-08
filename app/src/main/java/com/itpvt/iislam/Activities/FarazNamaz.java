@@ -18,7 +18,7 @@ public class FarazNamaz extends AppCompatActivity {
     String RefLink,titlee1,titlee2, titlee3,titlee4,titlee5;
     TextView title1;
     TextView title2;
-    TextView title3,title4,title5,title6,title7;
+    TextView title3,title4,title5,title6;
 
     TextView title,arbi,ref,urdu;
     TextView titleurdu;
