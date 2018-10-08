@@ -3,6 +3,7 @@ package com.itpvt.iislam.Activities;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.TextView;
 
 import com.itpvt.iislam.R;
@@ -17,7 +18,7 @@ public class FarazNamaz extends AppCompatActivity {
     String RefLink,titlee1,titlee2, titlee3,titlee4,titlee5;
     TextView title1;
     TextView title2;
-    TextView title3,title4,title5,title6;
+    TextView title3,title4,title5,title6,title7;
 
     TextView title,arbi,ref,urdu;
     TextView titleurdu;
@@ -40,6 +41,7 @@ public class FarazNamaz extends AppCompatActivity {
         title4=(TextView)findViewById(R.id.title4);
         title5=(TextView)findViewById(R.id.title5);
         title6=(TextView)findViewById(R.id.title6);
+
 
         Intent intent = getIntent();
         Title=intent.getStringExtra("Title");
@@ -69,6 +71,9 @@ public class FarazNamaz extends AppCompatActivity {
         title4.setText(titlee3);
         title5.setText(titlee4);
         title6.setText(titlee5);
+
+
+
 
 
 

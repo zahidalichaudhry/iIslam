@@ -47,32 +47,7 @@ public class NafliNamazAdapter  extends RecyclerView.Adapter<NafliNamazAdapter.M
                 intent.putExtra("Title", arrayList.get(i).getTitle());
                 intent.putExtra("TitleUrdu", arrayList.get(i).getTitleUdru());
                 intent.putExtra("Arbi", arrayList.get(i).getArbi());
-                intent.putExtra("Urdu", arrayList.get(i).getUrdu());
 
-                intent.putExtra("Ref", arrayList.get(i).getRefrence());
-                intent.putExtra("RefLink", arrayList.get(i).getRefrenceLink());
-                intent.putExtra("title1", arrayList.get(i).getTitle1());
-                intent.putExtra("title2", arrayList.get(i).getTitle2());
-                intent.putExtra("title3", arrayList.get(i).getTitle3());
-                intent.putExtra("title4", arrayList.get(i).getTitle4());
-                intent.putExtra("title5", arrayList.get(i).getTitle5());
-                intent.putExtra("title6", arrayList.get(i).getTitle6());
-                intent.putExtra("title7", arrayList.get(i).getTitle7());
-                intent.putExtra("title8", arrayList.get(i).getTitle8());
-                intent.putExtra("title9", arrayList.get(i).getTitle9());
-                intent.putExtra("title10", arrayList.get(i).getTitle10());
-                intent.putExtra("title11", arrayList.get(i).getTitle11());
-                intent.putExtra("title12", arrayList.get(i).getTitle12());
-                intent.putExtra("title13", arrayList.get(i).getTitle13());
-                intent.putExtra("title14", arrayList.get(i).getTitle14());
-                intent.putExtra("title15", arrayList.get(i).getTitle15());
-                intent.putExtra("title16", arrayList.get(i).getTitle16());
-                intent.putExtra("title17", arrayList.get(i).getTitle17());
-                intent.putExtra("title18", arrayList.get(i).getTitle18());
-                intent.putExtra("title19", arrayList.get(i).getTitle19());
-                intent.putExtra("title20", arrayList.get(i).getTitle20());
-                intent.putExtra("title21", arrayList.get(i).getTitle21());
-                intent.putExtra("title22", arrayList.get(i).getTitle22());
 
 
                 activity.startActivity(intent);
