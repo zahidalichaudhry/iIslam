@@ -44,18 +44,7 @@ public class AzkarAdapter extends RecyclerView.Adapter<AzkarAdapter.MyViewHolder
                 intent.putExtra("Title",arrayList.get(i).getTitle());
                 intent.putExtra("TitleUrdu",arrayList.get(i).getTitleUdru());
                 intent.putExtra("Arbi",arrayList.get(i).getArbi());
-                intent.putExtra("Urdu",arrayList.get(i).getUrdu());
 
-                intent.putExtra("Ref",arrayList.get(i).getRefrence());
-                intent.putExtra("RefLink",arrayList.get(i).getRefrenceLink());
-                intent.putExtra("title1",arrayList.get(i).getTitle1());
-                intent.putExtra("title2",arrayList.get(i).getTitle2());
-                intent.putExtra("title3",arrayList.get(i).getTitle3());
-                intent.putExtra("title4",arrayList.get(i).getTitle4());
-                intent.putExtra("title5",arrayList.get(i).getTitle5());
-                intent.putExtra("title6",arrayList.get(i).getTitle6());
-                intent.putExtra("title7",arrayList.get(i).getTitle7());
-                intent.putExtra("title8",arrayList.get(i).getTitle8());
 
 
                 activity.startActivity(intent);

@@ -55,9 +55,12 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
         android:layout_marginTop="48dp"
         android:gravity="center"
-        android:hint="TiTle"
+        android:hint="    TiTle    "
+
         android:background="@drawable/froziback"
         android:textColor="@color/red"
         android:textSize="28sp"
@@ -68,10 +71,13 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:hint="titlesec"
+            android:hint="    titlesec    "
             android:background="@drawable/black_border"
-            android:textColor="@color/red"
+            android:textColor="@color/black"
 
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+android:gravity="center"
             android:textSize="24sp"
             android:id="@+id/titlesec"/>
     <!--/>-->
@@ -83,9 +89,12 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
+
         android:layout_marginTop="40dp"
         android:gravity="center"
-        android:hint="Arbi"
+        android:hint="    TiTle    "
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
         android:background="@drawable/button_back"
         android:textColor="@color/black"
         android:textSize="22sp"
@@ -102,9 +111,12 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="24dp"
+
         android:gravity="center"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
         android:background="@drawable/black_border"
-        android:hint="Urdu"
+        android:hint="    TiTle    "
         android:textColor="@color/black"
         android:textSize="22sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -117,9 +129,17 @@
         android:id="@+id/reff"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:hint="    TiTle    "
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
 
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="24dp"
         android:background="@drawable/button_back"
         android:textColor="@color/black"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
         android:textSize="22sp"
         />
     <TextView
@@ -131,9 +151,14 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="24dp"
+
         android:background="@drawable/black_border"
         android:textColor="@color/black"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
         android:textSize="22sp"
+        android:hint="  TiTle  "
+
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/urdu" />
@@ -145,10 +170,15 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
+        android:paddingLeft="10dp"
+
+        android:paddingRight="10dp"
         android:layout_marginTop="24dp"
         android:background="@drawable/button_back"
         android:textColor="@color/black"
         android:textSize="22sp"
+        android:hint="    TiTle    "
+
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/urdu" />
@@ -159,12 +189,17 @@
             android:layout_height="wrap_content"
             android:layout_marginEnd="8dp"
             android:layout_marginLeft="8dp"
+
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
             android:layout_marginRight="8dp"
             android:layout_marginStart="8dp"
             android:layout_marginTop="24dp"
             android:background="@drawable/black_border"
             android:textColor="@color/black"
             android:textSize="22sp"
+            android:hint="    TiTle    "
+
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/urdu" />
@@ -176,14 +211,22 @@
             android:layout_marginEnd="8dp"
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
-            android:layout_marginStart="8dp"
+             android:layout_marginStart="8dp"
+            android:paddingLeft="10dp"
+
+            android:paddingRight="10dp"
             android:layout_marginTop="24dp"
             android:background="@drawable/button_back"
             android:textColor="@color/black"
             android:textSize="22sp"
+
+
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/urdu" />
+
+
+
 
         <TextView
             android:id="@+id/title5"
@@ -194,9 +237,15 @@
             android:layout_marginRight="8dp"
             android:layout_marginStart="8dp"
             android:layout_marginTop="24dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+
             android:background="@drawable/black_border"
+
             android:textColor="@color/black"
             android:textSize="22sp"
+
+
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/urdu" />
@@ -209,11 +258,13 @@
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
             android:layout_marginStart="8dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+
             android:layout_marginTop="24dp"
             android:background="@drawable/button_back"
             android:textColor="@color/black"
             android:textSize="22sp"
-            android:paddingRight="10dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/urdu" />

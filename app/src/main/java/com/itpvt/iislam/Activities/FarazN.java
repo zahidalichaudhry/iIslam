@@ -6,7 +6,6 @@ import android.os.Bundle;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
-import com.itpvt.iislam.Activities.Adapters.AzkarAdapter;
 import com.itpvt.iislam.Activities.Adapters.FarzNamazAdapter;
 import com.itpvt.iislam.Activities.PojoClass.FarzNamazPojo;
 import com.itpvt.iislam.R;
@@ -39,34 +38,38 @@ public class FarazN extends AppCompatActivity {
 
 
         Title= getResources().getString(R.string.FarzNamaz);
-        TitleUrdu=getResources().getString(R.string.irshad);
-        Arbi= getResources().getString(R.string.irshadarbi);
-        Urdu=getResources().getString(R.string.ref);
-        Ref= getResources().getString(R.string.ayat);
-        RefLink=getResources().getString(R.string.info);
+        TitleUrdu=getResources().getString(R.string.azaannn);
+        Arbi= getResources().getString(R.string.irshad);
+        Urdu=getResources().getString(R.string.irshadarbi);
+        Ref= getResources().getString(R.string.ref);
+        RefLink=getResources().getString(R.string.ayat);
 
-        title1=getResources().getString(R.string.infooo);
-        title2=getResources().getString(R.string.azan);
-        title3=getResources().getString(R.string.khali);
+        title1=getResources().getString(R.string.azaaan);
+        title2=getResources().getString(R.string.time);
+        title3=getResources().getString(R.string.orat);
+        title4=getResources().getString(R.string.info);
+        title5=getResources().getString(R.string.duaazan);
 
 
-        arrayList.add(new FarzNamazPojo(Title,TitleUrdu,Arbi,Urdu,Ref,RefLink,title1,title2,title3,title4,title5));
+        arrayList.add(new FarzNamazPojo( Title,TitleUrdu,Arbi,Urdu,Ref,RefLink,title1,title2,title3, title4, title5));
 
 
 
         Title= getResources().getString(R.string.niyyat);
         TitleUrdu=getResources().getString(R.string.niyattitle);
         Arbi= getResources().getString(R.string.niyatt);
-        Urdu=getResources().getString(R.string.nafalnamaztitle);
-        Ref= getResources().getString(R.string.nafalnamaz);
-        RefLink=getResources().getString(R.string.wajabtitle);
+        Urdu=getResources().getString(R.string.huakbar);
+        Ref= getResources().getString(R.string.nafalnamaztitle);
+        RefLink=getResources().getString(R.string.nafalnamaz);
 
-        title1=getResources().getString(R.string.wajabnamaz);
-        title2=getResources().getString(R.string.khali);
-        title3=getResources().getString(R.string.khali);
+        title1=getResources().getString(R.string.Hoabkar_);
+        title2=getResources().getString(R.string.wajabtitle);
+        title3=getResources().getString(R.string.wajabnamaz);
+        title4=getResources().getString(R.string.huuabakr);
+        title5=getResources().getString(R.string.namazzada);
 
 
-        arrayList.add(new FarzNamazPojo(Title,TitleUrdu,Arbi,Urdu,Ref,RefLink,title1,title2,title3, title4,title5));
+        arrayList.add(new FarzNamazPojo( Title,TitleUrdu,Arbi,Urdu,Ref,RefLink,title1,title2, title3,title4, title5));
 
 
 
@@ -79,11 +82,12 @@ public class FarazN extends AppCompatActivity {
         RefLink=getResources().getString(R.string.tauz);
 
         title1=getResources().getString(R.string.sorahfatihatitle);
-        title2=getResources().getString(R.string.rakooh);
+        title2=getResources().getString(R.string.surahkosr);
         title3=getResources().getString(R.string.jamaat);
+        title4=getResources().getString(R.string.farkk);
+        title5=getResources().getString(R.string.farkinfo);
 
-
-        arrayList.add(new FarzNamazPojo(Title,TitleUrdu,Arbi,Urdu,Ref,RefLink,title1,title2,title3, title4,title5));
+        arrayList.add(new FarzNamazPojo(Title,TitleUrdu,Arbi,Urdu,Ref,RefLink,title1,title2,title3,title4,title5));
 
 
 
@@ -101,7 +105,7 @@ public class FarazN extends AppCompatActivity {
         title5=getResources().getString(R.string.eshaa);
 
 
-        arrayList.add(new FarzNamazPojo(Title,TitleUrdu,Arbi,Urdu,Ref,RefLink,title1,title2,title3,title4,title5));
+        arrayList.add(new FarzNamazPojo( Title,TitleUrdu,Arbi,Urdu,Ref,RefLink,title1,title2,title3, title4, title5));
 
         adapter= new FarzNamazAdapter(arrayList,FarazN.this);
         recyclerView.setAdapter(adapter);

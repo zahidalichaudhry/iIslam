@@ -13,7 +13,7 @@ public class FarzNamazPojo {
     private String refrence;
     private String refrenceLink;
 
-    public FarzNamazPojo(String title, String TitleUdru, String arbi, String urdu, String refrence, String refrenceLink, String title1, String title2, String title3, String title4, String title5) {
+    public FarzNamazPojo(String title, String TitleUdru, String arbi, String urdu, String refrence, String refrenceLink, String title1, String title2, String title3,String title4, String title5) {
         Title = title;
         this.TitleUdru = TitleUdru;
         Arbi = arbi;
@@ -24,8 +24,8 @@ public class FarzNamazPojo {
         this.title1 = title1;
         this.title2 = title2;
         this.title3 = title3;
-        this.title4 = title4;
-        this.title5 = title5;
+        this.title4 =title4;
+        this.title5 =title5;
     }
 
     public String getTitle4() {
