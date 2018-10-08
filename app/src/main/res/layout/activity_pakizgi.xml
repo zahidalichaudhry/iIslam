@@ -39,9 +39,10 @@
         android:layout_marginTop="96dp"
         android:drawableLeft="@drawable/check"
         android:fontFamily="@font/opensans_regular"
-        android:text="Qurani"
+        android:text="Wazu"
         android:textColor="@color/black"
-        android:textSize="18sp"
+        android:textSize="20sp"
+
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.501"
@@ -56,28 +57,15 @@
         android:layout_marginBottom="8dp"
         android:drawableLeft="@drawable/check"
         android:fontFamily="@font/opensans_regular"
-        android:text="Masnoon"
+        android:text="Ghusal"
+
         android:textColor="@color/black"
-        android:textSize="18sp"
+        android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="@+id/qurani"
         app:layout_constraintTop_toBottomOf="@+id/qurani"
         app:layout_constraintVertical_bias="0.08" />
 
-    <TextView
-        android:id="@+id/azkar"
-        android:layout_width="wrap_content"
-        android:layout_height="27dp"
-        android:layout_marginBottom="8dp"
 
-        android:drawableLeft="@drawable/check"
-        android:fontFamily="@font/opensans_regular"
-        android:text="Azkar and Wazaif"
-        android:textColor="@color/black"
-        android:textSize="18sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="@+id/qurani"
-        app:layout_constraintTop_toBottomOf="@+id/masnoon"
-        app:layout_constraintVertical_bias="0.099" />
 
 </android.support.constraint.ConstraintLayout>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/iislammustard"
+    tools:context="com.itpvt.iislam.GhusalDetail">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:src="@drawable/back2a"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="0dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="92dp"
+        android:src="@drawable/bismillah"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!--<ScrollView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="0dp"-->
+    <!--android:layout_marginBottom="8dp"-->
+    <!--android:layout_marginEnd="30dp"-->
+    <!--android:layout_marginLeft="30dp"-->
+    <!--android:layout_marginRight="30dp"-->
+    <!--android:layout_marginStart="30dp"-->
+    <!--android:layout_marginTop="30dp"-->
+    <!--app:layout_constraintBottom_toBottomOf="@+id/imageView2"-->
+    <!--app:layout_constraintEnd_toEndOf="parent"-->
+    <!--app:layout_constraintHorizontal_bias="0.0"-->
+    <!--app:layout_constraintStart_toStartOf="parent"-->
+    <!--app:layout_constraintTop_toBottomOf="@+id/imageView3"-->
+    <!--app:layout_constraintVertical_bias="0.0">-->
+
+
+    <TextView
+        android:id="@+id/tareeqa"
+        android:layout_width="0dp"
+        android:layout_height="49dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="80dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/black_border"
+        android:fontFamily="@font/opensans_regular"
+        android:text="   Ghusal ka Tareeqa   "
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView3"
+        app:layout_constraintVertical_bias="0.1" />
+
+    <TextView
+        android:id="@+id/faraiz"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="80dp"
+        android:background="@drawable/black_border"
+        android:fontFamily="@font/opensans_regular"
+        android:text="      Ghuzal K  Faraiz        "
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/tareeqa"
+        app:layout_constraintTop_toBottomOf="@+id/tareeqa"
+        app:layout_constraintVertical_bias="0.032"
+        android:layout_marginRight="80dp" />
+
+    <TextView
+        android:id="@+id/soraty"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="80dp"
+        android:background="@drawable/black_border"
+        android:fontFamily="@font/opensans_regular"
+        android:text="            Farziyat Ki soraty            "
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/tareeqa"
+        app:layout_constraintTop_toBottomOf="@+id/faraiz"
+        app:layout_constraintVertical_bias="0.032"
+        android:layout_marginRight="80dp" />
+
+    <TextView
+        android:id="@+id/masnoon"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="80dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/black_border"
+        android:fontFamily="@font/opensans_regular"
+        android:text="        Ghusal-e-Masnoon       "
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/tareeqa"
+        app:layout_constraintTop_toBottomOf="@+id/soraty"
+        tools:ignore="MissingConstraints"
+        android:layout_marginRight="80dp" />
+
+    <TextView
+        android:id="@+id/mustehbat"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="80dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/black_border"
+        android:fontFamily="@font/opensans_regular"
+        android:text="     Ghusal K Mustehbat     "
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/tareeqa"
+        app:layout_constraintTop_toBottomOf="@+id/masnoon"
+        tools:ignore="MissingConstraints"
+        android:layout_marginRight="80dp" />
+
+    <TextView
+        android:id="@+id/masail"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="80dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/black_border"
+        android:fontFamily="@font/opensans_regular"
+        android:text="  Ghusal K Masail "
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/tareeqa"
+        app:layout_constraintTop_toBottomOf="@+id/mustehbat"
+        tools:ignore="MissingConstraints"
+        android:layout_marginRight="80dp" />
+
+    <TextView
+        android:id="@+id/taimm"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="80dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/black_border"
+        android:fontFamily="@font/opensans_regular"
+        android:text="         Saiil-e-Taimm       "
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/tareeqa"
+        app:layout_constraintTop_toBottomOf="@+id/masail"
+        tools:ignore="MissingConstraints"
+        android:layout_marginRight="80dp" />
+
+    <!--<TextView-->
+        <!--android:id="@+id/amoor"-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="35dp"-->
+        <!--android:layout_marginEnd="80dp"-->
+        <!--android:layout_marginTop="8dp"-->
+        <!--android:background="@drawable/black_border"-->
+        <!--android:fontFamily="@font/opensans_regular"-->
+        <!--android:text="            Amoor            "-->
+        <!--android:textAlignment="center"-->
+        <!--android:textColor="@color/black"-->
+        <!--android:textSize="18sp"-->
+        <!--app:layout_constraintEnd_toEndOf="parent"-->
+        <!--app:layout_constraintStart_toStartOf="@+id/qurani"-->
+        <!--app:layout_constraintTop_toBottomOf="@+id/makrohat"-->
+        <!--tools:ignore="MissingConstraints"-->
+        <!--android:layout_marginRight="80dp" />-->
+
+    <!--<TextView-->
+        <!--android:id="@+id/masail"-->
+        <!--android:layout_width="0dp"-->
+        <!--android:layout_height="35dp"-->
+        <!--android:layout_marginEnd="80dp"-->
+        <!--android:layout_marginStart="80dp"-->
+        <!--android:layout_marginTop="12dp"-->
+        <!--android:background="@drawable/black_border"-->
+        <!--android:fontFamily="@font/opensans_regular"-->
+        <!--android:text="            Masail             "-->
+        <!--android:textAlignment="center"-->
+        <!--android:textColor="@color/black"-->
+
+        <!--android:textSize="18sp"-->
+        <!--app:layout_constraintEnd_toEndOf="parent"-->
+        <!--app:layout_constraintStart_toStartOf="parent"-->
+        <!--app:layout_constraintTop_toBottomOf="@+id/amoor"-->
+        <!--tools:ignore="MissingConstraints" />-->
+
+</android.support.constraint.ConstraintLayout>
