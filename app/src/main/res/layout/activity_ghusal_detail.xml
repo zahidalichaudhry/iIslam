@@ -57,7 +57,7 @@
         android:background="@drawable/black_border"
         android:fontFamily="@font/opensans_regular"
         android:text="Tareeqa                "
-
+android:gravity="center"
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textSize="22sp"
@@ -79,7 +79,7 @@
         android:fontFamily="@font/opensans_regular"
         android:text="Faraiz                    "
         android:textAlignment="center"
-
+android:gravity="center"
         android:textColor="@color/white"
         android:textSize="22sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -100,7 +100,7 @@
         android:fontFamily="@font/opensans_regular"
         android:text="Farziyat Ki soraty"
         android:textAlignment="center"
-
+android:gravity="center"
         android:textColor="@color/white"
         android:textSize="22sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -121,7 +121,7 @@
         android:fontFamily="@font/opensans_regular"
         android:text="Masnoon              "
         android:textAlignment="center"
-
+android:gravity="center"
         android:textColor="@color/white"
         android:textSize="22sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -141,7 +141,7 @@
         android:fontFamily="@font/opensans_regular"
         android:text="Mustehbat           "
         android:textAlignment="center"
-
+android:gravity="center"
         android:textColor="@color/white"
         android:textSize="22sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -160,7 +160,7 @@
         android:fontFamily="@font/opensans_regular"
         android:text="Masail                   "
         android:textAlignment="center"
-
+android:gravity="center"
         android:textColor="@color/white"
         android:textSize="22sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -178,7 +178,7 @@
         android:background="@drawable/black_border"
         android:fontFamily="@font/opensans_regular"
         android:text="Saiil-e-Taimm      "
-
+android:gravity="center"
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textSize="22sp"
