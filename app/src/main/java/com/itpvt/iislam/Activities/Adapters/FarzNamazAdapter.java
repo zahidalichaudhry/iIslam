@@ -52,7 +52,6 @@ public class FarzNamazAdapter extends RecyclerView.Adapter<FarzNamazAdapter.MyVi
                 intent.putExtra("TitleUrdu", arrayList.get(i).getTitleUdru());
                 intent.putExtra("Arbi", arrayList.get(i).getArbi());
                 intent.putExtra("Urdu", arrayList.get(i).getUrdu());
-
                 intent.putExtra("Ref", arrayList.get(i).getRefrence());
                 intent.putExtra("RefLink", arrayList.get(i).getRefrenceLink());
                 intent.putExtra("title1", arrayList.get(i).getTitle1());

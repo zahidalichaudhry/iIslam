@@ -26,7 +26,7 @@ public class NafliNamazG extends AppCompatActivity {
         setContentView(R.layout.activity_nafli_namaz_g);
 
 
-        title=(TextView)findViewById(R.id.title1);
+        title=(TextView)findViewById(R.id.titleee1);
         titleurdu=(TextView) findViewById(R.id.titlesec1);
         //  titleurdu=(TextView)findViewById(R.id.titleurdu);
         arbi=(TextView)findViewById(R.id.arbi1);
