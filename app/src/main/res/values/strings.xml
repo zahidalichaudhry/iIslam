@@ -1929,7 +1929,7 @@ there will be resurrection after death.</string>
     //////////////////// Faraz Namaz//////////////////
 <string name="azaannn"
 >اذان </string>    <string name="FarzNamaz">Azaan</string>
-    <string name="irshad">ِرشادِ باری تعاليٰ ہے:</string>
+    <string name="irshad">اِرشادِ باری تعاليٰ ہے:</string>
     <string name="irshadarbi">وَاِذَا نَادَيْتُمْ اِلَی الصَّلٰوةِ.</string>
     <string name="ref">(المائدة، 5:58)</string>
     <string name="ayat">’’اور جب تم نماز کے لیے (لوگوں کو بہ صور تِ اذان) پکارتے ہو۔ ‘‘</string>
@@ -2100,7 +2100,7 @@ there will be resurrection after death.</string>
 
 
     <string name="asartitle"> عصر    </string>
-    <string name="asar">    کل رکعتیں: \n08
+    <string name="asar"> \n   کل رکعتیں: \n08
 
 4 سنت غیر مؤکدہ\n
 4 فرض\n
@@ -2118,7 +2118,7 @@ there will be resurrection after death.</string>
 
     <string name="eshaatitle">عشاء</string>
     <string name="eshaa">
-
+\n
 4سنت غیر مؤکدہ\n
 4 فرض\n
 2سنت مؤکدہ\n
