@@ -61,9 +61,13 @@
                 android:background="@drawable/black_border"
                 android:gravity="center"
                 android:hint="TiTle"
+                android:fontFamily="@font/opensans_regular"
+
                 android:textColor="@color/white"
                 android:textSize="28sp"
                 android:paddingLeft="15dp"
+
+
                 android:paddingRight="15dp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
@@ -106,6 +110,8 @@
                 android:paddingRight="15dp"
                 android:textSize="24sp"
                 android:gravity="center"
+                android:fontFamily="@font/opensans_regular"
+
                 android:textColor="@color/white"
                 android:id="@+id/titlesec"/>
                <!--/>-->
@@ -120,11 +126,14 @@
                 android:layout_marginTop="40dp"
                 android:layout_marginBottom="10dp"
                 android:gravity="center"
-                android:background="@drawable/button_back"                android:hint="    Arbi    "
+                android:background="@drawable/button_back"
+                android:hint="    Arbi    "
                 android:textColor="@color/black"
                 android:textSize="22sp"
                 android:paddingLeft="15dp"
                 android:paddingRight="15dp"
+                android:fontFamily="@font/opensans_regular"
+
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/title" />

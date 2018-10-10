@@ -59,9 +59,11 @@
                 android:background="@drawable/black_border"
                 android:hint="    TiTle    "
                 android:textColor="@color/white"
-                android:paddingLeft="10dp"
-                android:paddingRight="10dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
                 android:textSize="28sp"
+                android:fontFamily="@font/opensans_regular"
+
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
@@ -100,9 +102,11 @@
                 android:background="@drawable/froziback"
                 android:textSize="24sp"
                 android:hint="    TiTle    "
-                android:paddingLeft="10dp"
+                android:paddingLeft="15dp"
                 android:textColor="@color/white"
-                android:paddingRight="10dp"
+                android:paddingRight="15dp"
+                android:fontFamily="@font/opensans_regular"
+
                 android:id="@+id/titlesec2"/>
             <!--/>-->
             <TextView
@@ -115,8 +119,8 @@
                 android:layout_marginStart="8dp"
                 android:layout_marginTop="40dp"
                 android:gravity="center"
-                android:paddingLeft="10dp"
-                android:paddingRight="10dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
                 android:background="@drawable/button_back"
                 android:textColor="@color/black"
                 android:textSize="22sp"
@@ -124,6 +128,8 @@
                 android:layout_marginBottom="10dp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
+                android:fontFamily="@font/opensans_regular"
+
                 app:layout_constraintTop_toBottomOf="@+id/title" />
 
         </LinearLayout>
