@@ -29,8 +29,8 @@
 
     <TextView
         android:id="@+id/qurani"
-        android:layout_width="111dp"
-        android:layout_height="38dp"
+        android:layout_width="133dp"
+        android:layout_height="50dp"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
@@ -39,9 +39,9 @@
 
         android:background="@drawable/black_border"
         android:gravity="center"
-        android:text="Wazu"
+        android:text="Wuzu"
         android:textColor="@color/white"
-        android:textSize="25sp"
+        android:textSize="28sp"
 
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -52,15 +52,15 @@
 
     <TextView
         android:id="@+id/masnoon"
-        android:layout_width="112dp"
-        android:layout_height="38dp"
+        android:layout_width="131dp"
+        android:layout_height="50dp"
         android:layout_marginBottom="8dp"
         android:background="@drawable/black_border"
 
         android:gravity="center"
         android:text="Ghusal"
         android:textColor="@color/white"
-        android:textSize="25sp"
+        android:textSize="28sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="@+id/qurani"
         app:layout_constraintTop_toBottomOf="@+id/qurani"
