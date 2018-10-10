@@ -10,7 +10,8 @@ import android.widget.TextView;
 public class Taimm extends AppCompatActivity {
 TextView tt;
 TextView ar;
-String Titl, Arbb;
+TextView ur;
+String Titl, Arbb, Ur;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -19,11 +20,14 @@ String Titl, Arbb;
         setContentView(R.layout.activity_taimm);
     tt=(TextView)findViewById(R.id.titleee);
     ar=(TextView)findViewById(R.id.arbb);
+    ur=(TextView)findViewById(R.id.urdu2);
         Intent intent=getIntent();
        Titl= intent.getStringExtra("Title");
         Arbb=intent.getStringExtra("Arbi");
+        Ur=intent.getStringExtra("Urdu");
         tt.setText(Titl);
         ar.setText(Arbb);
+        ur.setText(Ur);
 
 
     }

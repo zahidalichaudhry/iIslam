@@ -15,7 +15,7 @@ public class TaimmDetail extends AppCompatActivity {
     TextView text3;
     TextView text4;
     TextView text5;
-    String Titll, Arbbb;
+    String Titll, Arbbb,UrdU;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -34,9 +34,11 @@ public class TaimmDetail extends AppCompatActivity {
 
                 Titll=getResources().getString(R.string.Saiil_e_TaimmTitle);
                 Arbbb=getResources().getString(R.string.Saiil_e_Taimm);
+                UrdU=getResources().getString(R.string.Saiil_e_TaimmU);
                 Intent intent= new Intent(TaimmDetail.this,Taimm.class);
                 intent.putExtra("Title",Titll);
                 intent.putExtra("Arbi",Arbbb);
+                intent.putExtra("Urdu",UrdU);
                 startActivity(intent);
             }
         });
@@ -46,9 +48,11 @@ public class TaimmDetail extends AppCompatActivity {
             public void onClick(View v) {
                 Titll=getResources().getString(R.string.TaimmKaTareeqaTitle);
                 Arbbb=getResources().getString(R.string.TaimmKaTareeqa);
+                UrdU=getResources().getString(R.string.TaimmKaTareeqaU);
                 Intent intent= new Intent(TaimmDetail.this,Taimm.class);
                 intent.putExtra("Title",Titll);
                 intent.putExtra("Arbi",Arbbb);
+                intent.putExtra("Urdu",UrdU);
                 startActivity(intent);
             }
         });
@@ -57,9 +61,11 @@ public class TaimmDetail extends AppCompatActivity {
             public void onClick(View v) {
                 Titll=getResources().getString(R.string.TaimmKFaraizTitle);
                 Arbbb=getResources().getString(R.string.TaimmKFaraiz);
+                UrdU=getResources().getString(R.string.TaimmKFaraizU);
                 Intent intent= new Intent(TaimmDetail.this,Taimm.class);
                 intent.putExtra("Title",Titll);
                 intent.putExtra("Arbi",Arbbb);
+                intent.putExtra("Urdu",UrdU);
                 startActivity(intent);
             }
         });
@@ -68,9 +74,11 @@ public class TaimmDetail extends AppCompatActivity {
             public void onClick(View v) {
                 Titll=getResources().getString(R.string.TaimmKisunnatyTitle);
                 Arbbb=getResources().getString(R.string.TaimmKisunnaty);
+                UrdU=getResources().getString(R.string.TaimmKisunnatyU);
                 Intent intent= new Intent(TaimmDetail.this,Taimm.class);
                 intent.putExtra("Title",Titll);
                 intent.putExtra("Arbi",Arbbb);
+                intent.putExtra("Urdu",UrdU);
                 startActivity(intent);
             }
         });
@@ -79,9 +87,11 @@ public class TaimmDetail extends AppCompatActivity {
             public void onClick(View v) {
                 Titll=getResources().getString(R.string.DeegerMasailTitle);
                 Arbbb=getResources().getString(R.string.DeegerMasail);
+                UrdU=getResources().getString(R.string.DeegerMasailU);
                 Intent intent= new Intent(TaimmDetail.this,Taimm.class);
                 intent.putExtra("Title",Titll);
                 intent.putExtra("Arbi",Arbbb);
+                intent.putExtra("Urdu",UrdU);
                 startActivity(intent);
             }
         });

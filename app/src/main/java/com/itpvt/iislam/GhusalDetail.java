@@ -17,7 +17,7 @@ public class GhusalDetail extends AppCompatActivity {
     TextView textView6;
     TextView textView7;
 
-    String Titleee, Arbiiii;
+    String Titleee, Arbiiii, Uurdu;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -37,9 +37,11 @@ public class GhusalDetail extends AppCompatActivity {
 
                 Titleee=getResources().getString(R.string.GhusalKaTareeqaTitle);
                 Arbiiii=getResources().getString(R.string.GhusalKaTareeqa);
+                Uurdu=getResources().getString(R.string.GhusalKaTareeqaU);
                 Intent intent= new Intent(GhusalDetail.this,Ghusal.class);
                 intent.putExtra("Title",Titleee);
                 intent.putExtra("Arbi",Arbiiii);
+                intent.putExtra("Urduu",Uurdu);
                 startActivity(intent);
             }
         });
@@ -49,9 +51,11 @@ public class GhusalDetail extends AppCompatActivity {
             public void onClick(View v) {
                 Titleee=getResources().getString(R.string.GhusalKFaraizTitle);
                 Arbiiii=getResources().getString(R.string.GhusalKFaraiz);
+                Uurdu=getResources().getString(R.string.GhusalKFaraizU);
                 Intent intent= new Intent(GhusalDetail.this,Ghusal.class);
                 intent.putExtra("Title",Titleee);
                 intent.putExtra("Arbi",Arbiiii);
+                intent.putExtra("Urduu",Uurdu);
                 startActivity(intent);
             }
         });
@@ -60,9 +64,11 @@ public class GhusalDetail extends AppCompatActivity {
             public void onClick(View v) {
                 Titleee=getResources().getString(R.string.GhusalKiFarzyatKisoratyTitle);
                 Arbiiii=getResources().getString(R.string.GhusalKiFarzyatKisoraty);
+                Uurdu=getResources().getString(R.string.GhusalKiFarzyatKisoratyU);
                 Intent intent= new Intent(GhusalDetail.this,Ghusal.class);
                 intent.putExtra("Title",Titleee);
                 intent.putExtra("Arbi",Arbiiii);
+                intent.putExtra("Urduu",Uurdu);
                 startActivity(intent);
             }
         });
@@ -71,9 +77,11 @@ public class GhusalDetail extends AppCompatActivity {
             public void onClick(View v) {
                 Titleee=getResources().getString(R.string.Ghusal_e_MasnoonTitle);
                 Arbiiii=getResources().getString(R.string.GhusalMasnoon);
+                Uurdu=getResources().getString(R.string.GhusalMasnoonU);
                 Intent intent= new Intent(GhusalDetail.this,Ghusal.class);
                 intent.putExtra("Title",Titleee);
                 intent.putExtra("Arbi",Arbiiii);
+                intent.putExtra("Urduu",Uurdu);
                 startActivity(intent);
             }
         });
@@ -82,9 +90,11 @@ public class GhusalDetail extends AppCompatActivity {
             public void onClick(View v) {
                 Titleee=getResources().getString(R.string.GhusalMustehabTitle);
                 Arbiiii=getResources().getString(R.string.GhusalMustehab);
+                Uurdu=getResources().getString(R.string.GhusalMustehabU);
                 Intent intent= new Intent(GhusalDetail.this,Ghusal.class);
                 intent.putExtra("Title",Titleee);
                 intent.putExtra("Arbi",Arbiiii);
+                intent.putExtra("Urduu",Uurdu);
                 startActivity(intent);
             }
         });
@@ -93,9 +103,11 @@ public class GhusalDetail extends AppCompatActivity {
             public void onClick(View v) {
                 Titleee=getResources().getString(R.string.GhusalKMasaiilTitle);
                 Arbiiii=getResources().getString(R.string.GhusalKMasaiil);
+                Uurdu=getResources().getString(R.string.GhusalKMasaiilU);
                 Intent intent= new Intent(GhusalDetail.this,Ghusal.class);
                 intent.putExtra("Title",Titleee);
                 intent.putExtra("Arbi",Arbiiii);
+                intent.putExtra("Urduu",Uurdu);
                 startActivity(intent);
             }
         });

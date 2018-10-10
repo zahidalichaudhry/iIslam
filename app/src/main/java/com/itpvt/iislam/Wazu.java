@@ -10,8 +10,9 @@ import android.widget.TextView;
 public class Wazu extends AppCompatActivity {
 TextView Title;
 TextView Arbi;
+TextView Urdu;
 
-String Titlee, Arbiii;
+String Titlee, Arbiii,Urduu;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -20,13 +21,15 @@ String Titlee, Arbiii;
         setContentView(R.layout.activity_wazu);
         Title= (TextView)findViewById(R.id.title);
         Arbi= (TextView)findViewById(R.id.arbii);
+        Urdu= (TextView)findViewById(R.id.urdu);
 
         Intent intent = getIntent();
         Titlee=intent.getStringExtra("Title");
         Arbiii=intent.getStringExtra("Arbi");
+        Urduu=intent.getStringExtra("Urdu");
         Title.setText(Titlee);
 
         Arbi.setText(Arbiii);
-
+Urdu.setText(Urduu);
     }
 }

@@ -18,7 +18,7 @@ public class WazuDetail extends AppCompatActivity {
     TextView textView7;
     TextView textView8;
     TextView textView9;
-    String Titleee, Arbiiii;
+    String Titleee, Arbiiii, Urd;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -40,11 +40,13 @@ public class WazuDetail extends AppCompatActivity {
             public void onClick(View v) {
 
                 Titleee=getResources().getString(R.string.WazoTitleEngklish);
-                Arbiiii= getResources().getString(R.string.WazoTitle);
+                Arbiiii= getResources().getString(R.string.WazoTitleUrdu);
+                Urd=getResources().getString(R.string.WazoTitle);
 
                 Intent intent= new Intent(WazuDetail.this,Wazu.class);
                 intent.putExtra("Title",Titleee);
                 intent.putExtra("Arbi",Arbiiii);
+                intent.putExtra("Urdu",Urd);
                 startActivity(intent);
             }
         });
@@ -54,10 +56,13 @@ public class WazuDetail extends AppCompatActivity {
             public void onClick(View v) {
                 Titleee=getResources().getString(R.string.WazoKaTareeqaTitleEnglish);
 
-                Arbiiii= getResources().getString(R.string.WazoKaTareeqaTitle);
+                Arbiiii= getResources().getString(R.string.WazoKaTareeqaTitleUrdu);
+                Urd=getResources().getString(R.string.WazoKaTareeqaTitle);
                 Intent intent= new Intent(WazuDetail.this,Wazu.class);
+
                 intent.putExtra("Title",Titleee);
                 intent.putExtra("Arbi",Arbiiii);
+                intent.putExtra("Urdu",Urd);
                 startActivity(intent);
 
             }
@@ -68,10 +73,12 @@ public class WazuDetail extends AppCompatActivity {
 
             Titleee=getResources().getString(R.string.WazoKFaraizTitleEnglish);
 
-            Arbiiii= getResources().getString(R.string.WazoKFaraizTitle);
+            Arbiiii= getResources().getString(R.string.WazoKFaraizTitleUrdu);
+            Urd=getResources().getString(R.string.WazoKFaraizTitle);
             Intent intent= new Intent(WazuDetail.this,Wazu.class);
             intent.putExtra("Title",Titleee);
             intent.putExtra("Arbi",Arbiiii);
+            intent.putExtra("Urdu",Urd);
             startActivity(intent);
         }
     });
@@ -81,10 +88,12 @@ public class WazuDetail extends AppCompatActivity {
         public void onClick(View v) {
             Titleee=getResources().getString(R.string.WazoKisunnatyTitleEnglish);
 
-            Arbiiii= getResources().getString(R.string.WazoKisunnatyTitle);
+            Arbiiii= getResources().getString(R.string.WazoKisunnatyTitleUrdu);
+            Urd=getResources().getString(R.string.WazoKisunnatyTitle);
             Intent intent= new Intent(WazuDetail.this,Wazu.class);
             intent.putExtra("Title",Titleee);
             intent.putExtra("Arbi",Arbiiii);
+            intent.putExtra("Urdu",Urd);
             startActivity(intent);
         }
     });
@@ -95,10 +104,13 @@ public class WazuDetail extends AppCompatActivity {
 
             Titleee=getResources().getString(R.string.WazoKMustehbatTitleEnglish);
 
-            Arbiiii= getResources().getString(R.string.WazoKMustehbatTitle);
+            Arbiiii= getResources().getString(R.string.WazoKMustehbatTitleUrdu);
+            Urd=getResources().getString(R.string.WazoKMustehbatTitle);
+
             Intent intent= new Intent(WazuDetail.this,Wazu.class);
             intent.putExtra("Title",Titleee);
             intent.putExtra("Arbi",Arbiiii);
+            intent.putExtra("Urdu",Urd);
             startActivity(intent);
         }
     });
@@ -109,10 +121,12 @@ public class WazuDetail extends AppCompatActivity {
 
                 Titleee=getResources().getString(R.string.WazoKBaadkiDuaTitleEnglish);
 
-                Arbiiii= getResources().getString(R.string.WazoKBaadkiDuaTitle);
+                Arbiiii= getResources().getString(R.string.WazoKBaadkiDuaTitleUrdu);
+                Urd=getResources().getString(R.string.WazoKBaadkiDuaTitle);
                 Intent intent= new Intent(WazuDetail.this,Wazu.class);
                 intent.putExtra("Title",Titleee);
                 intent.putExtra("Arbi",Arbiiii);
+                intent.putExtra("Urdu",Urd);
                 startActivity(intent);
             }
         });
@@ -122,10 +136,12 @@ public class WazuDetail extends AppCompatActivity {
 
             Titleee=getResources().getString(R.string.WazoKMakrohatTitleenglish);
 
-            Arbiiii= getResources().getString(R.string.WazoKMakrohatTitle);
+            Arbiiii= getResources().getString(R.string.WazoKMakrohatTitleUrdu);
+            Urd=getResources().getString(R.string.WazoKMakrohatTitle);
             Intent intent= new Intent(WazuDetail.this,Wazu.class);
             intent.putExtra("Title",Titleee);
             intent.putExtra("Arbi",Arbiiii);
+            intent.putExtra("Urdu",Urd);
             startActivity(intent);
         }
     });
@@ -136,10 +152,12 @@ public class WazuDetail extends AppCompatActivity {
 
             Titleee=getResources().getString(R.string.WazoTotnyKAmoorTitleEnglish);
 
-            Arbiiii= getResources().getString(R.string.WazoTotnyKAmoorTitle);
+            Arbiiii= getResources().getString(R.string.WazoTotnyKAmoorTitleUrdu);
+            Urd=getResources().getString(R.string.WazoTotnyKAmoorTitle);
             Intent intent= new Intent(WazuDetail.this,Wazu.class);
             intent.putExtra("Title",Titleee);
             intent.putExtra("Arbi",Arbiiii);
+            intent.putExtra("Urdu",Urd);
             startActivity(intent);
         }
 
@@ -151,10 +169,12 @@ public class WazuDetail extends AppCompatActivity {
 
             Titleee=getResources().getString(R.string.WazoKMasaiilTittleEnglish);
 
-            Arbiiii= getResources().getString(R.string.WazoKMasaiilTittle);
+            Arbiiii= getResources().getString(R.string.WazoKMasaiilTittleUrdu);//WazoKMasaiilTittleUrdu
+            Urd=getResources().getString(R.string.WazoKMasaiilTittle);
             Intent intent= new Intent(WazuDetail.this,Wazu.class);
             intent.putExtra("Title",Titleee);
             intent.putExtra("Arbi",Arbiiii);
+            intent.putExtra("Urdu",Urd);
             startActivity(intent);
 
         }
